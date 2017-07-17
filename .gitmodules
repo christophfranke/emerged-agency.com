@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = https://christophfranke123@bitbucket.org/ragusescheer/fabric-deploy-script.git
