@@ -1,4 +1,6 @@
 <div class="logo">
-	<span class="emerged">emerged</span>
-	<span class="agency">agency</span>
+	<a href="<?php echo $site->url(); ?>">
+		<span class="emerged">emerged</span>
+		<span class="agency">agency</span>
+	</a>
 </div>
