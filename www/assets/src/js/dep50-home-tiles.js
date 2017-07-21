@@ -56,8 +56,8 @@ function Tiles(options){
 				left = parseInt(left.substring(0, left.length-2));
 				$(element).css('width', 0);
 				$(element).css('height', 0);
-				$(element).css('left', left + width/2);
-				$(element).css('top', top + height/2);
+				$(element).css('left', left + $(element).width()/2);
+				$(element).css('top', top + $(element).height()/2);
 				$(element).css('opacity', 0);
 			}
 		}
@@ -70,9 +70,9 @@ function Tiles(options){
 	function setInitialCSS(){
 		container.css('position', 'relative');
 		container.css('width', '100%');
-		container.css('transition', 'all 0.7s');
+		container.css('transition', 'all 1.5s');
 		tiles.css('position', 'absolute');
-		tiles.css('transition', 'all 0.7s');
+		tiles.css('transition', 'all 1.5s');
 		tiles.css('overflow', 'hidden');
 	}
 
