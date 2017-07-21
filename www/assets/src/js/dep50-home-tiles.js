@@ -109,6 +109,9 @@ function Tiles(options){
 			var trigger = triggers[i];
 			$(trigger).on('click', function(){
 				self.filter($(this).data('filterby'));
+
+				$(triggers).removeClass('active');
+				$(this).addClass('active');
 			})
 		}
 	}
