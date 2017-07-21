@@ -19,6 +19,9 @@ function Tiles(options){
 	var height = null;
 	var elemsPerRow = null;
 
+	var resizeTimeoutId = null;
+	var resizeDelay = 250; //wait 50ms before resizing
+
 	//keep reference to self
 	var self = this;
 
@@ -47,8 +50,14 @@ function Tiles(options){
 				visibleTiles++;
 			}
 			else{
+				var top = $(element).css('top');
+				var left = $(element).css('left');
+				top = parseInt(top.substring(0, top.length-2));
+				left = parseInt(left.substring(0, left.length-2));
 				$(element).css('width', 0);
 				$(element).css('height', 0);
+				$(element).css('left', left + width/2);
+				$(element).css('top', top + height/2);
 				$(element).css('opacity', 0);
 			}
 		}
@@ -68,10 +77,11 @@ function Tiles(options){
 	}
 
 	function updateDimensions(){
-		// $(tiles).css('left', '');
-		// $(tiles).css('top', '');
-		// $(tiles).css('width', '');
-		// $(tiles).css('height', '');
+		$(tiles).css('transition', '');
+		$(tiles).css('left', '');
+		$(tiles).css('top', '');
+		$(tiles).css('width', '');
+		$(tiles).css('height', '');
 
 		//find a visible tile
 		var visibleTile = null
@@ -89,6 +99,8 @@ function Tiles(options){
 			height = $(visibleTile).height();
 			elemsPerRow = Math.floor(container.width()/width);
 		}
+
+		tiles.css('transition', 'all 0.7s');
 	}
 
 	//apply event handler
@@ -101,6 +113,20 @@ function Tiles(options){
 		}
 	}
 
+	function initializeResizeTrigger(){
+		$(window).on('resize', function(){
+			//resize guard
+			if(resizeTimeoutId != null)
+				clearTimeout(resizeTimeoutId);
+
+			resizeTimeoutId = setTimeout( function(){
+				updateDimensions();
+				updateCSS();
+				resizeTimeoutId = null;
+			}, resizeDelay);
+		});
+	}
+
 
 	//public functions
 
@@ -109,7 +135,8 @@ function Tiles(options){
 		setInitialCSS();
 		updateDimensions();
 		updateCSS();
-		initializeFilterTrigger()
+		initializeFilterTrigger();
+		initializeResizeTrigger();
 	}
 
 	//recalculate all styles
@@ -120,10 +147,9 @@ function Tiles(options){
 
 	//apply a filter class
 	this.filter = function(className){
-		if(className === undefined)
+		if(className === undefined || className == '')
 			className = null;
 		currentFilter = className;
-		updateDimensions();
 		updateCSS();
 	}
 

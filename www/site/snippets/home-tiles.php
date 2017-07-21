@@ -13,7 +13,10 @@
 <?php
 	$extra_class = ' active';
 	foreach($letters as $letter){
-		echo '<a href="#" class="link-' . $letter . $extra_class . '" data-filterby="letter-' . $letter . '">' . ucfirst($letter) . '</a>';
+		$filterby = "letter-$letter";
+		if($filterby == "letter-all")
+			$filterby = "";
+		echo '<a href="#" class="link-' . $letter . $extra_class . '" data-filterby="' . $filterby . '">' . ucfirst($letter) . '</a>';
 		$extra_class = '';
 	}
 ?>
