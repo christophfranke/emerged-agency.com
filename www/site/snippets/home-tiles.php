@@ -1,6 +1,6 @@
 <?php
 	$portfolio = $site->find('/portfolio');
-	$artists = $portfolio->children();
+	$artists = $portfolio->children()->visible();
 
 	$letters = array('all');
 	foreach($artists as $artist){
@@ -13,7 +13,7 @@
 <?php
 	$extra_class = ' active';
 	foreach($letters as $letter){
-		echo '<a href="#" class="link-' . $letter . $extra_class . '">' . ucfirst($letter) . '</a>';
+		echo '<a href="#" class="link-' . $letter . $extra_class . '" data-filterby="letter-' . $letter . '">' . ucfirst($letter) . '</a>';
 		$extra_class = '';
 	}
 ?>

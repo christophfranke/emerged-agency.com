@@ -6,7 +6,7 @@ function Tiles(options){
 	//process options
 	var containerSelector = options['container'];
 	var tileSelector = options['tiles'];
-	var triggerSelector = options['trigger'];
+	var triggerSelector = '[data-filterby]';
 
 	//collections
 	var tiles = $(tileSelector);
@@ -19,6 +19,8 @@ function Tiles(options){
 	var height = null;
 	var elemsPerRow = null;
 
+	//keep reference to self
+	var self = this;
 
 	//private functions
 	function isVisible(element){
@@ -30,10 +32,6 @@ function Tiles(options){
 
 
 	function updateCSS(){
-		//set container dimensions
-		var rows = Math.ceil(tiles.length/elemsPerRow);
-		container.css('height', height*rows);
-
 		//set element css
 		var visibleTiles = 0;
 		for(var i=0; i < tiles.length; i++){
@@ -45,18 +43,24 @@ function Tiles(options){
 				$(element).css('top', height*currentRow);
 				$(element).css('width', width);
 				$(element).css('height', height);
+				$(element).css('opacity', 1);
 				visibleTiles++;
 			}
 			else{
 				$(element).css('width', 0);
 				$(element).css('height', 0);
+				$(element).css('opacity', 0);
 			}
-
 		}
+
+		//set container dimensions
+		var rows = Math.ceil(visibleTiles/elemsPerRow);
+		container.css('height', height*rows);
 	}
 
 	function setInitialCSS(){
 		container.css('position', 'relative');
+		container.css('width', '100%');
 		container.css('transition', 'all 0.7s');
 		tiles.css('position', 'absolute');
 		tiles.css('transition', 'all 0.7s');
@@ -64,6 +68,10 @@ function Tiles(options){
 	}
 
 	function updateDimensions(){
+		// $(tiles).css('left', '');
+		// $(tiles).css('top', '');
+		// $(tiles).css('width', '');
+		// $(tiles).css('height', '');
 
 		//find a visible tile
 		var visibleTile = null
@@ -87,7 +95,9 @@ function Tiles(options){
 	function initializeFilterTrigger(){
 		for(var i=0; i < triggers.length; i++){
 			var trigger = triggers[i];
-			console.log(trigger);
+			$(trigger).on('click', function(){
+				self.filter($(this).data('filterby'));
+			})
 		}
 	}
 

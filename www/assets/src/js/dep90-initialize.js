@@ -5,6 +5,5 @@ $(document).ready( function( $ ){
 	var tiles = new Tiles({
 		container: '.home-tiles',
 		tiles: '.home-tile',
-		trigger: '.letters a'
 	});
 });
