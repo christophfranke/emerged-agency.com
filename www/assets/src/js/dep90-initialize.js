@@ -15,5 +15,5 @@ $(document).ready( function( $ ){
 	});
 
 	AjaxHistory.addModule(tiles, details);
-	AjaxHistory.push('/');
+	AjaxHistory.push(window.location.href);
 });
