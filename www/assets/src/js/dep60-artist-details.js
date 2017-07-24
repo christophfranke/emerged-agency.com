@@ -11,11 +11,20 @@ function ArtistDetails(options){
 
 	var self = this;
 
+	function startCSSAnimation(){
+		$(artistContainerSelector).css('opacity', '0');
+	}
+
+	function finishCSSAnimation(){
+		$(artistContainerSelector).css('opacity', '1');
+	}
+
 	function get(url, onResponse){
 		var xhttp = new XMLHttpRequest();
 		xhttp.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
 				onResponse(this.responseText);
+				finishCSSAnimation();
 			}
 		};
 		xhttp.open("GET", url, true);
@@ -37,9 +46,11 @@ function ArtistDetails(options){
 	}
 
 	this.initialize= function(){
+		$(artistContainerSelector).css('transition', 'opacity 1.5s');
 		$(linkSelector).on('click', function(){
 			var url = $(this).data(urlField);
 			var historyURL = $(this).attr('href');
+			startCSSAnimation();
 			get(url, function(html){
 				artistHTML = html;
 				updateArtistContainer();
