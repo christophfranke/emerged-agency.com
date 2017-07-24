@@ -7,6 +7,7 @@ function Tiles(options){
 	var containerSelector = options['container'];
 	var tileSelector = options['tiles'];
 	var triggerSelector = '[data-filterby]';
+	var historyBaseURL = '/portfolio/';
 
 	//collections
 	var tiles = $(tileSelector);
@@ -103,16 +104,26 @@ function Tiles(options){
 		tiles.css('transition', 'all 0.7s');
 	}
 
+	function updateTriggerClass(){
+		$(triggers).removeClass('active');
+
+		var selector = currentFilter == null ?
+			'[data-filterby=""]':'[data-filterby=' + currentFilter + ']';
+		var trigger = $(selector);
+		if(trigger.length > 0)
+			trigger.addClass('active');
+	}
+
 	//apply event handler
 	function initializeFilterTrigger(){
 		for(var i=0; i < triggers.length; i++){
 			var trigger = triggers[i];
 			$(trigger).on('click', function(){
 				self.filter($(this).data('filterby'));
-
-				$(triggers).removeClass('active');
-				$(this).addClass('active');
-			})
+				var historyURL = historyBaseURL + (currentFilter || '');
+				AjaxHistory.push(historyURL);
+				return false;
+			});
 		}
 	}
 
@@ -132,6 +143,15 @@ function Tiles(options){
 
 
 	//public functions
+
+	this.currentStateFunction = function(){
+		var state = {
+			currentFilter: currentFilter
+		};
+		return function(){
+			self.filter(state.currentFilter);
+		};
+	}
 
 	//initialize. Happens on object creation, but can be triggerd manually if necessary
 	this.initialize = function(){
@@ -153,6 +173,8 @@ function Tiles(options){
 		if(className === undefined || className == '')
 			className = null;
 		currentFilter = className;
+
+		updateTriggerClass();
 		updateCSS();
 	}
 
