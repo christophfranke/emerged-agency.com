@@ -9,6 +9,8 @@ function Tiles(options){
 	var triggerSelector = '[data-filterby]';
 	var historyBaseURL = '/portfolio/';
 
+	var transitionTime = '1s';
+
 	//collections
 	var tiles = $(tileSelector);
 	var container = $(containerSelector);
@@ -71,9 +73,9 @@ function Tiles(options){
 	function setInitialCSS(){
 		container.css('position', 'relative');
 		container.css('width', '100%');
-		container.css('transition', 'all 1.5s');
+		container.css('transition', 'all ' + transitionTime);
 		tiles.css('position', 'absolute');
-		tiles.css('transition', 'all 1.5s');
+		tiles.css('transition', 'all ' + transitionTime);
 		tiles.css('overflow', 'hidden');
 	}
 
@@ -101,7 +103,7 @@ function Tiles(options){
 			elemsPerRow = Math.floor(container.width()/width);
 		}
 
-		tiles.css('transition', 'all 0.7s');
+		tiles.css('transition', 'all ' + transitionTime);
 	}
 
 	function updateTriggerClass(){
