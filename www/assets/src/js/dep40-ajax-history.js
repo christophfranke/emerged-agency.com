@@ -9,7 +9,7 @@ function AjaxHistoryClass(modules){
 		if(typeof urlFunctionMap[url] === 'function')
 			urlFunctionMap[url]();
 		else
-			console.error('URL ' + url + ' not found');
+			window.location = url;
 	}
 
 
