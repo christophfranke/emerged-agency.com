@@ -7,13 +7,17 @@ $(document).ready( function( $ ){
 		tiles: '.home-tile',
 	});
 
+	var oembed = new Oembed();
+	oembed.embed();
+
 	var details = new ArtistDetails({
 		artistContainer: '.artist-details',
 		onLoad: function(){
 			tiles.filter('none');
+			oembed.embed();
 		},
 	});
 
-	AjaxHistory.addModule(tiles, details);
+	AjaxHistory.addModule(tiles, details, oembed);
 	AjaxHistory.push(window.location.href);
 });

@@ -20,22 +20,29 @@ function ArtistDetails(options){
 	}
 
 	function get(url, onResponse){
-		var xhttp = new XMLHttpRequest();
-		xhttp.onreadystatechange = function() {
-			if (this.readyState == 4 && this.status == 200) {
-				onResponse(this.responseText);
-				finishCSSAnimation();
-			}
-		};
-		xhttp.open("GET", url, true);
-		xhttp.send();
+		Ajax.get(url, function(response){
+			onResponse(response);
+			finishCSSAnimation();			
+		});
 	}
 
 	function updateArtistContainer(){
 		$(artistContainerSelector).html(artistHTML);
 	}
 
-	this.currentStateFunction = function(){
+	self.loadArtist = function(element){
+		var url = $(element).data(urlField);
+		var historyURL = $(element).attr('href');
+		startCSSAnimation();
+		get(url, function(html){
+			artistHTML = html;
+			updateArtistContainer();
+			onLoadCallback();
+			AjaxHistory.push(historyURL);
+		});		
+	}
+
+	self.currentStateFunction = function(){
 		var state = {
 			artistHTML: artistHTML
 		};
@@ -45,24 +52,16 @@ function ArtistDetails(options){
 		};
 	}
 
-	this.initialize= function(){
+	self.initialize= function(){
 		$(artistContainerSelector).css('transition', 'opacity 1.5s');
 		$(linkSelector).on('click', function(){
-			var url = $(this).data(urlField);
-			var historyURL = $(this).attr('href');
-			startCSSAnimation();
-			get(url, function(html){
-				artistHTML = html;
-				updateArtistContainer();
-				onLoadCallback();
-				AjaxHistory.push(historyURL);
-			});
+			//load artist
+			self.loadArtist(this);
 
-			//action consumed
+			//consume action (i.e. not follow the link)
 			return false;
 		});
 	}
 
-
-	this.initialize();
+	self.initialize();
 }

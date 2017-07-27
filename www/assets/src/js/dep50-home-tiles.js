@@ -146,7 +146,7 @@ function Tiles(options){
 
 	//public functions
 
-	this.currentStateFunction = function(){
+	self.currentStateFunction = function(){
 		var state = {
 			currentFilter: currentFilter
 		};
@@ -156,7 +156,7 @@ function Tiles(options){
 	}
 
 	//initialize. Happens on object creation, but can be triggerd manually if necessary
-	this.initialize = function(){
+	self.initialize = function(){
 		setInitialCSS();
 		updateDimensions();
 		updateCSS();
@@ -165,13 +165,13 @@ function Tiles(options){
 	}
 
 	//recalculate all styles
-	this.update = function(){
+	self.update = function(){
 		updateDimensions();
 		updateCSS();
 	}
 
 	//apply a filter class
-	this.filter = function(className){
+	self.filter = function(className){
 		if(className === undefined || className == '')
 			className = null;
 		currentFilter = className;
