@@ -1,5 +1,6 @@
 	
 function AjaxHistoryClass(modules){
+	"use strict";
 
 	var modules = modules || [];
 	var urlFunctionMap = {};

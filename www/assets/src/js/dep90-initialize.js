@@ -2,6 +2,7 @@
 
 $(document).ready( function( $ ){
 	"use strict";
+
 	var tiles = new Tiles({
 		container: '.home-tiles',
 		tiles: '.home-tile',
@@ -18,6 +19,8 @@ $(document).ready( function( $ ){
 		},
 	});
 
-	AjaxHistory.addModule(tiles, details, oembed);
+	var deferred = new DeferredImages();
+
+	AjaxHistory.addModule(tiles, details, oembed, deferred);
 	AjaxHistory.push(window.location.href);
 });

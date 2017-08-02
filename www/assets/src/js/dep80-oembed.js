@@ -1,6 +1,7 @@
 
 
 function Oembed(){
+	"use strict";
 
 	var selector = '[data-oembed-url]';
 	var providersURL = '/assets/json/providers.json';

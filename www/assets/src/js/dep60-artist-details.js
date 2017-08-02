@@ -1,6 +1,7 @@
 
 
 function ArtistDetails(options){
+	"use strict";
 
 	var urlField = 'artist-url'
 	var linkSelector = '[data-' + urlField + ']';
