@@ -43,7 +43,6 @@ function DeferredImages(options){
 		}
 	}
 
-
 	self.load = function(image){
 		var src = $(image).data('img-src');
 
@@ -59,6 +58,7 @@ function DeferredImages(options){
 		loadingImages++;
 		$(image).on('load', function(){
 			finalizeImageLoad();
+			$(image).css('opacity', 1);
 		});
 		$(image).on('error', function(){
 			finalizeImageLoad();

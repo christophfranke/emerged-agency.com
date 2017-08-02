@@ -21,6 +21,7 @@ $(document).ready( function( $ ){
 
 	var deferred = new DeferredImages();
 
+
 	AjaxHistory.addModule(tiles, details, oembed, deferred);
 	AjaxHistory.push(window.location.href);
 });

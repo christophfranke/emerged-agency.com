@@ -49,6 +49,7 @@ function Tiles(options){
 				$(element).css('top', height*currentRow);
 				$(element).css('width', width);
 				$(element).css('height', height);
+				$(element).css('padding', 0);
 				$(element).css('opacity', 1);
 				visibleTiles++;
 			}
@@ -70,6 +71,15 @@ function Tiles(options){
 		container.css('height', height*rows);
 	}
 
+	function unsetCSS(){
+		$(tiles).css('transition', '');
+		$(tiles).css('left', '');
+		$(tiles).css('top', '');
+		$(tiles).css('width', '');
+		$(tiles).css('height', '');
+		$(tiles).css('padding', '');
+	}
+
 	function setInitialCSS(){
 		container.css('position', 'relative');
 		container.css('width', '100%');
@@ -80,11 +90,7 @@ function Tiles(options){
 	}
 
 	function updateDimensions(){
-		$(tiles).css('transition', '');
-		$(tiles).css('left', '');
-		$(tiles).css('top', '');
-		$(tiles).css('width', '');
-		$(tiles).css('height', '');
+		unsetCSS();
 
 		//find a visible tile
 		var visibleTile = null
@@ -99,7 +105,8 @@ function Tiles(options){
 		//update dimensions
 		if(visibleTile != null){		
 			width = $(visibleTile).width();
-			height = $(visibleTile).height();
+			// height = $(visibleTile).height();
+			height = width;
 			elemsPerRow = Math.floor(container.width()/width);
 		}
 
