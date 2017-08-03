@@ -16,7 +16,8 @@
 		$filterby = "letter-$letter";
 		if($filterby == "letter-all")
 			$filterby = "";
-		echo '<a href="#" class="link-' . $letter . $extra_class . '" data-filterby="' . $filterby . '" data-close-artist-details>' . ucfirst($letter) . '</a>';
+		$letter_url = url('/portfolio/' . $filterby);
+		echo '<a href="'. $letter_url . '" class="link-' . $letter . $extra_class . '" data-filterby="' . $filterby . '" data-close-artist-details>' . ucfirst($letter) . '</a>';
 		$extra_class = '';
 	}
 ?>

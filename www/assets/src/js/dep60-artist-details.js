@@ -3,8 +3,7 @@
 function ArtistDetails(options){
 	"use strict";
 
-	var urlField = 'artist-url'
-	var linkSelector = '[data-' + urlField + ']';
+	var linkSelector = '[data-artist]';
 	var artistContainerSelector = options['artistContainer'];
 	var onLoadCallback = options['onLoad'];
 	var unloadArtistSelector = '[data-close-artist-details]';
@@ -23,26 +22,24 @@ function ArtistDetails(options){
 		$(artistContainerSelector).css('opacity', '1');
 	}
 
-	function get(url, onResponse){
-		Ajax.get(url, function(response){
-			onResponse(response);
-			fadeIn();			
-		});
-	}
-
 	function updateArtistContainer(){
 		$(artistContainerSelector).html(artistHTML);
 	}
 
-	self.loadArtist = function(element){
-		var url = $(element).data(urlField);
-		var historyURL = $(element).attr('href');
+	self.loadArtistFromElement = function(element){
+		var url = $(element).attr('href');
+		self.loadArtistFromURL(url);
+		AjaxHistory.push(url);
+	}
+
+	self.loadArtistFromURL = function(url){
+		var ajaxURL = url + '.ajax';
 		fadeOut();
-		get(url, function(html){
+		Ajax.get(ajaxURL, function(html){
 			artistHTML = html;
 			updateArtistContainer();
 			onLoadCallback();
-			AjaxHistory.push(historyURL);
+			fadeIn();
 		});
 	}
 
@@ -54,22 +51,21 @@ function ArtistDetails(options){
 		}, 1000*fadeTime);
 	}
 
-	self.currentStateFunction = function(){
-		var state = {
-			artistHTML: artistHTML
-		};
-		return function(){
-			artistHTML = state.artistHTML;
-			updateArtistContainer();
-			fadeIn();
-		};
+	self.goState = function(url){
+		console.log('artist details go ' + url);
+		var validationURI = '/portfolio/';
+		var validate = url.indexOf(validationURI);
+		var invalidationURI = '/portfolio/letter-';
+		if(validate >= 0 && url.indexOf(invalidationURI) == -1){
+			self.loadArtistFromURL(url);
+		}
 	}
 
 	self.initialize= function(){
 		$(artistContainerSelector).css('transition', 'opacity ' + fadeTime + 's');
 		$(linkSelector).on('click', function(){
 			//load artist
-			self.loadArtist(this);
+			self.loadArtistFromElement(this);
 
 			//consume action (i.e. not follow the link)
 			return false;

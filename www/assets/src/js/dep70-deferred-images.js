@@ -37,7 +37,7 @@ function DeferredImages(options){
 			self.load(scheduledImages.shift());
 	}
 
-	self.currentStateFunction = function(){
+	self.goState = function(url){
 		return function(){
 			self.loadAll();
 		}

@@ -7,7 +7,6 @@ function Tiles(options){
 	var containerSelector = options['container'];
 	var tileSelector = options['tiles'];
 	var triggerSelector = '[data-filterby]';
-	var historyBaseURL = '/portfolio/';
 
 	var transitionTime = '1s';
 
@@ -141,7 +140,7 @@ function Tiles(options){
 			var trigger = triggers[i];
 			$(trigger).on('click', function(){
 				self.filter($(this).data('filterby'));
-				var historyURL = historyBaseURL + (currentFilter || '');
+				var historyURL = $(this).attr('href');
 				AjaxHistory.push(historyURL);
 				return false;
 			});
@@ -165,13 +164,17 @@ function Tiles(options){
 
 	//public functions
 
-	self.currentStateFunction = function(){
-		var state = {
-			currentFilter: currentFilter
-		};
-		return function(){
-			self.filter(state.currentFilter);
-		};
+	//go to a state according to url
+	self.goState = function(url){
+		console.log('home tiles go ' + url);
+		var validationURI = '/portfolio/';
+		if(url == 'http://' + window.location.hostname + '/')
+			url = validationURI;
+		var validate = url.indexOf(validationURI);
+		if(validate >= 0){		
+			var filterby = url.substring(validate + validationURI.length);
+			self.filter(filterby);
+		}
 	}
 
 	//initialize. Happens on object creation, but can be triggerd manually if necessary

@@ -9,7 +9,7 @@ $thumbnail_config = array(
 $letter = substr($artist->uid(), 0, 1);
 ?>
 <div class="home-tile letter-<?php echo $letter; ?> visible">
-	<a href="<?php echo url($artist); ?>" data-artist-url="<?php echo url($artist); ?>.ajax">
+	<a href="<?php echo url($artist); ?>" data-artist>
 		<noscript>
 			<?php echo thumb($artist->image(), $thumbnail_config); ?>
 		</noscript>
