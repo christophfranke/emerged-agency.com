@@ -36,6 +36,17 @@ function Tiles(options){
 			return $(element).hasClass(currentFilter);
 	}
 
+	function assignCSS(element, left, top, width, height){
+		// $(element).css('left', left);
+		// $(element).css('top', top);
+		// $(element).css('width', width);
+		// $(element).css('height', height);
+		var scaleX = width > 0 ? 1:0;
+		var scaleY = height > 0 ? 1:0;
+		var transformString = 'translate3d(' + left + 'px,' + top + 'px,0px) scale3d(' + scaleX + ',' + scaleY + ',1)';
+		$(element).css('transform',transformString);
+	}
+
 
 	function updateCSS(){
 		//set element css
@@ -45,23 +56,19 @@ function Tiles(options){
 			if(isVisible(element)){			
 				var currentRow = Math.floor(visibleTiles/5);
 				var currentCol = visibleTiles % 5;
-				$(element).css('left', width*currentCol);
-				$(element).css('top', height*currentRow);
-				$(element).css('width', width);
-				$(element).css('height', height);
-				$(element).css('padding', 0);
+				assignCSS(element, width*currentCol, height*currentRow, width, height);
+
+				//save data
+				$(element).data('top', height*currentRow);
+				$(element).data('left', width*currentCol);
+
 				$(element).css('opacity', 1);
 				visibleTiles++;
 			}
 			else{
-				var top = $(element).css('top');
-				var left = $(element).css('left');
-				top = parseInt(top.substring(0, top.length-2));
-				left = parseInt(left.substring(0, left.length-2));
-				$(element).css('width', 0);
-				$(element).css('height', 0);
-				$(element).css('left', left + $(element).width()/2);
-				$(element).css('top', top + $(element).height()/2);
+				var top = $(element).data('top');
+				var left = $(element).data('left');
+				assignCSS(element, left, top, 0, 0);
 				$(element).css('opacity', 0);
 			}
 		}
@@ -91,6 +98,8 @@ function Tiles(options){
 		tiles.css('position', 'absolute');
 		tiles.css('transition', 'all ' + transitionTime);
 		tiles.css('overflow', 'hidden');
+		tiles.data('top', 0);
+		tiles.data('left', 0);
 	}
 
 	function updateDimensions(){
@@ -112,6 +121,12 @@ function Tiles(options){
 			height = $(visibleTile).outerHeight();
 			elemsPerRow = Math.floor(container.width()/width);
 		}
+
+		tiles.css('padding', 0);
+		tiles.css('top', 0);
+		tiles.css('left', 0);
+		tiles.css('width', width);
+		tiles.css('height', height);
 	}
 
 	function updateTriggerClass(){
