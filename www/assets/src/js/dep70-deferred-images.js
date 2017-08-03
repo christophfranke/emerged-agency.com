@@ -84,7 +84,6 @@ function DeferredImages(options){
 	}
 
 	self.loadAll = function(){
-		console.log('loading all');
 		var images = $(imageSelector);
 
 		//purge all scheduled
