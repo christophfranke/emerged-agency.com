@@ -11,6 +11,10 @@ function AjaxHistoryClass(modules){
 		}
 	}
 
+	this.goState = function(url){
+		recreateState(url);
+	}
+
 
 	this.addModule = function(){
 		for(var i=0; i<arguments.length; i++){

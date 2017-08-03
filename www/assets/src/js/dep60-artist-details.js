@@ -59,6 +59,9 @@ function ArtistDetails(options){
 		if(validate >= 0 && url.indexOf(invalidationURI) == -1){
 			self.loadArtistFromURL(url);
 		}
+		else{
+			self.unloadArtist();
+		}
 	}
 
 	self.initialize= function(){

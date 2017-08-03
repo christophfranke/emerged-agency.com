@@ -10,6 +10,9 @@
     <?php echo css( include('style_css.php') ); ?>
 </head>
 <body>
+<script>
+document.body.className = 'js-enabled';
+</script>
 	<div class="container">
 	<header>
 		<?php

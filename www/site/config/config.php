@@ -33,15 +33,21 @@ c::set('debug', true);
 
 
 c::set('routes', array(
-  array(
-    'pattern' => 'oembed-proxy',
-    'action' => function () {
-    	$parameters = kirby()->request()->data();
-    	$url = $parameters['url'];
-    	$data = file_get_contents($url);
+    array(
+        'pattern' => 'oembed-proxy',
+        'action' => function () {
+        	$parameters = kirby()->request()->data();
+        	$url = $parameters['url'];
+        	$data = file_get_contents($url);
 
-    	//find page with same id
-		return response::json($data);
-    }
-  )
+        	//find page with same id
+            return response::json($data);
+        }
+    ),
+    array(
+        'pattern' => 'portfolio/letter-(:any)',
+        'action' => function($letter) {
+            return array('portfolio', compact('letter'));
+        }
+    )
 ));
