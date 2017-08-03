@@ -72,12 +72,16 @@ function Tiles(options){
 	}
 
 	function unsetCSS(){
-		$(tiles).css('transition', '');
-		$(tiles).css('left', '');
-		$(tiles).css('top', '');
-		$(tiles).css('width', '');
-		$(tiles).css('height', '');
-		$(tiles).css('padding', '');
+		tiles.css('transition', '');
+		tiles.css('left', '');
+		tiles.css('top', '');
+		tiles.css('width', '');
+		tiles.css('height', '');
+		tiles.css('padding', '');
+
+		setTimeout(function(){
+			tiles.css('transition', 'all 1s');
+		}, 10);
 	}
 
 	function setInitialCSS(){
@@ -105,12 +109,9 @@ function Tiles(options){
 		//update dimensions
 		if(visibleTile != null){		
 			width = $(visibleTile).width();
-			// height = $(visibleTile).height();
-			height = width;
+			height = $(visibleTile).outerHeight();
 			elemsPerRow = Math.floor(container.width()/width);
 		}
-
-		tiles.css('transition', 'all ' + transitionTime);
 	}
 
 	function updateTriggerClass(){
