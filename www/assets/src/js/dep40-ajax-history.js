@@ -5,7 +5,7 @@ function AjaxHistoryClass(modules){
 	var modules = modules || [];
 	var urlFunctionMap = {};
 
-	//look up url in functino map and execute
+	//look up url in function map and execute
 	function recreateState(url){
 		if(typeof urlFunctionMap[url] === 'function')
 			urlFunctionMap[url]();

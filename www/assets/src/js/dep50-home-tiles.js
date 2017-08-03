@@ -37,10 +37,6 @@ function Tiles(options){
 	}
 
 	function assignCSS(element, left, top, width, height){
-		// $(element).css('left', left);
-		// $(element).css('top', top);
-		// $(element).css('width', width);
-		// $(element).css('height', height);
 		var scaleX = width > 0 ? 1:0;
 		var scaleY = height > 0 ? 1:0;
 		var transformString = 'translate3d(' + left + 'px,' + top + 'px,0px) scale3d(' + scaleX + ',' + scaleY + ',1)';
