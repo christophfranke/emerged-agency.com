@@ -87,9 +87,10 @@ function Tiles(options){
 	}
 
 	function setInitialCSS(){
+		container.css('transition', 'all ' + transitionTime);
 		container.css('position', 'relative');
 		container.css('width', '100%');
-		container.css('transition', 'all ' + transitionTime);
+		container.css('opacity', 1);
 		tiles.css('position', 'absolute');
 		tiles.css('transition', 'all ' + transitionTime);
 		tiles.css('overflow', 'hidden');

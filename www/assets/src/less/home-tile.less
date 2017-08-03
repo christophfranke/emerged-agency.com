@@ -3,8 +3,15 @@
 @transition-time: 0.5s;
 .home-tile{
 	width: @home-tile-size;
-	padding-top: @home-tile-size;
-	height: 0;
+	display: none;
+	&.visible{
+		display: block;
+	}
+	.js-enabled &{		
+		padding-top: @home-tile-size;
+		height: 0;
+		display: block;
+	}
 	position: relative;
 	line-height: 10px;
 	background-color: @black;
@@ -19,6 +26,7 @@
 		padding: 0;
 		width: 100%;
 		height: auto;
+		display: block;
 	}
 	.artist-name{
 		position: absolute;
