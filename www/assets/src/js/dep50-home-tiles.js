@@ -7,6 +7,7 @@ function Tiles(options){
 	var containerSelector = options['container'];
 	var tileSelector = options['tiles'];
 	var triggerSelector = '[data-filterby]';
+	var onChange = options['onChange'];
 
 	var transitionTime = '1s';
 
@@ -42,6 +43,16 @@ function Tiles(options){
 		$(element).css('transform',transformString);
 	}
 
+	function markVisible(element){
+		$(element).addClass('visible');
+		$(element).find('img[data-img-src]').attr('data-img-priority', '1');
+	}
+
+	function markInvisible(element){
+		$(element).removeClass('visible');
+		$(element).find('img[data-img-src]').removeAttr('data-img-priority');
+	}
+
 
 	function updateCSS(){
 		//set element css
@@ -58,6 +69,8 @@ function Tiles(options){
 				$(element).data('left', width*currentCol);
 
 				$(element).css('opacity', 1);
+
+				markVisible(element);
 				visibleTiles++;
 			}
 			else{
@@ -65,6 +78,7 @@ function Tiles(options){
 				var left = $(element).data('left');
 				assignCSS(element, left, top, 0, 0);
 				$(element).css('opacity', 0);
+				markInvisible(element);
 			}
 		}
 
@@ -143,6 +157,8 @@ function Tiles(options){
 				self.filter($(this).data('filterby'));
 				var historyURL = $(this).attr('href');
 				AjaxHistory.push(historyURL);
+				if(typeof onChange === 'function')
+					onChange();
 				return false;
 			});
 		}
@@ -167,7 +183,6 @@ function Tiles(options){
 
 	//go to a state according to url
 	self.goState = function(url){
-		console.log('home tiles go ' + url);
 		var validationURI = '/portfolio/';
 		if(url == 'http://' + window.location.hostname + '/')
 			url = validationURI;
@@ -176,6 +191,8 @@ function Tiles(options){
 			var filterby = url.substring(validate + validationURI.length);
 			self.filter(filterby);
 		}
+		if(typeof onChange === 'function')
+			onChange();
 	}
 
 	//initialize. Happens on object creation, but can be triggerd manually if necessary

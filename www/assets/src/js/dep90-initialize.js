@@ -3,9 +3,14 @@
 $(document).ready( function( $ ){
 	"use strict";
 
+	var deferred = new DeferredImages();
+
 	var tiles = new Tiles({
 		container: '.home-tiles',
 		tiles: '.home-tile',
+		onChange: function(){
+			deferred.loadAll();
+		}
 	});
 
 	var oembed = new Oembed();
@@ -18,9 +23,6 @@ $(document).ready( function( $ ){
 			oembed.embed();
 		},
 	});
-
-	var deferred = new DeferredImages();
-
 
 	AjaxHistory.addModule(tiles, details, oembed, deferred);
 	AjaxHistory.push(window.location.href);

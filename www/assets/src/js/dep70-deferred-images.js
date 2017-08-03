@@ -4,10 +4,10 @@ function DeferredImages(options){
 	"use strict";
 
 	var imageSelector = 'img[data-img-src]';
-	var images = $(imageSelector);
 
 	var loadingImages = 0;
 	var loadedImages = 0;
+	var priorityImages = [];
 	var scheduledImages = [];
 	//Loading two at a time is a bit faster, but also interfereces with the browsers capability of loading other ajax calls
 	var maxConcurrentLoading = 1;
@@ -22,19 +22,30 @@ function DeferredImages(options){
 
 		// console.log('loaded: ', loadedImages);
 		// console.log('loading: ', loadingImages);
+		// console.log('priority: ', priorityImages.length)
 		// console.log('queued: ', scheduledImages.length);
-		// console.log('sum: ', loadedImages + loadingImages + scheduledImages.length);
+		// console.log('sum: ', loadedImages + loadingImages + scheduledImages.length + priorityImages.length);
 
 		setTimeout(function(){
 			observeScheduledImages();
 		}, observerFrequency);
 	}
 
-	function finalizeImageLoad(){
+	function finalizeImageLoad(image){
 		loadingImages--;
 		loadedImages++;
-		if(loadingImages < maxConcurrentLoading && scheduledImages.length > 0)
-			self.load(scheduledImages.shift());
+		if(loadingImages < maxConcurrentLoading){
+			if(priorityImages.length > 0)
+				self.load(priorityImages.shift())
+			else if(scheduledImages.length > 0)
+				self.load(scheduledImages.shift());
+		}
+
+		$(image).removeAttr('data-img-src');
+	}
+
+	function isPriority(image){
+		return $(image).data('img-priority') == 1;
 	}
 
 	self.goState = function(url){
@@ -51,17 +62,20 @@ function DeferredImages(options){
 			return;
 
 		if(loadingImages >= maxConcurrentLoading){
-			scheduledImages.push(image);
+			if(isPriority(image))
+				priorityImages.push(image);
+			else
+				scheduledImages.push(image);
 			return;
 		}
 
 		loadingImages++;
 		$(image).on('load', function(){
-			finalizeImageLoad();
+			finalizeImageLoad(image);
 			$(image).css('opacity', 1);
 		});
 		$(image).on('error', function(){
-			finalizeImageLoad();
+			finalizeImageLoad(image);
 		});
 
 		//make sure we get load event after setting image
@@ -70,8 +84,22 @@ function DeferredImages(options){
 	}
 
 	self.loadAll = function(){
+		console.log('loading all');
+		var images = $(imageSelector);
+
+		//purge all scheduled
+		scheduledImages = [];
+		priorityImages = [];
+
+
+		//load priority images first
 		for(var i=0; i < images.length; i++){
-			self.load(images[i]);
+			if(isPriority(images[i]))
+				self.load(images[i]);
+		}
+		for(var i=0; i < images.length; i++){
+			if(!isPriority(images[i]))
+				self.load(images[i]);
 		}
 	}
 

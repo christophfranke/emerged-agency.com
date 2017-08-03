@@ -52,7 +52,6 @@ function ArtistDetails(options){
 	}
 
 	self.goState = function(url){
-		console.log('artist details go ' + url);
 		var validationURI = '/portfolio/';
 		var validate = url.indexOf(validationURI);
 		var invalidationURI = '/portfolio/letter-';

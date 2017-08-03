@@ -18,7 +18,7 @@ else
 		<noscript>
 			<?php echo thumb($artist->image(), $thumbnail_config); ?>
 		</noscript>
-		<img data-img-src="<?php echo thumb($artist->image(), $thumbnail_config)->url();?>" width="250" height="250" class="image-preview">
+		<img data-img-src="<?php echo thumb($artist->image(), $thumbnail_config)->url();?>" width="250" height="250" class="image-preview" <?php if($visible !== false) echo 'data-img-priority="1"'; ?>>
 		<span class="artist-name label"><?php echo $artist->title()->html(); ?></span>
 		<span class="artist-name overlay"><h2><?php echo $artist->title()->html(); ?></h2></span>
 	</a>
