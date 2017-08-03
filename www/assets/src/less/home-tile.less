@@ -1,15 +1,14 @@
 
-@home-tile-size: 20%;
+@home-tile-size: 16vw;
 @transition-time: 0.5s;
 .home-tile{
 	width: @home-tile-size;
+	height: @home-tile-size;
 	display: none;
 	&.visible{
 		display: block;
 	}
-	.js-enabled &{		
-		padding-top: @home-tile-size;
-		height: 0;
+	.js-enabled &{
 		display: block;
 	}
 	position: relative;
