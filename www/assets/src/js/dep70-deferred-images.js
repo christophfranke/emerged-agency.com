@@ -4,6 +4,7 @@ function DeferredImages(options){
 	"use strict";
 
 	var imageSelector = 'img[data-img-src]';
+	var prioritySelector = 'img[data-img-priority=1]';
 
 	var loadingImages = 0;
 	var loadedImages = 0;
@@ -16,10 +17,23 @@ function DeferredImages(options){
 	var self = this;
 
 
-	function observeScheduledImages(){
-		if(loadingImages < maxConcurrentLoading && scheduledImages.length > 0)
+	function loadNextImage(){
+		if(loadingImages == maxConcurrentLoading)
+			return;
+		if(priorityImages.length > 0){
+			self.load(priorityImages.shift());
+			return;
+		}
+		if(scheduledImages.length > 0){
 			self.load(scheduledImages.shift());
+		}
+	}
 
+
+	function observeScheduledImages(){
+		loadNextImage();
+
+		// console.log('priority-tags: ', $(imageSelector).filter(prioritySelector).length);
 		// console.log('loaded: ', loadedImages);
 		// console.log('loading: ', loadingImages);
 		// console.log('priority: ', priorityImages.length)
@@ -34,18 +48,13 @@ function DeferredImages(options){
 	function finalizeImageLoad(image){
 		loadingImages--;
 		loadedImages++;
-		if(loadingImages < maxConcurrentLoading){
-			if(priorityImages.length > 0)
-				self.load(priorityImages.shift())
-			else if(scheduledImages.length > 0)
-				self.load(scheduledImages.shift());
-		}
+		loadNextImage();
 
 		$(image).removeAttr('data-img-src');
 	}
 
 	function isPriority(image){
-		return $(image).data('img-priority') == 1;
+		return $(image).is(prioritySelector);
 	}
 
 	self.goState = function(url){
@@ -58,8 +67,10 @@ function DeferredImages(options){
 		var src = $(image).data('img-src');
 
 		//make sure we don't confuse ourself with reloading
-		if($(image).attr('src') == src)
+		if($(image).attr('src') == src){
+			loadNextImage();
 			return;
+		}
 
 		if(loadingImages >= maxConcurrentLoading){
 			if(isPriority(image))
@@ -85,6 +96,7 @@ function DeferredImages(options){
 
 	self.loadAll = function(){
 		var images = $(imageSelector);
+		var priorities = $(imageSelector).filter(prioritySelector);
 
 		//purge all scheduled
 		scheduledImages = [];
@@ -92,18 +104,19 @@ function DeferredImages(options){
 
 
 		//load priority images first
-		for(var i=0; i < images.length; i++){
-			if(isPriority(images[i]))
-				self.load(images[i]);
+		for(var i=0; i < priorities.length; i++){
+			if(isPriority(priorities[i])){
+				self.load(priorities[i]);
+			}
 		}
 		for(var i=0; i < images.length; i++){
-			if(!isPriority(images[i]))
+			if(!isPriority(images[i])){				
 				self.load(images[i]);
+			}
 		}
 	}
 
 	self.initialize = function(){
-		self.loadAll();
 		observeScheduledImages();
 	}
 

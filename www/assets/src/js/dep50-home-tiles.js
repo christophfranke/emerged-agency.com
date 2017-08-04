@@ -50,6 +50,7 @@ function Tiles(options){
 
 	function markInvisible(element){
 		$(element).removeClass('visible');
+		$(element).find('img[data-img-src]').attr('data-img-priority', '0');
 		$(element).find('img[data-img-src]').removeAttr('data-img-priority');
 	}
 
