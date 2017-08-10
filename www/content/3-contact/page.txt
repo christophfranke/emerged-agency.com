@@ -4,34 +4,36 @@ Title: Contact
 
 Text: 
 
-General enquiries:
+###General enquiries:
 
-info@emerged-agency.com
+(email: info@emerged-agency.com)
 
-Office Düsseldorf:
+____
+
+###Office Düsseldorf:
 emerged agency
 Volmerswertherstr. 21
 40221 Düsseldorf
 Germany
 
 Manuel Schottmüller (CEO)
-mail: manuel.schottmueller(at)emerged-agency.com
-Phone: +49-(0)-211-97712401
+mail: (email: manuel.schottmueller@emerged-agency.com)
+Phone: (tel: +49-211-97712401)
 
-————
+____
 
-Office Zurich:
+###Office Zurich:
 emerged agency
 Geroldstrasse 33
 8005 Zurich
 Switzerland
 
 Linus Munz
-mail: linus.munz(at)emerged-agency.com
-Phone: +41 (0)44 271 3284
-Mobile: +41 (0)78 786 31 49
+mail: (email: linus.munz@emerged-agency.com)
+Phone: (tel: +41 44 271 3284)
+Mobile: (tel: +41 78 786 31 49)
 
 Niklaus Buehler
-mail: niklaus.buehler(at)emerged-agency.com
-Phone: +41 (0)44 271 3284
-Mobile: +41 (0)765700468
+mail: (email: niklaus.buehler@emerged-agency.com)
+Phone: (tel: +41 44 271 3284)
+Mobile: (tel: +41 765700468)
