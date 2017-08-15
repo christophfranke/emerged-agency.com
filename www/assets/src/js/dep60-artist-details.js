@@ -5,11 +5,9 @@ function ArtistDetails(options){
 
 	var linkSelector = '[data-artist]';
 	var artistContainerSelector = options['artistContainer'];
-	var onLoadCallback = options['onLoad'];
+	var currentURL = null;
 
 	var fadeTime = 1.5;
-
-	var artistHTML = '';
 
 	var self = this;
 
@@ -21,43 +19,39 @@ function ArtistDetails(options){
 		$(artistContainerSelector).css('opacity', '1');
 	}
 
-	function updateArtistContainer(){
-		$(artistContainerSelector).html(artistHTML);
+	function updateArtistContainer(html){
+		$(artistContainerSelector).html(html);
 	}
 
-	self.loadArtistFromURL = function(url, onComplete){
+	self.loadArtist = function(url){
+		if(currentURL == url){
+			fadeIn();
+			return;
+		}
 		var ajaxURL = url + '.ajax';
 		fadeOut();
 		Ajax.get(ajaxURL, function(html){
-			artistHTML = html;
-			updateArtistContainer();
-			if(typeof onLoadCallback === 'function')
-				onLoadCallback();
-			if(typeof onComplete === 'function')
-				onComplete();
+			updateArtistContainer(html);
+			currentURL = url;
+			objects.oembed.embed();
+			AjaxNavigation.updateLinks();
 			fadeIn();
 		});
 	}
 
 	self.unloadArtist = function(){
 		fadeOut();
-		artistHTML = '';
-		setTimeout(function(){
-			updateArtistContainer();
-		}, 1000*fadeTime);
 	}
 
-	self.goState = function(url, onComplete){
+	self.goState = function(url){
 		var validationURI = '/portfolio/';
 		var validate = url.indexOf(validationURI);
 		var invalidationURI = '/portfolio/letter-';
 		if(validate >= 0 && url.indexOf(invalidationURI) == -1){
-			self.loadArtistFromURL(url, onComplete);
+			self.loadArtist(url);
 		}
 		else{
 			self.unloadArtist();
-			if(typeof onComplete === 'function')
-				onComplete();
 		}
 	}
 

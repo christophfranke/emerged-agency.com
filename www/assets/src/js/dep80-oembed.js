@@ -40,10 +40,12 @@ function Oembed(){
 
 	function embedHTMLinElement(html, element){
 		$(element).html(html);
+		$(element).removeAttr('data-oembed-url');
+		console.log('embedded ', html, element);
 	}
 
 	function schemeMatchesURL(scheme, url){
-		var scheme = scheme.split('*').join('.+');//.split('.').join('\\.');
+		var scheme = scheme.split('*').join('.+');
 		var schemeRegex = new RegExp(scheme, 'i');
 		return url.match(schemeRegex);
 	}
@@ -54,19 +56,15 @@ function Oembed(){
 		return url.match(domainRegex);
 	}
 
-	self.goState = function(url, onComplete){
-		if(onComplete === 'function')
-			onComplete();
-	}
-
 	self.resolveURL = function(element){
 		//when data not fetched yet, get it and try again
-		if(providerData == null){			
+		if(providerData === null){			
 			getProviders(function(){
 				self.resolveURL(element);
 			});
 			return;
 		}
+
 		var url = $(element).data('oembed-url');
 
 		for(var i=0; i<providerData.length; i++){

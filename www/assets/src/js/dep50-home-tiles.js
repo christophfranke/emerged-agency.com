@@ -7,7 +7,6 @@ function Tiles(options){
 	var containerSelector = options['container'];
 	var tileSelector = options['tiles'];
 	var triggerSelector = '[data-filterby]';
-	var onChange = options['onChange'];
 
 	var transitionTime = '1s';
 
@@ -168,7 +167,7 @@ function Tiles(options){
 	//public functions
 
 	//go to a state according to url
-	self.goState = function(url, onComplete){
+	self.goState = function(url){
 		var validationURI = '/portfolio/';
 		if(url == 'http://' + window.location.hostname + '/' || url == 'http://' + window.location.hostname + '/portfolio')
 			url = validationURI;
@@ -177,10 +176,7 @@ function Tiles(options){
 			var filterby = url.substring(validate + validationURI.length);
 			self.filter(filterby);
 		}
-		if(typeof onChange === 'function')
-			onChange();
-		if(typeof onComplete === 'function')
-			onComplete();
+		objects.deferred.loadAll();
 	}
 
 	//initialize. Happens on object creation, but can be triggerd manually if necessary
