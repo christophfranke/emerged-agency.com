@@ -22,8 +22,18 @@ function AjaxHistoryClass(modules){
 		}
 	}
 
-	this.push = function(url){
+	this.replace = function(url){
+		//push url into history
+		history.replaceState(
+			{
+				url: url,
+			},
+			null, //title, not used currently
+			url
+		);
+	}
 
+	this.push = function(url){
 		//push url into history
 		history.pushState(
 			{

@@ -25,6 +25,6 @@ $(document).ready( function( $ ){
 	});
 
 	AjaxHistory.addModule(tiles, details, oembed, deferred);
-	AjaxHistory.push(window.location.href);
+	AjaxHistory.replace(window.location.href);
 	AjaxHistory.goState(window.location.href);
 });
