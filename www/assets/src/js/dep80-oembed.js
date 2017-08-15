@@ -54,10 +54,9 @@ function Oembed(){
 		return url.match(domainRegex);
 	}
 
-	self.goState = function(url){
-		return function(){
-			self.embed();
-		};
+	self.goState = function(url, onComplete){
+		if(onComplete === 'function')
+			onComplete();
 	}
 
 	self.resolveURL = function(element){

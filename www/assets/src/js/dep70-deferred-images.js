@@ -57,10 +57,9 @@ function DeferredImages(options){
 		return $(image).is(prioritySelector);
 	}
 
-	self.goState = function(url){
-		return function(){
-			self.loadAll();
-		}
+	self.goState = function(url, onComplete){
+		if(onComplete === 'function')
+			onComplete();
 	}
 
 	self.load = function(image){

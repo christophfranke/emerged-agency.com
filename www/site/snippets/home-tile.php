@@ -14,7 +14,7 @@ else
 	$visible_class = 'visible';
 ?>
 <div class="home-tile letter-<?php echo $letter; ?> <?php echo $visible_class; ?>">
-	<a href="<?php echo url($artist); ?>" data-artist>
+	<a href="<?php echo url($artist); ?>" data-ajax-navigation>
 		<noscript>
 			<?php echo thumb($artist->image(), $thumbnail_config); ?>
 		</noscript>

@@ -14,7 +14,6 @@ function Tiles(options){
 	//collections
 	var tiles = $(tileSelector);
 	var container = $(containerSelector);
-	var triggers = $(triggerSelector);
 
 	//current state
 	var currentFilter = null;
@@ -141,7 +140,7 @@ function Tiles(options){
 	}
 
 	function updateTriggerClass(){
-		$(triggers).removeClass('active');
+		$(triggerSelector).removeClass('active');
 
 		var selector = currentFilter == null ?
 			'[data-filterby=""]':'[data-filterby=' + currentFilter + ']';
@@ -150,20 +149,6 @@ function Tiles(options){
 			trigger.addClass('active');
 	}
 
-	//apply event handler
-	function initializeFilterTrigger(){
-		for(var i=0; i < triggers.length; i++){
-			var trigger = triggers[i];
-			$(trigger).on('click', function(){
-				self.filter($(this).data('filterby'));
-				var historyURL = $(this).attr('href');
-				AjaxHistory.push(historyURL);
-				if(typeof onChange === 'function')
-					onChange();
-				return false;
-			});
-		}
-	}
 
 	function initializeResizeTrigger(){
 		$(window).on('resize', function(){
@@ -183,7 +168,7 @@ function Tiles(options){
 	//public functions
 
 	//go to a state according to url
-	self.goState = function(url){
+	self.goState = function(url, onComplete){
 		var validationURI = '/portfolio/';
 		if(url == 'http://' + window.location.hostname + '/' || url == 'http://' + window.location.hostname + '/portfolio')
 			url = validationURI;
@@ -194,6 +179,8 @@ function Tiles(options){
 		}
 		if(typeof onChange === 'function')
 			onChange();
+		if(typeof onComplete === 'function')
+			onComplete();
 	}
 
 	//initialize. Happens on object creation, but can be triggerd manually if necessary
@@ -201,7 +188,6 @@ function Tiles(options){
 		setInitialCSS();
 		updateDimensions();
 		updateCSS();
-		initializeFilterTrigger();
 		initializeResizeTrigger();
 	}
 
@@ -220,8 +206,6 @@ function Tiles(options){
 		updateTriggerClass();
 		updateCSS();
 	}
-
-
 
 	this.initialize();
 }
