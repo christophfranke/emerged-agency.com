@@ -1,0 +1,5 @@
+title: Tour Dates
+fields:
+  title:
+    label: Title
+    type:  text

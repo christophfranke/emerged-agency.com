@@ -6,5 +6,6 @@
 www/main_js.php
 www/style_css.php
 www/assets/public
+www/site/cache/*
 
 Dokumentation
