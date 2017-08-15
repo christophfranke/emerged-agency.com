@@ -41,7 +41,6 @@ function Oembed(){
 	function embedHTMLinElement(html, element){
 		$(element).html(html);
 		$(element).removeAttr('data-oembed-url');
-		console.log('embedded ', html, element);
 	}
 
 	function schemeMatchesURL(scheme, url){

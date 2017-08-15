@@ -19,6 +19,14 @@ function ArtistDetails(options){
 		$(artistContainerSelector).css('opacity', '1');
 	}
 
+	function scrollIfNecessary(){
+		var anchor = $('.artist-content h1').offset().top;
+		var pos = $(document).scrollTop();
+		if(pos > anchor){
+			$('html, body').animate({ scrollTop: anchor}, 'slow');
+		}
+	}
+
 	function updateArtistContainer(html){
 		$(artistContainerSelector).html(html);
 	}
@@ -35,6 +43,7 @@ function ArtistDetails(options){
 			currentURL = url;
 			objects.oembed.embed();
 			AjaxNavigation.updateLinks();
+			scrollIfNecessary();
 			fadeIn();
 		});
 	}

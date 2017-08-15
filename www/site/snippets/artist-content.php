@@ -33,6 +33,19 @@
 <div class="artist-content">
 	<h1><?php echo $page->title()->html() ?></h1>
 	<a href="<?php echo $letter_url; ?>" class="close" data-ajax-navigation><i class="fa fa-times" aria-hidden="true"></i></a>
+	<hr>
 	<img src="<?php echo thumb($page->image(), $thumbnail_config)->url(); ?>" class="<?php echo $image_class; ?>">
 	<p><?php echo $page->text()->kirbytext(); ?></p>
+	<div class="artist-footer">
+		<?php if($page->prev()): ?>
+		<a href="<?php echo $page->prev()->url(); ?>" data-ajax-navigation class="arrow left">
+			<i class="fa fa-chevron-left" aria-hidden="true"></i> <?php echo $page->prev()->title(); ?>
+		</a>
+		<?php endif; ?>
+		<?php if($page->next()): ?>
+		<a href="<?php echo $page->next()->url(); ?>" data-ajax-navigation class="arrow right">
+			<?php echo $page->next()->title(); ?> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+		</a>
+		<?php endif; ?>
+	</div>
 </div>

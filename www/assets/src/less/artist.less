@@ -27,6 +27,37 @@
 			background-color: @black;
 		}
 	}
+	h1{
+		margin-bottom: 0;
+	}
+	hr{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.oembed{
+		width: 100%;
+	}
+	.artist-footer{
+		clear: both;
+		position: relative;
+		.arrow{
+			font-size: 30px;
+			position: absolute;
+			transition: background-color 0.7s, color 0.7s;
+			font-weight: lighter;
+			&:hover{
+				text-decoration: none;
+				color: @white;
+				background-color: @black;
+			}
+		}
+		.left{
+			left: 0;
+		}
+		.right{
+			right: 0;
+		}
+	}
 }
 
 .artist-details{
