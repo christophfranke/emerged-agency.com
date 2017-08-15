@@ -14,7 +14,6 @@ $(document).ready( function( $ ){
 	});
 
 	var oembed = new Oembed();
-	oembed.embed();
 
 	var details = new ArtistDetails({
 		artistContainer: '.artist-details',

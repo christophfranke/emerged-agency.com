@@ -98,11 +98,12 @@ function Oembed(){
 					fetchHTMLfromEndpoint(endpoint.url, url, function(html){
 						embedHTMLinElement(html, element);
 					});
-					return; //we are donw here
+					return; //we are done here
 				}
 			}
 		}
 		console.error('OEmbed: Could not find provider for ' + url);
+		embedHTMLinElement('<a href="' + url + '" target="_blank">' + url + '</a>', element);
 	}
 
 	self.embed = function(){
