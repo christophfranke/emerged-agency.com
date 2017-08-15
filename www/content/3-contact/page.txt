@@ -4,13 +4,13 @@ Title: Contact
 
 Text: 
 
-###General enquiries:
+##General enquiries:
 
 (email: info@emerged-agency.com)
 
 ____
 
-###Office Düsseldorf:
+##Office Düsseldorf:
 emerged agency
 Volmerswertherstr. 21
 40221 Düsseldorf
@@ -22,7 +22,7 @@ Phone: (tel: +49-211-97712401)
 
 ____
 
-###Office Zurich:
+##Office Zurich:
 emerged agency
 Geroldstrasse 33
 8005 Zurich

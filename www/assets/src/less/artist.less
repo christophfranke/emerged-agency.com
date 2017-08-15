@@ -2,6 +2,7 @@
 
 
 .artist-content{
+	position: relative;
 	img{
 		margin-bottom: 20px;
 		&.halfwidth{
@@ -11,6 +12,19 @@
 		}
 		&.fullwidth{
 			width: 100%;
+		}
+	}
+	.close{
+		position: absolute;
+		top: 0;
+		right: 0;
+		color: @black;
+		display: block;
+		font-size: 30px;
+		transition: color 0.7s, background-color 0.7s;
+		&:hover{
+			color: @white;
+			background-color: @black;
 		}
 	}
 }

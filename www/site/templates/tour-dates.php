@@ -49,7 +49,6 @@ $dimensions = array(
 			echo '<table>';
 			foreach($shows as $show)
 			{
-				// if( !is_string($show->Date) or !is_string($show->City) or !is_string($show->Venue) )
 				if( !is_string($show->Date) or !is_string($show->Venue) )
 					continue;
 
