@@ -1472,7 +1472,9 @@
             {
                 "schemes": [
                     "http:\/\/soundcloud.com\/*",
-                    "https:\/\/soundcloud.com\/*"
+                    "https:\/\/soundcloud.com\/*",
+                    "http:\/\/www.soundcloud.com\/*",
+                    "https:\/\/www.soundcloud.com\/*"
                 ],
                 "url": "https:\/\/soundcloud.com\/oembed"
             }
