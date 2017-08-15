@@ -31,6 +31,13 @@ function ArtistDetails(options){
 		$(artistContainerSelector).html(html);
 	}
 
+	function initializeLightslider(){
+		$('.slideshow').lightSlider({
+			item: 1,
+			pager: false
+		});
+	}
+
 	self.loadArtist = function(url){
 		if(currentURL == url){
 			fadeIn();
@@ -44,6 +51,7 @@ function ArtistDetails(options){
 			objects.oembed.embed();
 			AjaxNavigation.updateLinks();
 			scrollIfNecessary();
+			initializeLightslider();
 			fadeIn();
 		});
 	}

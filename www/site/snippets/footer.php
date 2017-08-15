@@ -5,6 +5,7 @@
 	</div>
 	<?php
 		echo js('/assets/src/js/dep10-jquery.js');
+		echo js('/assets/src/js/dep15-lightslider.js');
 		echo js('/assets/src/js/dep20-ajax.js');
 		echo js('/assets/src/js/dep40-ajax-navigation.js');
 		echo js('/assets/src/js/dep50-home-tiles.js');

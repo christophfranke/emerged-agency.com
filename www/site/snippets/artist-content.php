@@ -1,5 +1,8 @@
 <?php
-	$image = $page->image();
+	$image = $page->images()->findBy('sort', '1');
+	if($image === null)
+		$image = $page->image();
+
 	$ratio = $image->dimensions()->ratio();
 	if($ratio > 2){
 		//landscape
@@ -34,7 +37,12 @@
 	<h1><?php echo $page->title()->html() ?></h1>
 	<a href="<?php echo $letter_url; ?>" class="close" data-ajax-navigation><i class="fa fa-times" aria-hidden="true"></i></a>
 	<hr>
-	<img src="<?php echo thumb($page->image(), $thumbnail_config)->url(); ?>" class="<?php echo $image_class; ?>">
+	<?php if( sizeof($page->images()) == 1 ){
+		?><img src="<?php echo thumb($page->image(), $thumbnail_config)->url(); ?>" class="<?php echo $image_class; ?>"><?php
+	}
+	else{
+		snippet('slideshow', array('images' => $page->images()->sortBy('sort'), 'dimensions' => $thumbnail_config));
+	} ?>
 	<p><?php echo $page->text()->kirbytext(); ?></p>
 	<div class="artist-footer">
 		<?php if($page->prev()): ?>
