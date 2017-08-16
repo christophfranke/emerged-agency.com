@@ -6,12 +6,18 @@ header{
 	@media @medium{
 		padding-top: (100vw - @content-width)/2;
 	}
+	@media @small{
+		padding-top: 2vw;
+	}
 	hr{
 		clear: both;
 		margin-top: 80px;
 		@media @medium{
 			margin-top: 60px;
 			margin-bottom: 40px;
+		}
+		@media @small{
+			margin-top: 45px;
 		}
 	}
 }
