@@ -17,6 +17,8 @@ $(document).ready( function( $ ){
 		artistContainer: '.artist-details',
 	});
 
+	objects.menu = new MobileMenu();
+
 
 	AjaxNavigation.initialize();
 	AjaxNavigation.replaceState(window.location.href);
