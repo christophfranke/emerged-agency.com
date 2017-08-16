@@ -21,7 +21,11 @@
 		td{
 		    text-align:left;
 		    padding:8px 15px;
-		    border: solid 1px rgb(153, 153, 153);
+		    border: solid 1px @grey;
+		    @media @small{
+		    	padding: 7px 2px;
+		    	border: solid 1px @light-grey;
+		    }
 		    color:black;
 		    width:25%;
 		}
