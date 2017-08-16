@@ -1,9 +1,17 @@
 
-
+@header-padding: 80px;
 header{
-	padding-top: @header-padding;
+	position: relative;
+	padding-top: 80px;
+	@media @medium{
+		padding-top: (100vw - @content-width)/2;
+	}
 	hr{
 		clear: both;
-		margin-top: @header-padding;
+		margin-top: 80px;
+		@media @medium{
+			margin-top: 60px;
+			margin-bottom: 40px;
+		}
 	}
 }

@@ -1,9 +1,16 @@
 
-@home-tile-size: 16vw;
 @transition-time: 0.5s;
 .home-tile{
-	width: @home-tile-size;
-	height: @home-tile-size;
+	width: @content-width/5;
+	height: @content-width/5;
+	@media @medium{
+		width: @content-width/4;
+		height: @content-width/4;
+	}
+	@media @small{
+		width: 48vw;
+		height: 48vw;
+	}
 	display: none;
 	&.visible{
 		display: block;
