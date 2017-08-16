@@ -59,8 +59,8 @@ function Tiles(options){
 		for(var i=0; i < tiles.length; i++){
 			var element = tiles[i];
 			if(isVisible(element)){			
-				var currentRow = Math.floor(visibleTiles/5);
-				var currentCol = visibleTiles % 5;
+				var currentRow = Math.floor(visibleTiles/elemsPerRow);
+				var currentCol = visibleTiles % elemsPerRow;
 				assignCSS(element, width*currentCol, height*currentRow, width, height);
 
 				//save data
