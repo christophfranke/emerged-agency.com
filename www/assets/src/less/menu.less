@@ -35,28 +35,44 @@ nav{
 
 
 	&.mobile-menu{
+		z-index: 100;
+		opacity: 0;
+		width: 100vw;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-color: @transparent-white;
 		display: none;
-		transition: height 1s, border-bottom 1s;
+		transition: transform 1s, opacity 1s;
+		transform: translate3D(0, 0, 0) scale3D(0, 0, 1);
 		@media @small{
 			display: block;
 		}
-		margin-top: -40px;
-		border-bottom: 1px solid @white;
 		ul{
-			padding-top: 4px;
-			margin-bottom: 4px;
+			padding-top: 60px;
+			margin-bottom: 160px;
 			margin-top: 0;
    		}
-   		height: 0;
+   		li{
+   			margin-bottom: 12px;
+   			display: block;
+   		}
+   		a{
+   			font-size: 22px;
+   			text-transform: uppercase;
+   		}
    		overflow: hidden;
    		&.visible{
-   			height: 98px;
-			border-bottom: 1px solid @grey;
+   			transform: translate3D(0, 0, 0) scale3D(1, 1, 1);
+   			opacity: 1;
    		}
 	}
 }
 
 .mobile-menu-button{
+	z-index: 101;
 	display: none;
 	@media @small{
 		display: block;

@@ -10,17 +10,14 @@ function MobileMenu(){
 
 	self.showMenu = function(){
 		$(menuSelector).addClass('visible');
-		// $(menuSelector).slideDown();
 	}
 
 	self.hideMenu = function(){
 		$(menuSelector).removeClass('visible');
-		// $(menuSelector).slideUp();
 	}
 
 	self.toggleMenu = function(){
 		$(menuSelector).toggleClass('visible');
-		// $(menuSelector).slideToggle();
 	}
 
 
