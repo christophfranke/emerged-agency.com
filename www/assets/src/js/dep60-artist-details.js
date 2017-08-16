@@ -20,7 +20,7 @@ function ArtistDetails(options){
 	}
 
 	function scrollIfNecessary(){
-		var anchor = $('.artist-content h1').offset().top;
+		var anchor = $('.letter-links').offset().top;
 		var pos = $(document).scrollTop();
 		if(pos > anchor){
 			$('html, body').animate({ scrollTop: anchor}, 'slow');
