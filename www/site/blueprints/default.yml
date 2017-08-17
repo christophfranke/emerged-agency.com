@@ -5,9 +5,6 @@ fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
-    type:  textarea
 options:
   preview: true
   status: true

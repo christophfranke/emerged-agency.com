@@ -13,7 +13,7 @@ $dimensions = array(
 
 <div class="tour-dates">
 	<?php
-	$url = "http://client.systemonesoftware.com/emerged/xml";
+	$url = $page->location();
 	$one_day_in_seconds = 60*60*24;
 	$content = getCached($url, $one_day_in_seconds); //expires once a day
 	$xml = simplexml_load_string($content);

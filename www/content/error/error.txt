@@ -1,1 +1,5 @@
 Title: Error
+
+----
+
+Text: Hoppla... Diese Seite konnte nicht zugeordnet werden.

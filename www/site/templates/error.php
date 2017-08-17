@@ -1,5 +1,5 @@
 <?php snippet('header'); ?>
 
-<h1>Hoppla... Diese Seite konnte nicht zugeordnet werden.</h1>
+<?php echo $page->text()->kirbytext(); ?>
 
 <?php snippet('footer'); ?>
