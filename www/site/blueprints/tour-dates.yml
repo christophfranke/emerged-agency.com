@@ -1,5 +1,10 @@
 title: Tour Dates
+files: false
+pages: false
 fields:
   title:
     label: Title
     type:  text
+  location:
+    label: Tour Dates URL
+    type: url
