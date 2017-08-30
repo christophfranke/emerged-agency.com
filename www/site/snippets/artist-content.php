@@ -30,17 +30,8 @@
 		);
 	}
 
-	$oembed = $page->oembed()->yaml();
-	$top_o = array();
-	$bottom_o = array();
-	foreach($oembed as $o){
-		if($o['position'] === 'top'){
-			$top_o[] = $o;
-		}
-		if($o['position'] === 'bottom'){
-			$bottom_o[] = $o;
-		}
-	}
+	$top_o = $page->toplinks()->yaml();
+	$bottom_o = $page->bottomlinks()->yaml();
 
 	$filterby = 'letter-' . substr($page->uid(), 0, 1);
 	$letter_url = url('/portfolio/' . $filterby);
