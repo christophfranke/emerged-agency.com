@@ -90,9 +90,8 @@ function Oembed(){
 				}
 
 				//take action if provider matched
-				if(providerMatched){				
+				if(providerMatched){
 					var width = $(element).width();
-					console.log(width);
 					fetchHTMLfromEndpoint(endpoint.url, url, width, function(html){
 						embedHTMLinElement(html, element);
 					});

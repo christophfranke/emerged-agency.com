@@ -38,10 +38,17 @@ c::set('routes', array(
         'action' => function () {
         	$parameters = kirby()->request()->data();
         	$url = $parameters['url'];
-        	$data = file_get_contents($url);
+            try{
+            	$data = file_get_contents($url);
+                $response = response::json($data);
+            }
+            catch(Exception $e){
+                go('error');
+                return;
+            }
 
         	//find page with same id
-            return response::json($data);
+            return $response;
         }
     ),
     array(
