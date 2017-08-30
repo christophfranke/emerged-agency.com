@@ -23,4 +23,6 @@ $(document).ready( function( $ ){
 	AjaxNavigation.initialize();
 	AjaxNavigation.replaceState(window.location.href);
 	AjaxNavigation.goState(window.location.href);
+
+	RotateEmail.initialize();
 });

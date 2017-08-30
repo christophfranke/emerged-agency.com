@@ -6,17 +6,22 @@
 		</footer>
 	</div>
 	<?php
-		echo js('/assets/src/js/dep10-jquery.js');
-		echo js('/assets/src/js/dep15-lightslider.js');
-		echo js('/assets/src/js/dep20-ajax.js');
-		echo js('/assets/src/js/dep40-ajax-navigation.js');
-		echo js('/assets/src/js/dep50-home-tiles.js');
-		echo js('/assets/src/js/dep60-artist-details.js');
-		echo js('/assets/src/js/dep70-deferred-images.js');
-		echo js('/assets/src/js/dep80-oembed.js');
-		echo js('/assets/src/js/dep85-mobile-menu.js');
-		echo js('/assets/src/js/dep90-initialize.js');
-		// echo js( require('main_js.php') );
+		if(c::get('debug')){		
+			echo js('/assets/src/js/dep10-jquery.js');
+			echo js('/assets/src/js/dep15-lightslider.js');
+			echo js('/assets/src/js/dep20-ajax.js');
+			echo js('/assets/src/js/dep40-ajax-navigation.js');
+			echo js('/assets/src/js/dep50-home-tiles.js');
+			echo js('/assets/src/js/dep55-mail-rot13.js');
+			echo js('/assets/src/js/dep60-artist-details.js');
+			echo js('/assets/src/js/dep70-deferred-images.js');
+			echo js('/assets/src/js/dep80-oembed.js');
+			echo js('/assets/src/js/dep85-mobile-menu.js');
+			echo js('/assets/src/js/dep90-initialize.js');
+		}
+		else{
+			echo js( require('main_js.php') );
+		}
 	?>
 </body>
 </html>
