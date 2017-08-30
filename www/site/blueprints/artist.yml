@@ -18,6 +18,7 @@ fields:
   bottomlinks:
     label: External Media Links (below text)
     type: structure
+    fields:
       url:
         label: URL
         type: url
