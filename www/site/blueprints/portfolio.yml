@@ -1,5 +1,9 @@
 title: Portfolio
+icon: music
 pages:
+  template:
+    - artist
+    - redirect
   num: zero
 files: true
 fields:

@@ -1,23 +1,23 @@
 title: Artist
+icon: music
 files: images
 fields:
   title:
     label: Title
     type:  text
-  oembed:
-    label: External Media Links
+  toplinks:
+    label: External Media Links (next to artist picture)
     type: structure
     fields:
       url:
         label: URL
         type: url
-      position:
-        label: Position
-        type: select
-        options:
-          top: Top
-          bottom: Bottom
-        default: top
   text:
     label: Text
     type:  textarea
+  bottomlinks:
+    label: External Media Links (below text)
+    type: structure
+      url:
+        label: URL
+        type: url
