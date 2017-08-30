@@ -4,6 +4,20 @@ fields:
   title:
     label: Title
     type:  text
+  oembed:
+    label: External Media Links
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: url
+      position:
+        label: Position
+        type: select
+        options:
+          top: Top
+          bottom: Bottom
+        default: top
   text:
     label: Text
     type:  textarea

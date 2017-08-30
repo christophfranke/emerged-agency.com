@@ -30,6 +30,18 @@
 		);
 	}
 
+	$oembed = $page->oembed()->yaml();
+	$top_o = array();
+	$bottom_o = array();
+	foreach($oembed as $o){
+		if($o['position'] === 'top'){
+			$top_o[] = $o;
+		}
+		if($o['position'] === 'bottom'){
+			$bottom_o[] = $o;
+		}
+	}
+
 	$filterby = 'letter-' . substr($page->uid(), 0, 1);
 	$letter_url = url('/portfolio/' . $filterby);
 ?>
@@ -37,13 +49,32 @@
 	<h1><?php echo $page->title()->html() ?></h1>
 	<a href="<?php echo $letter_url; ?>" class="close" data-ajax-navigation><i class="fa fa-times" aria-hidden="true"></i></a>
 	<hr>
+
 	<?php if( sizeof($page->images()) == 1 ){
 		?><img src="<?php echo thumb($page->image(), $thumbnail_config)->url(); ?>" class="<?php echo $image_class; ?>"><?php
 	}
 	else{
 		snippet('slideshow', array('images' => $page->images()->sortBy('sort'), 'dimensions' => $thumbnail_config));
 	} ?>
-	<p><?php echo $page->text()->kirbytext(); ?></p>
+
+	<?php if(sizeof($top_o) > 0): ?>
+		<div class="oembed-top">
+			<?php foreach($top_o as $o): ?>
+				<?= kirbytag(array('oembed' => $o['url'])) ?>
+			<?php endforeach ?>
+		</div>
+	<?php endif ?>
+
+	<?php echo $page->text()->kirbytext(); ?>
+
+	<?php if(sizeof($bottom_o) > 0): ?>
+		<div class="oembed-bottom">
+			<?php foreach($bottom_o as $o): ?>
+				<?= kirbytag(array('oembed' => $o['url'])) ?>
+			<?php endforeach ?>
+		</div>
+	<?php endif ?>
+	
 	<div class="artist-footer">
 		<?php if($page->prev()): ?>
 		<a href="<?php echo $page->prev()->url(); ?>" data-ajax-navigation class="arrow left">

@@ -3,6 +3,7 @@
 kirbytext::$tags['oembed'] = array(
 	'html' => function($tag) {
 		$url = $tag->attr('oembed');
-		return '<div data-oembed-url="' . $url . '" class="oembed"></div>';
+		$class = $tag->attr('class');
+		return '<div data-oembed-url="' . $url . '" class="oembed ' . $class . '"></div>';
 	}
 );

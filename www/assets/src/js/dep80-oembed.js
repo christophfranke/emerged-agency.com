@@ -31,8 +31,8 @@ function Oembed(){
 		}
 	}
 
-	function fetchHTMLfromEndpoint(endpoint, url, onComplete){
-		var queryURL = proxyURLPrefix + endpoint.replace('{format}', 'json').replace('&', '%26') + '?url=' + url + '%26format=json';
+	function fetchHTMLfromEndpoint(endpoint, url, width, onComplete){
+		var queryURL = proxyURLPrefix + endpoint.replace('{format}', 'json').replace('&', '%26') + '?url=' + url + '%26format=json%26maxwidth=' + Math.round(width);
 		Ajax.getJSON(queryURL, function(response){
 			onComplete(response.html);
 		});
@@ -91,7 +91,9 @@ function Oembed(){
 
 				//take action if provider matched
 				if(providerMatched){				
-					fetchHTMLfromEndpoint(endpoint.url, url, function(html){
+					var width = $(element).width();
+					console.log(width);
+					fetchHTMLfromEndpoint(endpoint.url, url, width, function(html){
 						embedHTMLinElement(html, element);
 					});
 					return; //we are done here

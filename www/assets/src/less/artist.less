@@ -6,18 +6,22 @@
 	img{
 		margin-bottom: 20px;
 		&.halfwidth{
-			width: 50%;
+			width: 40vw;
 			float: left;
-			margin-right: 15px;
+			margin-right: 2vw;
+			margin-bottom: 1vw;
+			@media @small{
+				width: 47vw;
+			}
 		}
 		&.fullwidth{
-			width: 100%;
+			width: 80vw;
 		}
 	}
 	.slideshow-container{
-		width: 50%;
+		width: 40vw;
 		float: left;
-		margin-right: 15px;
+		margin-right: 2vw;
 	}
 	.close{
 		position: absolute;
@@ -44,6 +48,24 @@
 	}
 	.oembed{
 		width: 100%;
+		iframe{
+			width: 100%;
+		}
+	}
+	.oembed-top{
+		width: 38vw;
+		float: right;
+		margin-bottom: 1vw;
+		@media @small{
+			width: 47vw;
+		}
+	}
+	.oembed-bottom{
+		margin-top: 2vw;
+		width: 80vw;
+		@media @small{
+			width: 96vw;
+		}
 	}
 	.artist-footer{
 		margin-top: 60px;
