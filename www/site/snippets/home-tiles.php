@@ -1,6 +1,8 @@
 <?php
 	$portfolio = $site->find('/portfolio');
-	$artists = $portfolio->children()->visible();
+	$artists = $portfolio->children()->visible()->filter(function($elem){
+		return ($elem->image() != null) && ($elem->intendedTemplate() == 'artist');
+	});
 ?>
 
 <?php snippet('letter-links', compact('letter')); ?>
