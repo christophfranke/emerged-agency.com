@@ -29,8 +29,9 @@ $dimensions = array(
 	?>
 	<div class="schedule">
 		<?php foreach($artists as $artist=>$shows)
-		{
-			echo '<div class="artist">';
+		{ ?>
+			<div class="artist">
+			<?php
 			$slug = str_replace(' ','-', strtolower($artist));
 			$slug = str_replace("'", '', $slug);
 			$slug = str_replace('!', '', $slug);
@@ -40,13 +41,22 @@ $dimensions = array(
 			$artist_page = $site->find('/portfolio')->find($slug);
 			if($artist_page !== false){
 				$image = $artist_page->image()->thumb($dimensions);
-				echo '<h3 class="artist_name"><a href="' . $artist_page->url() . '">' . $artist_page->title() . '</a></h3>';
+				$h3 = '<h3 class="artist_name"><a href="' . $artist_page->url() . '">' . $artist_page->title() . '</a></h3>';
 			}
 			else{
 				$image = '';
-				echo '<h3 class="artist_name">' . $artist . '</h3>';
+				$h3 = '<h3 class="artist_name">' . $artist . '</h3>';
 			}
-			echo '<table>';
+			?>
+			<div class="left">
+			<?php
+			if(!empty($image)){
+				echo $image;
+			} ?>
+			</div>
+			<div class="right">
+				<?= $h3 ?>
+				<table><?php
 			foreach($shows as $show)
 			{
 				if( !is_string($show->Date) or !is_string($show->Venue) )
@@ -59,29 +69,28 @@ $dimensions = array(
 					$ticket_url = '';
 				}
 				$european_date = date('d.m.Y', strtotime($show->Date));
+				if(is_string($show->City)){
+					$city = $show->City;
+				}
+				else{
+					$city = '';
+				}
 
-				echo "<tr>";
-				// echo '<td class="image">' . $image . '</td>';
-				echo '<td class="date">' . $european_date . '</td>';
-				if(is_string($show->City))
-					echo '<td class="city">' . $show->City . '</td>';
-				else
-					echo '<td class="empty city"></td>';
-				echo '<td class="venue">' . $show->Venue . '</td>';
-				echo '<td class="ticket-link">' . "$ticket_url</td>";
-				echo "</tr>";
-			}
-			echo "</table></div>";
-		}
-		?>
+				?>
+					<tr>
+						<td class="date"><?= $european_date ?></td>
+						<td class="city"><?= $city ?></td>
+						<td class="venue"><?= $show->Venue; ?></td>
+						<td class="ticket-link"><?= $ticket_url ?></td>
+					</tr>
+			<?php } ?>
+				</table>
+			</div>
+			<br style="clear:both;">
+		</div>
+		<?php } ?>
 	</div>
 
-	<?php
-	/*
-	foreach($array->show as $show)
-		var_dump($show);
-	*/
-	?>
 </div>
 
 <?php snippet('footer'); ?>

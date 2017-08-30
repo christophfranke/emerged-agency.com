@@ -3,12 +3,30 @@
 .tour-dates{
     text-align: center;
     margin: 0 auto;
-    width: 96.7%;
+    width: 80vw;
 
+    .artist{
+    	clear: both;
+    	margin-top: 6vw;
+    	border: 1px solid @grey;
+    }
     h3{
 	    font-size: xx-large;
 	    font-family: helvetica;
-	    font-weight: lighter;    	
+	    font-weight: lighter;
+	    margin-top: 1vw;
+    }
+
+    .left{
+    	width: 9vw;
+    	float: left;
+    	img{
+    		width: 100%;
+    	}
+    }
+    .right{
+    	width: 70vw;
+    	float: right;
     }
 
 	table{
@@ -18,13 +36,17 @@
 		text-align: center;
 		border-spacing: 0;
 		border-collapse: collapse;
+		tr{
+			border-bottom: 1px solid @grey;
+			@media @small{
+				border-bottom: 1px solid @light-grey;
+			}
+		}
 		td{
 		    text-align:left;
 		    padding:8px 15px;
-		    border: solid 1px @grey;
 		    @media @small{
 		    	padding: 7px 2px;
-		    	border: solid 1px @light-grey;
 		    }
 		    color:black;
 		    width:25%;
