@@ -2,7 +2,26 @@
 
 nav{
 
-	&.main-menu{
+	a{
+		padding: 4px 10px;
+		transition: color 0.5s, background-color 0.5s;
+		color: black;
+		text-decoration: none;
+		&:hover{
+			color: white;
+			background-color: black;
+			text-decoration: none;
+		}
+		&.soundcloud:hover{
+			background-color: #ff5300;
+		}
+		&.facebook:hover{
+			background-color: #39579a;
+		}
+	}
+
+
+	&.desktop-menu{
 		@media @small{
 			display: none;
 		}
@@ -20,19 +39,17 @@ nav{
 			}
 			li{
 				display: inline-block;
-				padding-left: 20px;
 				font-size: 18px;
 				@media @medium{
 					padding-left: 0;
 				}
-				a{
-					color: black;
-					text-decoration: none;
-				}
+
 			}
 		}
+		.only-mobile{
+			display: none;
+		}
 	}
-
 
 	&.mobile-menu{
 		z-index: 100;
@@ -47,6 +64,7 @@ nav{
 		display: none;
 		transition: transform 1s, opacity 1s;
 		transform: translate3D(0, 0, 0) scale3D(0, 0, 1);
+		text-align: center;
 		@media @small{
 			display: block;
 		}
@@ -68,12 +86,28 @@ nav{
    			transform: translate3D(0, 0, 0) scale3D(1, 1, 1);
    			opacity: 1;
    		}
+   		.top-rule{
+   			margin-top: 58px;
+   		}
+   		.bottom-rule{
+   			position: fixed;
+   			width: 100%;
+		    bottom: 0;
+		    margin-bottom: 58px;
+   		}
+   		.only-desktop{
+   			display: none;
+   		}
 	}
 }
 
 .mobile-menu-button{
+	cursor: pointer;
 	z-index: 101;
 	display: none;
+	padding: 5px;
+	margin-top: -5px;
+	margin-right: -5px;
 	@media @small{
 		display: block;
 	}
@@ -82,5 +116,10 @@ nav{
 	right: 0;
 	.fa{
 		font-size: 34px;
+	}
+	transition: color 0.7s, background-color 0.7s;
+	&:hover{
+		color: white;
+		background-color: black;
 	}
 }

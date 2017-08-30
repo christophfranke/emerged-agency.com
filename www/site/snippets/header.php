@@ -17,7 +17,7 @@ document.body.className = 'js-enabled';
 	<header>
 		<?php snippet('logo'); ?>
 		<div class="mobile-menu-button"><i class="fa fa-bars" aria-hidden="true"></i></div>
-		<?php snippet('menu', array('menu_class' => 'main-menu')); ?>
+		<?php snippet('menu', array('menu_class' => 'desktop-menu')); ?>
 		<hr>
 		<?php snippet('menu', array('menu_class' => 'mobile-menu')); ?>
 	</header>

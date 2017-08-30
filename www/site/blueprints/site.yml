@@ -5,6 +5,15 @@ fields:
   title:
     label: Site Title
     type:  text
+  facebook:
+    label: Facebook Page
+    type: url
+  soundcloud:
+    label: Soundcloud Page
+    type: url
+  imprint:
+    label: Imprint
+    type: page
 options:
   preview: true
   status: true

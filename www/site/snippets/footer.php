@@ -1,6 +1,8 @@
+<?php $imprint = $site->page($site->imprint()); ?>
 		<footer>
 			<hr>
 			<span class="brand">emerged agency GmbH</span>
+			<span class="imprint"><a href="<?= $imprint->url() ?>"><?= $imprint->title() ?></a></span>
 		</footer>
 	</div>
 	<?php
