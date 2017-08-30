@@ -1,6 +1,20 @@
-Title: Friend
+Title:
+
+Friend
+
 ----
-Text: FRIEND vereint geballte Musikalität mit intel- ligentem Songwriting: Dominik Huber liefert mit seiner ersten Veröffentlichung als Solo-Künstler die perfekte Symbiose aus Spiel, Spass und Spannung. Melodien, die haften bleiben und Rhythmen, die vorwärts treiben – «In the Teeth of the Wind» beinhaltet elf Pop-Songs, welche sich in keiner Hinsicht dem Popdiktat unterwerfen. So bleibt genügend Raum für die eigene Fantasie. Mit FRIEND vergeht die Zeit im Fluge und kein Abenteuer gleicht dem anderen. Genau so, wie es einem mit dem besten Freund eben ergeht.
+
+Toplinks:
+
+-
+  url: >
+    https://www.youtube.com/watch?v=yr5V2B
+
+----
+
+Text:
+
+FRIEND vereint geballte Musikalität mit intel- ligentem Songwriting: Dominik Huber liefert mit seiner ersten Veröffentlichung als Solo-Künstler die perfekte Symbiose aus Spiel, Spass und Spannung. Melodien, die haften bleiben und Rhythmen, die vorwärts treiben – «In the Teeth of the Wind» beinhaltet elf Pop-Songs, welche sich in keiner Hinsicht dem Popdiktat unterwerfen. So bleibt genügend Raum für die eigene Fantasie. Mit FRIEND vergeht die Zeit im Fluge und kein Abenteuer gleicht dem anderen. Genau so, wie es einem mit dem besten Freund eben ergeht.
 
 Seine Sporen abverdient hat sich der umtriebige Zürcher Musiker Dominik Huber schon längst: Bevor er FRIEND kom- plett im Alleingang komponiert, eingespielt und aufgenommen hat, prägte er als Bandmusiker den Sound von The Legenda- ry Lightness, Fai Baba, Zigitros, Doomenfels, Heidi Happy und stand auf der Bühne mit Dieter Meier, Disco Doom, so- wie diversen anderen Musikern.
 
@@ -13,4 +27,12 @@ FRIEND besingt unsere Träume und Ängste ohne Pathos, dafür mit spürbarer Emp
 
 Dominik Huber wird FRIEND mit «In the Teeth of the Wind» im Frühjahr und Sommer 2016 live zum Leben erwecken. Auf der Bühne wird er von Ephrem Lüchinger an den Tasten und Vincent Glanzmann am Schlagzeug ergänzt.
 
-(oembed: https://www.youtube.com/watch)?v=yr5V2B_L7L8
+_L7L8
+
+----
+
+Bottomlinks:
+
+
+----
+

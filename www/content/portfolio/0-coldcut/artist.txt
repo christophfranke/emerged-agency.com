@@ -1,6 +1,17 @@
-Title: Coldcut
+Title:
+
+Coldcut
+
 ----
-Text: Coldcut are the UK’s most irrepressible musical mavericks. From their origins as ' the first Brit artists to really get hip-hop’s class-cutup aesthetic,' they introduced rap to ravers, creating a heady blend of hip-hop production aesthetics and proto-acid house grooves, and became a precursor for scenes as diverse as electronica, breakbeat, ambient and baggy.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Coldcut are the UK’s most irrepressible musical mavericks. From their origins as ' the first Brit artists to really get hip-hop’s class-cutup aesthetic,' they introduced rap to ravers, creating a heady blend of hip-hop production aesthetics and proto-acid house grooves, and became a precursor for scenes as diverse as electronica, breakbeat, ambient and baggy.
 
 Meeting amongst the free parties and record stores of late ‘80s London, Jon More and Matt Black’s early 12's – ' Say Kids, What Time is It?' and 'Beats and Pieces' – moved minds as well as feet, and changed the face of emergent dance music. Their remix of Eric B and Rakim’s 'Paid in Full' took their radical sound mainstream, and caught the attention of the industry at large.
 
@@ -14,4 +25,13 @@ Their long term relationship with Greenpeace continues with DJ sets for the orga
 
 In 2013, Coldcut began collaborating with producer Dave Taylor (a.k.a. Solid Groove a.k.a. Switch). Work from this is being released in 2016/2017. A single 'Only Heaven' feat. Roots Manuva has a newspaper cutup cover by fine artist Kim Rugg. Collaborations with legendary dub master Adrian Sherwood are also being released. A raft of new material promises to remind that Coldcut are forever in the vanguard of global dance music and artistic innovation.
 
-(oembed: https://soundcloud.com/coldcut)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/coldcut
+
+----
+

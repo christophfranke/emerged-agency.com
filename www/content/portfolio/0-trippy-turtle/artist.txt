@@ -1,6 +1,17 @@
-Title: Trippy Turtle
+Title:
+
+Trippy Turtle
+
 ----
-Text: Imagine you took Jersey Club and covered it in candy paint, smacked it on its ass, and told it to break something. Trippy Turtle is a mystery man taking your favorite hip-hop songs and turning them into fired-up, swirly versions of themselves. He's a rare sight, who started as a drummer in a Norwegian pond when he was a hatchling.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Imagine you took Jersey Club and covered it in candy paint, smacked it on its ass, and told it to break something. Trippy Turtle is a mystery man taking your favorite hip-hop songs and turning them into fired-up, swirly versions of themselves. He's a rare sight, who started as a drummer in a Norwegian pond when he was a hatchling.
 
 
 
@@ -23,4 +34,14 @@ Text: Imagine you took Jersey Club and covered it in candy paint, smacked it on 
 The genre was born in Baltimore, cultivated in NJ cities like Newark, and now has reached the EDM scene en masse. 4 years ago, Trippy Turtle emerged as an anonymous artist, displaying a pixelated turtle on each of his release covers.
 
 It’s been nearly 4 years since we’ve gotten an original tune from the turtle, who only original track “Trippy’s Theme” was release on Diplo’s Mad Decent back in 2014. Since then he’s kept the turtle alive dropping bootleg remixes “turtle style” (unannounced on Soundcloud) Today, he is arguably the most watched Jersey Club producers - headlining this years EDC Las Vegas on the mainstage at sunrise.
-(oembed: https://soundcloud.com/trippy-turtle)
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/trippy-turtle
+
+----
+

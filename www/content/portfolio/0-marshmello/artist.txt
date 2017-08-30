@@ -1,6 +1,17 @@
-Title: Marshmello
+Title:
+
+Marshmello
+
 ----
-Text: One white helmet. Two blacked-out eyes. And a loveable smile. Say hello to the new face of electronic music: Marshmello. As one of the latest acts to take the electronic world by universal storm, Marshmello met the most meteoric rise right from the get-go. The enigmatic producer continues in a long line of music makers putting sound and artistry ahead of image and ego. The mystery artist dons a fully enclosed marshmallow helmet, completely hiding the musician in seemingly plain sight. Rather than use the masked approach as a marketing gimmick, Marshmello instead employs it to echo his driving ethos: Let the music speak for itself. And so it does—very loudly and very clearly.
+
+Toplinks:
+
+
+----
+
+Text:
+
+One white helmet. Two blacked-out eyes. And a loveable smile. Say hello to the new face of electronic music: Marshmello. As one of the latest acts to take the electronic world by universal storm, Marshmello met the most meteoric rise right from the get-go. The enigmatic producer continues in a long line of music makers putting sound and artistry ahead of image and ego. The mystery artist dons a fully enclosed marshmallow helmet, completely hiding the musician in seemingly plain sight. Rather than use the masked approach as a marketing gimmick, Marshmello instead employs it to echo his driving ethos: Let the music speak for itself. And so it does—very loudly and very clearly.
 
 Marshmello experienced almost immediate renown upon launching the project in March 2015 solely on the success of a handful of originals and remixes just a year ago, with tracks like “SuMmeR,” “FiNd Me,” “BLocKs,” and more paving the way. Following this string of mysterious music came a media blitz from all the reputable electronic and global music outlets—with international digital retailer Beatport crowning him a Breakthrough Artist in 2015—as well as an army of soon-to-be fanatics, lovingly dubbed his Mellogang, with both camps literally trying to unmask Marshmello. His crafted brand of feel-good melodies and trapped-out dirty bliss is both uplifting and unabashedly intense. It’s enough to fill a stadium with unison sing-alongs while demolishing worldwide dancefloors within the same beat. Game recognizes game, and soon after debuting, dance music heavyweights Skrillex and Diplo sought Marshmello for an official remix of their Jack Ü mega hit, “Where Are Ü Now” with Justin Bieber. Elsewhere, Marshmello has done official remixes of fellow superstars Avicii, Zedd, Ariana Grande.
 
@@ -10,6 +21,13 @@ On the live front, Marshmello dominates the stage via his highly anticipated and
 
 “I just want to make good music,” proclaims Marshmello. “That doesn't require you knowing who I am.”
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/marshmellomusic)
+-
+  url: >
+    https://soundcloud.com/marshmellomusic
+
+----
+

@@ -1,6 +1,17 @@
-Title: NATTY
+Title:
+
+NATTY
+
 ----
-Text: Following his Top 20 debut album, 'Man Like I', Natty is back with his highly anticipated second album 'Release The Fear', a future-roots, concept album that takes us on a journey through love, redemption, self-identity and unity.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Following his Top 20 debut album, 'Man Like I', Natty is back with his highly anticipated second album 'Release The Fear', a future-roots, concept album that takes us on a journey through love, redemption, self-identity and unity.
 
 Described by the Telegraph as a "soul-reggae crossover sensation" Natty is an artist who brings the revolutionary spirit of the 60s and 70s into current times. The Sunday Times praised his lyrics as "sharply focused" and his songs as "free from production trickery".
 Seven years in the making, 'Release The Fear' reflects Natty's spiritual and sonic progression, bringing forward cosmic and mindful energies through his unmistakable delivery.
@@ -16,4 +27,13 @@ Natty has also toured the USA supporting Ziggy Marley and travelled to Zimbabwe,
 
 Previously receiving the support from the likes of BBC Radio 1, BBC Radio 2, ITV, MTV, 'Later with Jools Holland' amongst others, Natty is excited to embark on his new project and share his message of love with the rest of the world.
 
-(oembed: https://soundcloud.com/nattymusic)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/nattymusic
+
+----
+

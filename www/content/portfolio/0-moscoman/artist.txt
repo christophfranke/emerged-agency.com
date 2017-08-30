@@ -1,9 +1,29 @@
-Title: Moscoman
+Title:
+
+Moscoman
+
 ----
-Text: From Berlin via Tel Aviv comes Moscoman, the music producer behind underground hits on ESP Institute, Correspondant, I'm a Cliche, Eskimo Rec, and the curator and owner of the up and coming record label, Disco Halal. Mosco's distinctive sound, which takes in elements of Techno, New Wave, House, and the sounds of his native Middle East, has seen him quickly soar to prominence via his own production, his remix work, and his DJing style, and has now further been cemented by the success of Disco Halal, a label which aims to not only shine a light on lost musical curiosities from his own culture, but also to re-sculpt them for a modern dance floor.
+
+Toplinks:
+
+
+----
+
+Text:
+
+From Berlin via Tel Aviv comes Moscoman, the music producer behind underground hits on ESP Institute, Correspondant, I'm a Cliche, Eskimo Rec, and the curator and owner of the up and coming record label, Disco Halal. Mosco's distinctive sound, which takes in elements of Techno, New Wave, House, and the sounds of his native Middle East, has seen him quickly soar to prominence via his own production, his remix work, and his DJing style, and has now further been cemented by the success of Disco Halal, a label which aims to not only shine a light on lost musical curiosities from his own culture, but also to re-sculpt them for a modern dance floor.
 
 Since his first release in 2013, Moscoman’s profile is constantly on the rise, bringing him being the decks of the most interesting and unique clubs across Europe and North America. His releases received tremendous support from his peers and his recent alliance with Lovefinger’s taste making label ESP Institute only confirms Moscoman as one of the new driving force of underground dance music.
 
 Moscoman is currently putting the final touch on his first full-length album which will see the light of the day in the spring of 2016 on ESP Institute. Also lined up for 2016 there’s an EP with long time collaborators and friends Red Axes along with many fresh and surprising Disco Halal releases.
 
-(oembed: https://soundcloud.com/moscoman)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/moscoman
+
+----
+

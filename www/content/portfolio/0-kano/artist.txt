@@ -1,11 +1,30 @@
-Title: Kano
+Title:
+
+Kano
+
 ----
-Text: KANO returns with his most important body of work to date. The 15-track album Made In The Manor was recorded in London in 2015, produced by Fraser T Smith, Rustie, Mele, Mikey J, Blue May, Zeph Ellis and Swifta Beater, and is released by Parlophone on 19th March.
+
+Toplinks:
+
+
+----
+
+Text:
+
+KANO returns with his most important body of work to date. The 15-track album Made In The Manor was recorded in London in 2015, produced by Fraser T Smith, Rustie, Mele, Mikey J, Blue May, Zeph Ellis and Swifta Beater, and is released by Parlophone on 19th March.
 “You have to know where you’ve come from in order to know where you’re going”, says the acclaimed British rapper about the release of Made In The Manor. “But I like to take where I’ve come from along with me for the ride.”
 The first single ‘3 Wheel-Ups’, a muscular club banger features a trio of fiercely talented rappers - Kano, Wiley and Giggs - going full pelt, egging each other on to even greater lyrical heights.
 Made In The Manor is as much a love letter to his East End roots as it is an intimate portrayal of inner city England today, with just the merest hint of dark prophecy about what trouble could lie round the corner. Kano, who is never anything other than candid, says:
    
 “This is the most honest I’ve ever been on an album. It’s not that I wasn’t being honest before, it’s just that I wasn’t speaking about things this personal before.”
 
+----
 
-(oembed: https://soundcloud.com/kanoofficial)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/kanoofficial
+
+----
+

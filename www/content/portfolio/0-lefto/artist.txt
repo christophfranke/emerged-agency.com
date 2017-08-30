@@ -1,6 +1,17 @@
-Title: Lefto
+Title:
+
+Lefto
+
 ----
-Text: “You can’t sleep on Lefto! He’s always on it…” – Gilles Peterson (BBC 6 Music, Brownswood)
+
+Toplinks:
+
+
+----
+
+Text:
+
+“You can’t sleep on Lefto! He’s always on it…” – Gilles Peterson (BBC 6 Music, Brownswood)
 
 Described by Fact! Magazine as “your favourite DJ’s favourite DJ” and voted best DJ in the Red Bull Belgium DJ Top 100 Category multiple times, Lefto has proven to be one of the most important tastemakers Europe has to offer.  This bearded early riser is consistently a couple steps ahead of your average early adopter with affiliations to labels such as Brownswood Recordings, Blue Note, and !K7 Records.
 
@@ -8,4 +19,13 @@ World renowned, Lefto regularly blesses sound systems around the globe.  His tr
 
 Spring 2017 marks the airing of LEFTO IN TRANSIT, a 6 episode documentary series produced by Canvas TV featuring Lefto as he visits the underground music scenes of Los Angeles, Chicago, Brussels, London, Seoul, and greater Belgium.
 
-(oembed: https://soundcloud.com/lefto)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/lefto
+
+----
+

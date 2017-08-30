@@ -1,6 +1,17 @@
-Title: Tube & Berger
+Title:
+
+Tube & Berger
+
 ----
-Text: School buses aren’t the usual catalysts for great musical achievements, but this was where Arndt Roerig and Marko Vidovic – now known around the globe as Tube &amp; Berger – first started their musical journey. Now 15 or so years later they are two of the most seasoned house producers and in-demand remixers around, with an acclaimed studio album, releases on an array of prestigious labels and gigs at the world’s finest venues to their name. The biggest selling house act on Beatport in 2013, Tube &amp; Berger is already one of the hottest acts in the world; but this is only the beginning.
+
+Toplinks:
+
+
+----
+
+Text:
+
+School buses aren’t the usual catalysts for great musical achievements, but this was where Arndt Roerig and Marko Vidovic – now known around the globe as Tube &amp; Berger – first started their musical journey. Now 15 or so years later they are two of the most seasoned house producers and in-demand remixers around, with an acclaimed studio album, releases on an array of prestigious labels and gigs at the world’s finest venues to their name. The biggest selling house act on Beatport in 2013, Tube &amp; Berger is already one of the hottest acts in the world; but this is only the beginning.
 
 From early experimenting in the world of punk, the German duos first breakthrough came with their 2004 hit ‘Straight Ahead’, which featured the vocals of Chrissie Hynde and shot straight to the top of the Billboard Dance Radio Chart. Since this early success their output has evolved significantly, incorporating real-life recordings, samples and an intricate, emotion-laden production style to create records that are organic and evocative, without losing focus on packing that dancefloor punch essential for the modern-day DJ.
 
@@ -25,4 +36,13 @@ Their first release of 2014 has proved to be an astonishing success – even mor
 
 Until then, Tube &amp; Berger will continue doing what they do best; creating thoughtful, considered house music that pulls just as incessantly at the heart as it does the feet. And with the quality and consistency they’ve shown to date, there’s no limit to what they might achieve.
 
-(oembed: https://soundcloud.com/tubeandberger)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/tubeandberger
+
+----
+

@@ -1,6 +1,17 @@
-Title: Odesza
+Title:
+
+Odesza
+
 ----
-Text: In 2012, a striking new voice emerged from the wider surge of electronic music in the U.S. ODESZA’s Summer’s Gone stood out from the crowd; it was a collection of songs, not just beats; and its irresistible, startling dreaminess, addictive drums and fathoms-deep bass set it apart from the by-the-numbers brutality of EDM’s also-rans. In an age of manufactured internet buzz and carefully plotted hype, ODESZA’s story was refreshingly authentic: A brilliant new duo unveiled their music on the internet, and the world paid attention.
+
+Toplinks:
+
+
+----
+
+Text:
+
+In 2012, a striking new voice emerged from the wider surge of electronic music in the U.S. ODESZA’s Summer’s Gone stood out from the crowd; it was a collection of songs, not just beats; and its irresistible, startling dreaminess, addictive drums and fathoms-deep bass set it apart from the by-the-numbers brutality of EDM’s also-rans. In an age of manufactured internet buzz and carefully plotted hype, ODESZA’s story was refreshingly authentic: A brilliant new duo unveiled their music on the internet, and the world paid attention.
 
 The duo was playing to larger and larger crowds when Pretty Lights asked them to be the support act on the fall Pretty Lights tour, and to remix “One Day They’ll Know,” which also hit #1 on Hype Machine and #8 on the iTunes Electronic Chart. Later in 2013, ODESZA selected their favourite producers for a follow up remix EP, My Friends Never Die Remixes, and launched the ambitious, ongoing mixtape series NO.SLEEP.
 
@@ -10,4 +21,13 @@ ODESZA developed a new live performance to accompany In Return, ensuring that th
 
 That’s a lot of people paying attention! In Return is everything fans might have hoped for and then some: An album that places ODESZA firmly in the vanguard of electronic music’s coming of age.
 
-(oembed: https://soundcloud.com/odesza)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/odesza
+
+----
+

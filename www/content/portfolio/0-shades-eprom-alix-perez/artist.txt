@@ -1,6 +1,17 @@
-Title: Shades (Eprom & Alix Perez)
+Title:
+
+Shades (Eprom & Alix Perez)
+
 ----
-Text: Alix Perez (Belgium/UK) and Eprom (USA) are SHADES.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Alix Perez (Belgium/UK) and Eprom (USA) are SHADES.
 
 Perez found his rise to fame in drum'n'bass, releasing on Shogun Audio and Exit Records amongst many other labels and collaborating with the foremost names in dance and electronic music including Noisia, Foreign Beggars, dBridge, and many more.
 
@@ -18,4 +29,13 @@ SHADES' subsequent European tour saw them share the stage with Noisia, Kutmah, d
 
 The duo has already created another album's worth of music, and will certainly be changing the musical landscape in the very near future.
 
-(oembed: https://soundcloud.com/alphapup)/alix-perez-eprom-into-light-1
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/alphapup/alix-perez-eprom-into-light-1
+
+----
+

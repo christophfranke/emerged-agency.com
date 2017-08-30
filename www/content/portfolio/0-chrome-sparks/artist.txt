@@ -1,6 +1,17 @@
-Title: Chrome Sparks
+Title:
+
+Chrome Sparks
+
 ----
-Text: Chrome Sparks is the solo project of Jeremy Malvin, a Brooklyn transplant from Pittsburgh by way of Ann Arbor. In 2014, after having self released a small handful of singles and two EPs on Bandcamp, Malvin signed to the taste making Sydney based label Future Classic. Under the new label, he rereleased Sparks EP and released the Goddess EP. His next EP, Parallelism is slated to be released with Future Classic on November 6.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Chrome Sparks is the solo project of Jeremy Malvin, a Brooklyn transplant from Pittsburgh by way of Ann Arbor. In 2014, after having self released a small handful of singles and two EPs on Bandcamp, Malvin signed to the taste making Sydney based label Future Classic. Under the new label, he rereleased Sparks EP and released the Goddess EP. His next EP, Parallelism is slated to be released with Future Classic on November 6.
 
 Inspired by a background in classical percussion and an obsession with synthesizers, Malvin creates dazed, melodic beat-centric tunes that loosely hang between down-tempo head nodders and up-tempo club bangers. FADER has described his music as ‘form-shifting beats [that] seem to resonate with spaced-out chillers and hyperactive party kids alike’.
 
@@ -8,4 +19,13 @@ In 2012, while on Warped Tour as the drummer for Stepdad, Malvin released the sl
 
 Malvin's next EP, 'Parallelism', will be released with Future Classic on 11/13. It was made using three synthesizers, vocal samples from friends, and a tambourine.
 
-(oembed: https://soundcloud.com/chrome-sparks)/
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/chrome-sparks/
+
+----
+

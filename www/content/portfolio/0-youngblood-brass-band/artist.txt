@@ -1,6 +1,17 @@
-Title: Youngblood Brass Band
+Title:
+
+Youngblood Brass Band
+
 ----
-Text: Youngblood Brass Band destroys convention. They are focused on creating consistently progressive, acoustic, groundbreaking music, employing whatever sonic means necessary to do so. This nine- member ensemble hails from all over these sprawled United States (Madison, WI / New York, NY / San Francisco, CA / Chicago, IL) and sound absolutely focused on unleashing new music to the rest of the world.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Youngblood Brass Band destroys convention. They are focused on creating consistently progressive, acoustic, groundbreaking music, employing whatever sonic means necessary to do so. This nine- member ensemble hails from all over these sprawled United States (Madison, WI / New York, NY / San Francisco, CA / Chicago, IL) and sound absolutely focused on unleashing new music to the rest of the world.
 
 To that aim, they have been touring throughout Europe and the United States for the past five years. Having performed in over a dozen countries and at some of the most prestigious music festivals
 – Roskilde, Lowlands, Pukkelpop, Glastonbury, Womad, etc.
@@ -25,4 +36,13 @@ appearance in 2004 is already the stuff of media legend) and held in high regard
 
 We will do what we must.
 
-(oembed: https://soundcloud.com/youngbloodbrassband)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/youngbloodbrassband
+
+----
+

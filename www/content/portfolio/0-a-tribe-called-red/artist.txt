@@ -1,8 +1,15 @@
-Title: A Tribe Called Red
+Title:
+
+A Tribe Called Red
 
 ----
 
-Text: 
+Toplinks:
+
+
+----
+
+Text:
 
 Bursting forth from Canada’s capital, native Producer and DJ crew A Tribe Called Red is making an impact on the global electronic scene with a truly unique sound.
 
@@ -22,4 +29,13 @@ A Tribe Called Red promotes inclusivity, empathy and acceptance amongst all race
 
 “We are the Halluci Nation.”
 
-(oembed: https://soundcloud.com/a-tribe-called-red)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/a-tribe-called-red
+
+----
+

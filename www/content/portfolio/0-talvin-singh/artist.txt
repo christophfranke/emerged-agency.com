@@ -1,6 +1,17 @@
-Title: Talvin Singh
+Title:
+
+Talvin Singh
+
 ----
-Text: Percussionist, producer and composer, Talvin Singh, is renowned for creating the bridge between Indian and electronic music. Drawing Inspiration from the
+
+Toplinks:
+
+
+----
+
+Text:
+
+Percussionist, producer and composer, Talvin Singh, is renowned for creating the bridge between Indian and electronic music. Drawing Inspiration from the
 classical Indian arts, he has managed to sculpt a unique sonic landscape.
 Singh’s synthesis of electronic music and eastern aesthetic, is often referred to
 as Asian Underground, one of the most exciting movements in the history of
@@ -25,4 +36,13 @@ work as a music director for various creative projects.
 2017 will see performances of solo works from his current repertoire and also
 exclusive DJ sets that celebrate 20 years of the Asian Underground.
 
-(oembed: https://soundcloud.com/talvin-singh)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/talvin-singh
+
+----
+

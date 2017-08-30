@@ -1,8 +1,15 @@
-Title: ￼Mayer Hawthorne
+Title:
+
+￼Mayer Hawthorne
 
 ----
 
-Text: 
+Toplinks:
+
+
+----
+
+Text:
 
 Mayer Hawthorne has over 100 million plays on YouTube, Spotify and all those other Internet sites. His sophomore album How Do You Do earned him a Grammy nod. And if he got a vote for every SoundCloud follower he has (five million), he could get elected Senator somewhere. But he’s not some piece of shit politician;
 
@@ -22,10 +29,13 @@ album and penned every track. His songwriting pulls from his life and observatio
 It’s the shit people listen to when they wanna get drunk and stoned and
 sentimental. The reason? Mayer Hawthorne stays making that timeless, soulful, baby- making music.
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/mayerhawthorne
 
+----
 
-
-
-(oembed: https://soundcloud.com/mayerhawthorne)

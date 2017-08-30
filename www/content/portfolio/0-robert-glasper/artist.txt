@@ -1,6 +1,17 @@
-Title: Robert Glasper
+Title:
+
+Robert Glasper
+
 ----
-Text: Breakthrough success can often be a tough act to follow. But with a little help from some notable friends, Robert Glasper Experiment is set to up the ante with the follow-up to his successful GRAMMY-winning album Black Radio. Flaunting a diverse array of featured guests including Common, Patrick Stump of Fall Out Boy, Brandy, Jill Scott, Dwele, Marsha Ambrosius, Anthony Hamilton, Faith Evans, Norah Jones, Snoop Dogg, Lupe Fiasco, Luke James, Emeli Sandé, Lalah Hathaway, and Malcolm-Jamal Warner, Black Radio 2 is certain to surprise and delight critics and fans alike. With a unique fusion of R&B, jazz, and hip-hop that brazenly traverses the boundaries of all three genres, Black Radio 2 finds Glasper and his musical cohorts creating in a vibrant new chasm, brilliantly contrasting its predecessor in the process.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Breakthrough success can often be a tough act to follow. But with a little help from some notable friends, Robert Glasper Experiment is set to up the ante with the follow-up to his successful GRAMMY-winning album Black Radio. Flaunting a diverse array of featured guests including Common, Patrick Stump of Fall Out Boy, Brandy, Jill Scott, Dwele, Marsha Ambrosius, Anthony Hamilton, Faith Evans, Norah Jones, Snoop Dogg, Lupe Fiasco, Luke James, Emeli Sandé, Lalah Hathaway, and Malcolm-Jamal Warner, Black Radio 2 is certain to surprise and delight critics and fans alike. With a unique fusion of R&B, jazz, and hip-hop that brazenly traverses the boundaries of all three genres, Black Radio 2 finds Glasper and his musical cohorts creating in a vibrant new chasm, brilliantly contrasting its predecessor in the process.
 
 “This record was a little different,” explains the Houston, Texas native. “I didn’t want to make the same record twice. I wanted to make a conscious effort to keep the vibe and the spirit of the first one without it sounding the same.” Considering his own rich musical journey, this sonic shifting approach to Black Radio 2 seems to be a long time coming. Reared in a household where Motown, R&B, and gospel were constant companions, his mother sang and played piano in church while indulging in her love for jazz and blues by performing at local clubs. By the age of twelve, he’d begun to fully follow his mother’s lead by playing piano in church and accompanying her on club dates on the Houston circuit.
 
@@ -26,5 +37,13 @@ Black Radio 2 further exemplifies Glasper’s remarkable skill as a producer and
 
 “Jazz musicians are becoming more comfortable with music that speaks to them personally,” he muses. “I think it’s very important that musicians feed off the fruit of the music that actually is the soundtrack of their lives. The only way to keep something relevant is to renew it from history and let it grow and change. When that happens, you start getting stuff like Black Radio 2. Black music is the house that has many rooms. Black people have invented so many dope genres that everyone loves: Jazz, blues, gospel, R&B, rock, hip-hop, and the list goes on. I’m just visiting all those rooms. It’s my mansion; it’s our mansion. I don’t have to exclude anything. With that said, who knows where I’ll go next.”
 
+----
 
-(oembed: https://soundcloud.com/robertglasper)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/robertglasper
+
+----
+

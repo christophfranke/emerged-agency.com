@@ -1,8 +1,29 @@
-Title: Kaytranada
+Title:
+
+Kaytranada
+
 ----
-Text: Born in Haiti and raised in the city of Montreal, Canadian artist Kaytranada has experienced an explosive rise in the past couple of years with his irresistible production and live sets, but the hard work and success did not happen over night. Before touring the globe and amassing millions of hits online with his series of beloved tracks and mixes, the young man came up as a true disciple, absorbing hip hop and RnB culture since his childhood and finding ways to make the music his own.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Born in Haiti and raised in the city of Montreal, Canadian artist Kaytranada has experienced an explosive rise in the past couple of years with his irresistible production and live sets, but the hard work and success did not happen over night. Before touring the globe and amassing millions of hits online with his series of beloved tracks and mixes, the young man came up as a true disciple, absorbing hip hop and RnB culture since his childhood and finding ways to make the music his own.
  
 Since the age of fourteen, when he first began to DJ and the following year when his brother introduced him to music production software, his output has been relentless. As he explains, “after he showed me the basics, from that day on I couldn’t stop making beats,” pumping out a beat a day for the next couple of years and soon after self-releasing a series of EPs and beat tapes that quickly began to expand his reach. Official releases on HW&amp;W and Jakarta Records soon spread his name like wildfire and some instant-classic remixes by the likes of Missy Elliot, Janet Jackson, TLC, Danny Brown and others have cemented his reputation and his sound; an undeniable swing of the drums comparable to Dilla’s, a signature soulful touch in the melodies, and a healthy dose of funky bass lines.
  
 In the past year, he was approached by Brodinski to drop the single “Free Things In Life” on the hotly-tipped French label Bromance, has headlined tours in Europe, Australia and North America, and released his newest single and video “At All” which has already conquered dance floors worldwide and introduced his face to the world with an unforgettable video. Now, as he continues to bridge the gap between the dance world and hip hop/RnB, he is prepping a solo album for 2014 and a series of high profile collaborations that will confirm his position as one of the most important producers in today’s musical landscape.
-(oembed: https://soundcloud.com/kaytranada)
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/kaytranada
+
+----
+

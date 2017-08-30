@@ -1,6 +1,17 @@
-Title: Flume
+Title:
+
+Flume
+
 ----
-Text: In 2012, a young beatmaker called Flume burst on to the scene and single-handedly changed the face of Australian dance music and its possibilities.
+
+Toplinks:
+
+
+----
+
+Text:
+
+In 2012, a young beatmaker called Flume burst on to the scene and single-handedly changed the face of Australian dance music and its possibilities.
 The then 20-year old had just one single (‘Sleepless’) and one remix (Hermitude’s Hyperparadise) to his name. The buzz was growing, thanks in part to a standout afternoon performance at Splendour in the Grass, but his audience was confined largely to fans of underground electronica propagated by rising tastemaker label Future Classic. Today, Flume is a multi-platinum selling, internationally recognised career artist, creating his own space in electronic music.
 ‘Zeitgeist’ is an awkward and overused word, but Flume captured it. Lead single, the double-platinum selling ‘Holdin On’ came out and people went nuts. The album came out in November 2012 to rave reviews (‘scarily close to perfect’, said Rolling Stone) and debuted at #2. ‘On Top’ came out and once again people were hooked.
 He played countless festivals in his native country – Golden Plains, Falls and an especially memorable Laneway Festival headline slot – and fans couldn’t get enough. He was the highest- polled local artist and most-polled artist overall in triple j’s Hottest 100. At one point, Flume was playlisted on community radio, triple j and commercial radio simultaneously. In February, Flume peaked at #1 on the ARIA Chart, two months after its release. In April 2013, he sold out a mammoth 37,000 ticket national tour, including two Hordern Pavilions, two Festival Halls and a maximum capacity Riverstage.
@@ -15,4 +26,13 @@ In October, he returned to Australia to headline Listen Out and then spent the s
 “With that kind of control over his songs and performers, Flume could easily evolve into a sought-after producer.” – PITCHFORK
 “He’s woven a stunning debut which is as scattershot as it is coherent, and his homeland is certainly right to be heralding him as the next big thing.” – 8.5/10 THE LINE OF BEST FIT
 
-(oembed: https://soundcloud.com/flume)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/flume
+
+----
+

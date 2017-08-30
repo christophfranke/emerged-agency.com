@@ -1,6 +1,17 @@
-Title: LETHERETTE
+Title:
+
+LETHERETTE
+
 ----
-Text: The story of the most fun new force in electronic music goes a long way to explaining just why their music is so good. Letherette are two childhood friends with a current of empathy between them so strong that they seem more like brothers than anything else. Their serious intent is always expressed endearingly; they never take themselves too seriously, but they do want their music to be seriously good. 
+
+Toplinks:
+
+
+----
+
+Text:
+
+The story of the most fun new force in electronic music goes a long way to explaining just why their music is so good. Letherette are two childhood friends with a current of empathy between them so strong that they seem more like brothers than anything else. Their serious intent is always expressed endearingly; they never take themselves too seriously, but they do want their music to be seriously good. 
 
 Richard Roberts and Andy Harber were both born during a deep snowstorm one December - at the time the worst since 1960 - that prevented the ambulances that came to get their mothers from reaching their houses. They grew up thirty minutes away from each other in Wolverhampton, and met at the age of 11 when they were sent to the same secondary school. Andy threatened to beat Rich up if he didn't invite him to join a football game, and they took things from there. It's perhaps helpful to know that whilst Andy was the same height then as now, Rich used to look entirely physically different. He went so suddenly from blonde to dark haired that his father claimed he was swapped in his teens. 
 
@@ -26,5 +37,13 @@ And the work they made to do so became part of the demos that saw Ninja Tune eag
 
 They want, says Rich, ‘to be in a position where they make great albums playing to great people.’ 'We always want to be in touch with what's good,' Andy adds, 'and to make music we're proud of and never go stale. If that ever happened, in my ears, we’d call it a day.’ May that never come then, because it would make the musical landscape a significantly poorer place.
 
+----
 
-(oembed: https://soundcloud.com/letherette)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/letherette
+
+----
+

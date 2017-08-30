@@ -1,6 +1,17 @@
-Title: Metro Boomin
+Title:
+
+Metro Boomin
+
 ----
-Text: At only 22 years old, Metro Boomin, the platinum-selling and Grammy-nominated producer and DJ, has had a recent run to rival the biggest names in music – a run that includes executive producing two Billboard chart-topping albums, Future’s DS2 and Drake &amp; Future’s What A Time To Be Alive (and producing an astounding 18 of the two albums’ combined 24 tracks); executive producing Future’s 2016 Purple Reign; contributing production to four songs on Kanye West’s new album, The Life of Pablo; going on two North American tours – with Chance the Rapper, Travis Scott, and Young Thug; playing – including spot dates and festivals – over 100 shows in 2015; and simultaneously working with some of the genre’s biggest stars, a list of names that includes Nicki Minaj, 2 Chainz, Tinashe, Gucci Mane, YG, Ludacris, Wiz Khalifa, Meek Mill, Makonnen and more.
+
+Toplinks:
+
+
+----
+
+Text:
+
+At only 22 years old, Metro Boomin, the platinum-selling and Grammy-nominated producer and DJ, has had a recent run to rival the biggest names in music – a run that includes executive producing two Billboard chart-topping albums, Future’s DS2 and Drake &amp; Future’s What A Time To Be Alive (and producing an astounding 18 of the two albums’ combined 24 tracks); executive producing Future’s 2016 Purple Reign; contributing production to four songs on Kanye West’s new album, The Life of Pablo; going on two North American tours – with Chance the Rapper, Travis Scott, and Young Thug; playing – including spot dates and festivals – over 100 shows in 2015; and simultaneously working with some of the genre’s biggest stars, a list of names that includes Nicki Minaj, 2 Chainz, Tinashe, Gucci Mane, YG, Ludacris, Wiz Khalifa, Meek Mill, Makonnen and more.
 
 Born Leland Wayne, Metro, a St. Louis native, first started making beats at 13, an aspiring rapper who convinced his mother to buy him his first laptop as a birthday present. Upon graduating high school, Metro moved to Atlanta, to attend Morehouse College, dropping out following his first semester after, he found himself in the studio more than the classroom, the beginnings of a run that only a few short years later, now finds the producer toping charts and shifting culture.
 
@@ -8,4 +19,13 @@ Despite all of this success, it’s the work that Metro has done building and so
 
 As the accomplishments continue to stack, it’s safe to say that Metro has experienced more success at 22 than most do in a lifetime. Despite that success, Metro is working to find new and exciting ways to interact with his fans and engage new audiences alike, working tirelessly towards his goal of becoming one of music’s most dominant names. Metro Boomin Wants Some More, indeed.
 
-(oembed: https://soundcloud.com/metroboomin)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/metroboomin
+
+----
+

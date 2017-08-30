@@ -1,6 +1,17 @@
-Title: Little Boots
+Title:
+
+Little Boots
+
 ----
-Text: Since she emerged as Little Boots in 2008, Victoria Hesketh has been steadily regenerating, caressing her crystalline pop into bold new shapes. Released in 2009, the same year she topped the BBC Sound Of poll, her Gold-selling debut album 'Hands' showcased a proper popstar willing to experiment, fusing massive pop hooks onto otherworldly electronic soundscapes, while critically revered follow-up 'Nocturnes' succeeded in its aim to create experimental late night dance music built around classic pop songwriting. But it's on excellent third album 'Working Girl' where it appears she's truly come into her own, creating a forward-thinking, constantly shape-shifting dance-pop album that you can delve headlong into.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Since she emerged as Little Boots in 2008, Victoria Hesketh has been steadily regenerating, caressing her crystalline pop into bold new shapes. Released in 2009, the same year she topped the BBC Sound Of poll, her Gold-selling debut album 'Hands' showcased a proper popstar willing to experiment, fusing massive pop hooks onto otherworldly electronic soundscapes, while critically revered follow-up 'Nocturnes' succeeded in its aim to create experimental late night dance music built around classic pop songwriting. But it's on excellent third album 'Working Girl' where it appears she's truly come into her own, creating a forward-thinking, constantly shape-shifting dance-pop album that you can delve headlong into.
 
 Reflecting the freedom and control she now has over her own career – 'Working Girl' will be released by her own On Repeat imprint in a new partnership with LA-based dance indie Dim Mak– it is a conceptually-driven album about trying to live in a hyper-active, paranoid and posturing modern world (but with massive donks all over the place). As well as a wry nod to the 1989 film of the same name, the album's manifesto is multi-faceted.
 
@@ -28,6 +39,13 @@ Indebted to Hesketh's ongoing love affair with club culture and DJing, whereas t
 
 It's not entirely without its lamenting though, namely a bygone era in the late 90s when "house music told stories” (she specify cites Everything But The Girl's latter albums), as well as the minimal Noughties R&amp;B of Cassie and Lumidee. But this time she's chiefly focussed on futuristic beats, with constant eye on big-concept contemporary pop. “I'm completely passionate about what I do now,” Hesketh states, a glint of determination in her eye. “It has been a huge transition and is a lot of rewarding work, but I'm in complete control now.”
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/littleboots)
+-
+  url: >
+    https://soundcloud.com/littleboots
+
+----
+

@@ -1,6 +1,17 @@
-Title: Martin Jensen
+Title:
+
+Martin Jensen
+
 ----
-Text: Martin Jensen has become one of Danish music’s greatest viral success stories with more than 2 million likes on his Facebook page and a staggering 400 million views on his videos so far!
+
+Toplinks:
+
+
+----
+
+Text:
+
+Martin Jensen has become one of Danish music’s greatest viral success stories with more than 2 million likes on his Facebook page and a staggering 400 million views on his videos so far!
 
 He appeared out of nowhere in the beginning of 2015 when he released the bounce hit ’Sí’ inspired by Cristiano Ronaldo’s shout of joy at the Ballon D’or awards. The video, wherein he shows how the hook was created spread like wildfire, so Martin and his label disco:wax decided to produce the full-length version.
 
@@ -10,4 +21,13 @@ Today Martin Jensen has released three tracks, where two of those originates fro
 
 Martin’s latest single ‘All I Wanna Do’ was released on April 8th 2016 and in no time it has exceeded 30 million streams. Stay tuned and watch the next global superstar story in the making unfold.
 
-(oembed: https://soundcloud.com/djmartinjensen)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/djmartinjensen
+
+----
+

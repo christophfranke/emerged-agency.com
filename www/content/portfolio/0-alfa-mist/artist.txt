@@ -1,7 +1,27 @@
-Title: Alfa Mist
+Title:
+
+Alfa Mist
+
 ----
-Text: Growing up in Newham, East London, Alfa Mist began his musical journey as a grime and hiphop producer. The self-taught pianist and sometimes rapper soon found himself drawn to the jazz, world music and film soundtracks he discovered through sampling. His sound blends melancholy jazz harmony with alternative hip-hop and soul.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Growing up in Newham, East London, Alfa Mist began his musical journey as a grime and hiphop producer. The self-taught pianist and sometimes rapper soon found himself drawn to the jazz, world music and film soundtracks he discovered through sampling. His sound blends melancholy jazz harmony with alternative hip-hop and soul.
 
 His recently released second album ‘Antiphon’ has pushed him forward in the new jazz scene as one to watch following the warm reception of his first record ‘Nocturne’ which featured the likes of Tom Misch and Jordan Rakei.
 
-(oembed: https://soundcloud.com/alfamist)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/alfamist
+
+----
+

@@ -1,6 +1,17 @@
-Title: Goldfish
+Title:
+
+Goldfish
+
 ----
-Text: Issuing forth from the same rich vein of electronic bands that contains the likes of Groove Armada, Basement Jaxx, Soul II Soul, Leftfield and Massive Attack, South African duo Goldfish Live are creating expansive, enveloping, sumptuously funk-filled music for new and older generations alike.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Issuing forth from the same rich vein of electronic bands that contains the likes of Groove Armada, Basement Jaxx, Soul II Soul, Leftfield and Massive Attack, South African duo Goldfish Live are creating expansive, enveloping, sumptuously funk-filled music for new and older generations alike.
 
 
 
@@ -22,4 +33,13 @@ After scooping a record-breaking eight nominations at the 2009 South African Mus
 
 In between the music, Goldfish continually tour the planet. From the Sydney Opera House to the Amsterdam Olympic Stadium, from Miami to Sao Paulo to London and beyond, from Glastonbury and Sensation White to Ultra Music Festival Miami and South Africa, 46664, Wakarusa, Mysteryland (US), Electric Forest, Northern Nights, KAABOO, Get Loaded In The Park and sell-out North American tours, Goldfish have continually proven themselves to be one of the most exciting and inspiring live acts around, with an unqualified ability to get the crowd off their feet. With more dates across the Americas and Europe being added to their rapidly expanding tour diary, Goldfish once more look set to prove why they are one of the most exciting, talented, funk-drenched live House bands on the face of the planet.
 
-(oembed: https://soundcloud.com/goldfishlive)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/goldfishlive
+
+----
+

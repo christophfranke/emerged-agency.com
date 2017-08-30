@@ -1,8 +1,28 @@
-Title: Kingdom
+Title:
+
+Kingdom
+
 ----
-Text: L.A.-based producer, DJ, and label head Kingdom (aka Ezra Rubin) has built considerable influence with both his discography and the output from his own imprint, Fade to Mind. Kingdom first began to make a name for himself via a series of mixtapes; eschewing traditional genre limitations while adeptly combining elements of grime, house, underground club music, and more with currents of hip-hop and R&B, he developed a hybridized, cutting-edge, and potent strain of dance music.
+
+Toplinks:
+
+
+----
+
+Text:
+
+L.A.-based producer, DJ, and label head Kingdom (aka Ezra Rubin) has built considerable influence with both his discography and the output from his own imprint, Fade to Mind. Kingdom first began to make a name for himself via a series of mixtapes; eschewing traditional genre limitations while adeptly combining elements of grime, house, underground club music, and more with currents of hip-hop and R&B, he developed a hybridized, cutting-edge, and potent strain of dance music.
 Shortly thereafter his Fool's Gold-issued debut 'Mind Reader' was released, but in 2009 it was Kingdom's work with London's Night Slugs label, especially the widely acclaimed 'That Mystic' and 'Dreama' EPs, that truly brought his razor-sharp productions to the masses.
 Eventually, he relocated to Los Angeles and set up Fade to Mind in collaboration with his friends Nguzunguzu, Total Freedom, and Prince Will. Operating as a sister label to Night Slugs, Fade to Mind's ethos ignores imagined distinctions between mainstream and underground while experimenting with avant-garde rhythms and crafting a uniquely futuristic and dancefloor-ready sound. Moreover, the imprint has provided Kingdom with a vehicle to further develop his craft, whether he's flipping R&B and rap cuts into twisted club tracks, producing Kelela's debut 'CUT 4 ME', or directing the label's next level visual aesthetic.
 Pitchfork's 'Ten Essential Tracks' from Kingdom
 
-(oembed: https://soundcloud.com/kkingdomm)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/kkingdomm
+
+----
+

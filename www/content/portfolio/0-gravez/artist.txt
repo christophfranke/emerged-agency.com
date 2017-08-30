@@ -1,7 +1,27 @@
-Title: Gravez
+Title:
+
+Gravez
+
 ----
-Text: At only 23 years old, Atlanta based musician Gravez is making noise. Known for his hard hitting percussion and undeniable knack for melody, Gravez defies any notion of genre or labels.
+
+Toplinks:
+
+
+----
+
+Text:
+
+At only 23 years old, Atlanta based musician Gravez is making noise. Known for his hard hitting percussion and undeniable knack for melody, Gravez defies any notion of genre or labels.
 Initially catching buzz for his early remixes of hip hop's elite, things changed once those same artists (i.e. Travis Scott and Jaden Smith) began publicly supporting his efforts. Now with over 30 million streams across the web and headlining world tours under his belt, Gravez has secured his place among the electronic scene's brightest up and coming stars.
 After producing "502 Come Up" from Bryson Tiller's platinum album "Trapsoul" and performing with the likes of Talib Kweli and Freddie Gibbs, Gravez most recently appeared on Skrillex and Diplo's Jack Ü remix album. Officially signed to LA powerhouse HW&W Recordings, fans can expect to hear the highly anticipated debut EP "Bury Me" from Gravez in the not too distant future.
 
-(oembed: https://soundcloud.com/gravez)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/gravez
+
+----
+

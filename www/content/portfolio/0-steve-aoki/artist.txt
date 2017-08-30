@@ -1,9 +1,29 @@
-Title: Steve Aoki
+Title:
+
+Steve Aoki
+
 ----
-Text: The man behind DIM MAK RECORDS has been credited with launching the careers of some of the most influential acts of the last decade including Bloc Party, The Kills, Klaxons, MSTRKRFT, The Bloody Beetroots, Mystery Jets, The Rakes, The Gossip and more.  Since founding the label, he’s stepped into the limelight himself as a DJ, artist and producer remixing the likes of Michael Jackson, The Killers, Robin Thicke, Lenny Kravitz, Weezer, Chester French, Tiga, All American Rejects, Drake, Chris Cornell &amp; more.
+
+Toplinks:
+
+
+----
+
+Text:
+
+The man behind DIM MAK RECORDS has been credited with launching the careers of some of the most influential acts of the last decade including Bloc Party, The Kills, Klaxons, MSTRKRFT, The Bloody Beetroots, Mystery Jets, The Rakes, The Gossip and more.  Since founding the label, he’s stepped into the limelight himself as a DJ, artist and producer remixing the likes of Michael Jackson, The Killers, Robin Thicke, Lenny Kravitz, Weezer, Chester French, Tiga, All American Rejects, Drake, Chris Cornell &amp; more.
 
 More recently he’s been seen collaborating with like-minded producers ranging from from Armand Van Helden, Laidback Luke, Afrojack, Boys Noize, The Faint, D.i.M., The Bloody Beetroots, &amp; Junkie XL and can now be found readying his debut artist album which includes collaborations from the likes of Lil Jon, Rivers Cuomo, Sky Ferreira, Chiddy Bang, Travis Barker, Kele of Bloc Party, Kid Cudi, Blaqstarr and the mysterious [[[zuper blahq]]] who can be found on the lead single “I’M IN THE HOUSE”.
 
 Also involved in fashion, Aoki has developed lines for KR3W Apparel, Supra Footwear, headphones for WESC, headwear with NEFF, bags with Burton, &amp; a brand new mens/women’s range with his sister Devon.
 
-(oembed: https://soundcloud.com/steveaoki)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/steveaoki
+
+----
+

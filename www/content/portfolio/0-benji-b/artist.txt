@@ -1,7 +1,27 @@
-Title: Benji B
+Title:
+
+Benji B
+
 ----
-Text: Benji B is one of the UK's most respected DJs. Renowned worldwide for his radio shows and club sets alike, he's amassed a fan base who have come to see him as a leader in the future music movement. 
+
+Toplinks:
+
+
+----
+
+Text:
+
+Benji B is one of the UK's most respected DJs. Renowned worldwide for his radio shows and club sets alike, he's amassed a fan base who have come to see him as a leader in the future music movement. 
 Having worked tirelessly since first falling in love with Londonʼs club culture at an early age, Benji B stands today as one of the UKʼs most respected broadcasters and DJs. As renowned for his deep, crate plundering club sets (which take in everything from soulful electronic music to hip hop, house and beyond) as much as his eclectic, taste-making selections. 
 Alongside his weekly BBC show on Radio 1 Benji has been running his club night Deviation Sessions in London now in it's sixth year. Each month he installs a bespoke soundsystem on which have played the likes of Flying Lotus, Hudson Mohawke, Joy Orbison, Floating Points and Skream to Moodymann, Dam-Funk, Theo Parrish, Omar-S, Gerd Janson and many more. Over it's five years Deviation has been widely regarded as one of the very best club nights in London.
 
-(oembed: https://soundcloud.com/benji-b)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/benji-b
+
+----
+

@@ -1,7 +1,27 @@
-Title: UZ
+Title:
+
+UZ
+
 ----
-Text: The mysterious ︻╦╤─ ƱZ ─╤╦︻ came up on the soundcloud scene about 4 months ago, with the amazing ŤɌ∆Ҏ ᶊῌῗ† series. With huge support from DJ’s worldwide – The likes of Diplo, Flosstradamus, JWLS, Toddla T, Baauer, and Craze to name a few.
+
+Toplinks:
+
+
+----
+
+Text:
+
+The mysterious ︻╦╤─ ƱZ ─╤╦︻ came up on the soundcloud scene about 4 months ago, with the amazing ŤɌ∆Ҏ ᶊῌῗ† series. With huge support from DJ’s worldwide – The likes of Diplo, Flosstradamus, JWLS, Toddla T, Baauer, and Craze to name a few.
 
 ƱZ’s debut EP was released on Jeffree’s, a sub-label to Mad Decent. “ƱZ tunes are drunken energy sub bass and cartoon horn stabs that make my stomach feel weird and my feet shuffle” Diplo writes. Raw and powerful, but with a laid back tempo, ƱZ gives listeners a chance to slow down without losing momentum.
 
-(oembed: https://soundcloud.com/ball-trap-music)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/ball-trap-music
+
+----
+

@@ -1,7 +1,27 @@
-Title: Ryan Hemsworth
+Title:
+
+Ryan Hemsworth
+
 ----
-Text: Ryan Hemsworth is a young producer from Canada with a remarkably productive output in the past two years and a totally unique approach to hip hop, R&amp;B and dance production.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Ryan Hemsworth is a young producer from Canada with a remarkably productive output in the past two years and a totally unique approach to hip hop, R&amp;B and dance production.
 With an early background as a singer and guitarist, he quickly weaned off rock into hip hop and more software oriented music, diving whole-heartedly into drum loops and samples. In 2011, his first release No Plans was featured on SPIN magazine’s Top 20 R&amp;B albums of 2011 and he quickly followed up with A Way and Kitsch Genius, which got him increasingly noticed for a singular sound attracting a number of music critics and artists from across the country. He soon began cultivating relationships online and became a go-to producer for MCs like Main Attrakionz, Shady Blaze, and Deniro Farrar, helping craft a sound sitting somewhere between chill wave and trap rap. Hyperbolic Chamber Music, a collaborative project with NYC clothing brand Mishka, saw him at the helm of a 22-minute posse cut featuring 26 different rapper from across America, and his remix treatment of Grimes, Frank Ocean, and Danny Brown have kept his name spreading in the past year.
 With his first label release, the Last Words EP released through Wedidit Collective, Ryan Hemsworth continued his sonic collages and explorations, digging even deeper into unexplored genres. 2013 saw his success become explosive with a series of high-profile tours, unstoppable remixes, and a debut album in the works that will surely take his name and work to the next level.
 
-(oembed: https://soundcloud.com/ryanhemsworth)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/ryanhemsworth
+
+----
+

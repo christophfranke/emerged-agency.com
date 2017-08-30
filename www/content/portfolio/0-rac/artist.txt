@@ -1,6 +1,17 @@
-Title: RAC
+Title:
+
+RAC
+
 ----
-Text: RAC used to stand for "Remix Artist Collective".
+
+Toplinks:
+
+
+----
+
+Text:
+
+RAC used to stand for "Remix Artist Collective".
 
 These days it's the solo project of André Allen Anjos.
 
@@ -16,4 +27,16 @@ In 2017, André won the GRAMMY award in the category of Best Remixed Recording.
 
 Sometimes for fun the husband&amp;wife combo, Liz and André record some covers. Check them out here.
 
-(oembed: https://soundcloud.com/rac)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    http://soundcloud.com/rac/sets/rac-portfolio/
+-
+  url: >
+    https://soundcloud.com/rac
+
+----
+

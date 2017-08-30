@@ -1,7 +1,25 @@
-Title: Teen Daze
+Title:
+
+Teen Daze
+
 ----
-Text: Autumnal days feel exceptionally short in Abbotsford, BC, Canada. The sun rises but hardly invites. The inevitability of night is impending. As 2012 came to a close, Teen Daze entered a state of repose. He chose the company of insular, droning ambient music. He wrote new material, and for the first time he found the process not to be a means of escape or refuge. Rather than imagining an outward utopia, or seeking an inward sanctuary, he simply engaged his work with his reality, his physical world. Like its namesake, Glacier is more than solidified water adrift in a sea of home-produced electronic music. It is a collection of moments, historical particles and physical experiences, gathered into a whole. A testament to self-editing and sequencing, the 40-minute album merges hours of abstract instrumental work with more structured compositions. Varied yet cohesive, Glacier finds Jamison confident both as a drifter and a romantic. Lyrics are used personally and sparingly, often drifting in and out on a single phrase. “No one sees you, the way I see you”, he repeats through opener “Alaska”. Album centerpiece “Ice On The Windowsill” celebrates the notion of remaining indoors with the one you love as the world frosts over. Connecting each epiphany are wordless ruminations—like the twisted pitch of “Tundra”, the cool warmth of “Forest At Dawn”—some of the most evocative sound design in Teen Daze’s career to date. “Walk” is the rightful closer, an affectingly repetitious four chord salute to a fallen day. The album’s fixation on manifesting physicality translates to being a highly performative production. The role of live instruments, field recordings, and general human presence is evident in these songs, just as millennia-old organisms lay suspended in a frozen core. This was a deliberate choice; Teen Daze plans to tour in support of the release for the first time as a full band—essentially to actualize Glacier in the physical world.
+
+Toplinks:
 
 
+----
 
-(oembed: https://soundcloud.com/teendaze)
+Text:
+
+Autumnal days feel exceptionally short in Abbotsford, BC, Canada. The sun rises but hardly invites. The inevitability of night is impending. As 2012 came to a close, Teen Daze entered a state of repose. He chose the company of insular, droning ambient music. He wrote new material, and for the first time he found the process not to be a means of escape or refuge. Rather than imagining an outward utopia, or seeking an inward sanctuary, he simply engaged his work with his reality, his physical world. Like its namesake, Glacier is more than solidified water adrift in a sea of home-produced electronic music. It is a collection of moments, historical particles and physical experiences, gathered into a whole. A testament to self-editing and sequencing, the 40-minute album merges hours of abstract instrumental work with more structured compositions. Varied yet cohesive, Glacier finds Jamison confident both as a drifter and a romantic. Lyrics are used personally and sparingly, often drifting in and out on a single phrase. “No one sees you, the way I see you”, he repeats through opener “Alaska”. Album centerpiece “Ice On The Windowsill” celebrates the notion of remaining indoors with the one you love as the world frosts over. Connecting each epiphany are wordless ruminations—like the twisted pitch of “Tundra”, the cool warmth of “Forest At Dawn”—some of the most evocative sound design in Teen Daze’s career to date. “Walk” is the rightful closer, an affectingly repetitious four chord salute to a fallen day. The album’s fixation on manifesting physicality translates to being a highly performative production. The role of live instruments, field recordings, and general human presence is evident in these songs, just as millennia-old organisms lay suspended in a frozen core. This was a deliberate choice; Teen Daze plans to tour in support of the release for the first time as a full band—essentially to actualize Glacier in the physical world.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/teendaze
+
+----
+

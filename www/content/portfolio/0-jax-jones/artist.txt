@@ -1,6 +1,23 @@
-Title: Jax Jones
+Title:
+
+Jax Jones
+
 ----
-Text: Last year saw the South London based; self-schooled multi-instrumentalist, producer and songwriter establish himself as one of the UK’s breakthrough producers. He won international recognition for co-writing and co-producing Duke Dumont’s Grammy and Brits nominated #1 single ‘I GOT U’ as a featured artist, in parallel to making out on his own with solo tracks ‘Go Deep’ and ‘Luv Like This’ which became favourites on club and DJ circuits. Remixes for London Grammar, Paloma Faith and Duke Dumont further attested to his much-in demand touch, as well as playing to thousands in venues including the Albert Hall in Manchester, Sankey’s in Ibiza and Space in New York.
+
+Toplinks:
+
+-
+  url: >
+    https://www.facebook.com/OnMyJaxJones
+-
+  url: >
+    https://twitter.com/JaxJones
+
+----
+
+Text:
+
+Last year saw the South London based; self-schooled multi-instrumentalist, producer and songwriter establish himself as one of the UK’s breakthrough producers. He won international recognition for co-writing and co-producing Duke Dumont’s Grammy and Brits nominated #1 single ‘I GOT U’ as a featured artist, in parallel to making out on his own with solo tracks ‘Go Deep’ and ‘Luv Like This’ which became favourites on club and DJ circuits. Remixes for London Grammar, Paloma Faith and Duke Dumont further attested to his much-in demand touch, as well as playing to thousands in venues including the Albert Hall in Manchester, Sankey’s in Ibiza and Space in New York.
 
 ‘Yeah Yeah Yeah’
 
@@ -10,8 +27,13 @@ Grammy and BRITs-nominated UK producer Jax Jones returns with new single ‘Yeah
 
 Just in time for the sunshine, ‘Yeah Yeah Yeah’ is an infectiously upbeat, dance-floor igniting house-soul epic, with vintage disco strings, ecstatic vocal samples and sticky bass coming together for a five-minute hands-in-the-air joy ride. Upon being premiered, the track went straight to #1 on the Hype Machine Popular Tracks chart.
 
-(oembed: https://www.facebook.com/OnMyJaxJones)
+----
 
-(oembed: https://twitter.com/JaxJones)
+Bottomlinks:
 
-(oembed: https://soundcloud.com/jaxjones)
+-
+  url: >
+    https://soundcloud.com/jaxjones
+
+----
+

@@ -1,6 +1,20 @@
-Title: Me and my Drummer
+Title:
+
+Me and my Drummer
+
 ----
-Text: Hailing from Berlin duo Me And My Drummer release their sophomore album "Love Is A Fridge" in February 2016. Three years after the release of their highly respected debut album "The Hawk, The Beak, The Prey" this outstanding band looks back on a colourful as well as restless story. Now, with "Love Is A Fridge" they achieve new heights.
+
+Toplinks:
+
+-
+  url: >
+    https://www.youtube.com/watch?v=VbeSoMgJG24
+
+----
+
+Text:
+
+Hailing from Berlin duo Me And My Drummer release their sophomore album "Love Is A Fridge" in February 2016. Three years after the release of their highly respected debut album "The Hawk, The Beak, The Prey" this outstanding band looks back on a colourful as well as restless story. Now, with "Love Is A Fridge" they achieve new heights.
 
 
 When Me And My Drummer release their debut in 2012 Charlotte Brandi and Matze Pröllochs make a more than fabulous start. Almost incidentally they provide the rebellious hit single "You're A Runner", which - with its driving impulsiveness and ecstatic finale - doesn't follow the usual formula at all. Subsequently they play more than 150 shows across Europe and the UK. And meanwhile collaborate with likewise outstanding artists Kat Frankie, Tale Of Us and Breton before they allow themselves a break and finally concentrate completely on writing a second album.
@@ -13,6 +27,12 @@ Though Brandi is more straightforward now: She approaches the addressee unabashe
 
 Musically Me And My Drummer are more experimental and brave, the compositions more complex and frank. Classic songs like "Blue Splinter View" or "Pentonville Road" face fragmentary beauties as "Easy On Me" or the nearly jam-like track "Prague I &amp; II". In addition the band allows itself to open up soundwise and lets Brandi play an urging, sometimes folk, sometimes grunge e-guitar on some of the new pieces.
 
-"Love Is A Fridge" reveals the force and intimacy Me And My Drummer's musical uncompromissingness creates. A captivating immediacy they celebrate in their music and continue to determine. It is the great pleasure of directly participating in the exchange of two fantastic musicians. 
+"Love Is A Fridge" reveals the force and intimacy Me And My Drummer's musical uncompromissingness creates. A captivating immediacy they celebrate in their music and continue to determine. It is the great pleasure of directly participating in the exchange of two fantastic musicians.
 
-(oembed: https://www.youtube.com/watch)?v=VbeSoMgJG24
+----
+
+Bottomlinks:
+
+
+----
+

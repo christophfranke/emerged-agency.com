@@ -1,6 +1,17 @@
-Title: Clap! Clap!
+Title:
+
+Clap! Clap!
+
 ----
-Text: Clap! Clap!, aka Cristiano Crisci, is an internationally acclaimed producer and performer. One of Italy’s brightest new talents, Clap! Clap! brings together disparate inspirations and styles onto the dancefloor of his mind. His music has been supported by Gilles Peterson and featured in GTA V, Boiler Room, Ninja Tune’s Solid Steel mix series, and the FABRIC mix CD series. He has performed his energetic live shows across Europe and Japan and produced for Paul Simon.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Clap! Clap!, aka Cristiano Crisci, is an internationally acclaimed producer and performer. One of Italy’s brightest new talents, Clap! Clap! brings together disparate inspirations and styles onto the dancefloor of his mind. His music has been supported by Gilles Peterson and featured in GTA V, Boiler Room, Ninja Tune’s Solid Steel mix series, and the FABRIC mix CD series. He has performed his energetic live shows across Europe and Japan and produced for Paul Simon.
 
 Born and bred in Florence, Crisci began his career in the mid–1990s as a rapper before picking up the saxophone and performing both jazz standards and jazz/punk fusion with Trio Cane. In 2004, he returned to electronic roots with A Smile For Timbuctu, playing synthesisers, releasing four albums, and performing across Europe. By 2008, Crisci decided to strike it out on his own with the Digi G’Alessio project, channeling the same energies as the Los Angeles beat scene. Following a string of EPs and albums under the name, Crisci hit upon a new formula with the Ivory EP, combining samples from the African continent with energetic drum programming. The EP led to the birth of Clap! Clap! in 2013. The stripped-back, high-energy yet inventive sound caught the attention of British label Black Acre with whom Crisci has been working since.
 
@@ -10,4 +21,13 @@ Following his work with Paul Simon, Crisci completed his second album as Clap! C
 
 With a passion for history and the sounds that surround us, Crisci is a unique electronic artist capable of both channeling the energy of the moment and the intricacies of where we come from to create music that can soundtrack where we’re going.
 
-(oembed: https://soundcloud.com/clakclakboomclak)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/clakclakboomclak
+
+----
+

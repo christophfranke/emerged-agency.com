@@ -1,13 +1,30 @@
-Title: Phazz
+Title:
+
+Phazz
+
 ----
-Text: With productions always more original, Phazz 22-years-old producer stands out as an young up-and-coming artist of the French and international Hip-hop/Electronic scene.
+
+Toplinks:
+
+
+----
+
+Text:
+
+With productions always more original, Phazz 22-years-old producer stands out as an young up-and-coming artist of the French and international Hip-hop/Electronic scene.
 
 The French artist compiles an eclectic collection of stirring tracks, each with its own identity &amp; unique vibe attentively created &amp; arranged to depict the story of Phazz's inspired production, motivated by a love of piano from an early age.
 Already supported by XXYYXX, Cashmere Cat, Just Blaze or even BBC Radio 1, the Lyon based producer is driven by creating contemporary music. His sounds belong as much in the club as they do in the bedroom, oozing with that sexual energy and romantic swagger that made so many of us fall in love with R&amp;B in the early 00s.
 
 Press play, sit back, and enjoy the ride.
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/phazzmusic
 
-(oembed: https://soundcloud.com/phazzmusic)
+----
+

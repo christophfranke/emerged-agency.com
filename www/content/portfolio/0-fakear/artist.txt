@@ -1,6 +1,17 @@
-Title: Fakear
+Title:
+
+Fakear
+
 ----
-Text: Fakear, AKA Theo Le Vigoureux, is the brightest star of France’s electronic new wave. A young producer whose music sits somewhere on the axis linking Jamie XX, Bonobo and Daft Punk, his globally attuned style combines deep, European house heritage with the sonic textures of the UK and American electronic undergrounds.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Fakear, AKA Theo Le Vigoureux, is the brightest star of France’s electronic new wave. A young producer whose music sits somewhere on the axis linking Jamie XX, Bonobo and Daft Punk, his globally attuned style combines deep, European house heritage with the sonic textures of the UK and American electronic undergrounds.
 
 In a career that’s still only just getting underway, he’s had a top 10 EP in France, attracted public calls from MIA for a collaboration, remixed American electronic stars ODESZA and sold out Paris’ legendary Olympia. He blew away the audience at Eurosonic, played his song ‘La Lune Rousse’ live on French TV, and has been booked to play the USA’s legendary Ultra Festival. The FADER premiered his song ‘Venus,’ and R1’s dance luminary Annie Mac counts herself a supporter.
 
@@ -38,7 +49,13 @@ Animal ranges from the flamenco refrain of “Sheer-Khan”, through the origina
 
 Throughout the album, Fakear ensured that his electronic methodology enhanced, rather than limited his raw instinct. He built sounds from memories and from talismanic items; The result is an album as suited to the dance floor as it to listening under the stars, or in the moonlight of the “Lune Rousse”. In the studio as on the boards, Fakear’s music is lively, incarnated and instinctive. Definitively Animal.
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/fakear
 
-(oembed: https://soundcloud.com/fakear)
+----
+

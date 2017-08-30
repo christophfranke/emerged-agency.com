@@ -1,5 +1,25 @@
-Title: Joker
-----
-Text: Liam McLean (born 30 January 1989), better known by his stage name Joker, is a British record producer who creates music in genres such as dubstep and grime and was known for creating the subgenre "Purple sound". He was named "2009 king of bass music" by XLR8R Magazine and was featured in the September 2009 issue of The Wire magazine. He has contributed to two releases produced by the London-based record company Hyperdub. He also runs his own label known as Kapsize Recordings.His debut album The Vision was released on October 31, 2011 through independent label 4AD. His sophomore LP The Mainframe was released on February 16, 2015 through his own Kapsize imprint.
+Title:
 
-(oembed: https://soundcloud.com/jokerkapsize)
+Joker
+
+----
+
+Toplinks:
+
+
+----
+
+Text:
+
+Liam McLean (born 30 January 1989), better known by his stage name Joker, is a British record producer who creates music in genres such as dubstep and grime and was known for creating the subgenre "Purple sound". He was named "2009 king of bass music" by XLR8R Magazine and was featured in the September 2009 issue of The Wire magazine. He has contributed to two releases produced by the London-based record company Hyperdub. He also runs his own label known as Kapsize Recordings.His debut album The Vision was released on October 31, 2011 through independent label 4AD. His sophomore LP The Mainframe was released on February 16, 2015 through his own Kapsize imprint.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/jokerkapsize
+
+----
+

@@ -1,6 +1,17 @@
-Title: Kabuki
+Title:
+
+Kabuki
+
 ----
-Text: Hip Hop, Jungle and UK Bass are musical siblings, eternally connected through their cul- tural roots. So it is no coincidence that the heart of KABUKI beats for all of these see- mingly disparate genres. For more than 20 years his music productions covered the full spectrum of beat science, always zeroing in on a particular feeling.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Hip Hop, Jungle and UK Bass are musical siblings, eternally connected through their cul- tural roots. So it is no coincidence that the heart of KABUKI beats for all of these see- mingly disparate genres. For more than 20 years his music productions covered the full spectrum of beat science, always zeroing in on a particular feeling.
 
 Kabuki began his musical travels during the nineties in Frankfurt as part of the legenda- ry Drum &amp; Bass production outfit Makai. After this, Kabuki released three critically-ac- claimed LPs („Signal to Noise“ in 2004,„Warrior Soul“ in 2010 and „Meditations“ in 2014), as well as a multitude of singles via iconic labels such as V Recordings, Sonar Kollektiv or Reinforced Records. For a while he moved to Tokyo and worked there as composer for video games while touring the world as DJ.
 
@@ -16,13 +27,13 @@ So it’s clear that misty-eyed nostalgia isn’t Kabuki’s thing. Instead, he 
 
 © Stephan Szillus - Berlin, 16.09.2014 (Updated 23.05.2017)
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/iamkabuki
 
+----
 
-
-
-
-
-
-(oembed: https://soundcloud.com/iamkabuki)

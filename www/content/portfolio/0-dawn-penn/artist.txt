@@ -1,9 +1,29 @@
-Title: Dawn Penn
+Title:
+
+Dawn Penn
+
 ----
-Text: Dawn Penn's earliest recordings were composed and written by her around 1966 using session musicians. In 1967, she recorded the rockstead single "You Don't Love Me", produced by Coxsone Dodd at Studio One. She also recorded "Why Did You Leave" at Studio One, "Broke My Heart" for Bunny Lee, "I Let You Go Boy" and covers of "To Sir with Love" and "Here Comes The Sun". Dawn had also recorded for singer and producer Prince Buster early in her career with songs like "Long Day, Short Night", "Blue Yes Blue" and "Here's the Key". By 1970, Penn had left the music industry and had moved to the Virgin Islands. However, she faced racism there, and in 1987, she returned to Jamaica and to music. 
+
+Toplinks:
+
+
+----
+
+Text:
+
+Dawn Penn's earliest recordings were composed and written by her around 1966 using session musicians. In 1967, she recorded the rockstead single "You Don't Love Me", produced by Coxsone Dodd at Studio One. She also recorded "Why Did You Leave" at Studio One, "Broke My Heart" for Bunny Lee, "I Let You Go Boy" and covers of "To Sir with Love" and "Here Comes The Sun". Dawn had also recorded for singer and producer Prince Buster early in her career with songs like "Long Day, Short Night", "Blue Yes Blue" and "Here's the Key". By 1970, Penn had left the music industry and had moved to the Virgin Islands. However, she faced racism there, and in 1987, she returned to Jamaica and to music. 
 
 In the summer of 1992, she was invited to appear on stage at a Studio One anniversary show, where she performed the song "You Don't Love Me" with Steely & Clevie as backing musicians. The performance was a success, and she returned to the recording studio to re-record the song for the tribute album Steely & Clevie Play Studio One Vintage. It was released as the single "You Don't Love Me (No, No, No)" over a year later, reaching the charts in the U.S. and Europe, plus hitting #1 in her native Jamaica, and making #3 in the UK Singles Chart. Penn's album, "No, No, No" was released on Big Beat Records in 1994. 
 
 Subsequently, "You Don't Love Me (No, No, No)" has been sampled and covered by the artists Kano, Hexstatic, Jae Millz, Gostface Killah, Mims, Eve featuring Stephen Marley and Damian Marley. Their versions were all renamed as "No, No, No", bar Ghostface's, which was named "The Splash".
 
-(oembed: https://soundcloud.com/dawn-penn-official)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/dawn-penn-official
+
+----
+

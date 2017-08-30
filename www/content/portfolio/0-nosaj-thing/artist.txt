@@ -1,6 +1,17 @@
-Title: Nosaj Thing
+Title:
+
+Nosaj Thing
+
 ----
-Text: We seek the new because of the numbness. If you listen to enough music, you’re familiar with the feeling. Sounds get recycled so often that they can seem like geometric configurations organized via Wav files. Trends get time-stamped faster than a triplicate trap hihat.
+
+Toplinks:
+
+
+----
+
+Text:
+
+We seek the new because of the numbness. If you listen to enough music, you’re familiar with the feeling. Sounds get recycled so often that they can seem like geometric configurations organized via Wav files. Trends get time-stamped faster than a triplicate trap hihat.
 
 The most rare records emerge outside of any clearly delineated orbit. They’re solitary visions that supply their own rhythm and arsenal. Music that reverberates through heart, brain, and spine. This is Nosaj Thing’s third album, Fated.
 
@@ -20,6 +31,13 @@ By stripping away all but what’s really necessary, the sounds harness an unusu
 
 It’s foundation rests on that intangible thing that some call fate or primordial feeling. Numbness receding, old emotions flooding back, untampered visions. Fated is what you can’t explain, so it’s best to just listen.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/nosajthing)
+-
+  url: >
+    https://soundcloud.com/nosajthing
+
+----
+

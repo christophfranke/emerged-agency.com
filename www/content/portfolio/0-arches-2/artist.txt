@@ -1,10 +1,30 @@
-Title: Arches
+Title:
+
+Arches
+
 ----
-Text: Hailing from Belgium, Arches is a new project that brings together two studio talents; Seba (Moonlight Matters) and Jochen (Sound of Stereo). Well known for their solo achievements, together Arches are an exciting new act, ready and primed to take centre stage.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Hailing from Belgium, Arches is a new project that brings together two studio talents; Seba (Moonlight Matters) and Jochen (Sound of Stereo). Well known for their solo achievements, together Arches are an exciting new act, ready and primed to take centre stage.
 Their 2014 debut single ‘There’s A Place’ generated some serious hype. Premiered by Annie Mac, picked up by Gotta Dance Dirty and featuring highly in the Hype Machine’s most popular tracks, the track was supported by every major DJ from Duke Dumont through to Madeon.
 This year, Arches have unveiled their brand new single New Love – released this July via fellow native, The Magician’s, exciting new imprint, POTION.
 The stellar follow-up features non other than Say Something songstress Karen Harding who comes in to provide an addictive and fierce lead vocal to complete this decadent and joyous dance production.
 Initially debuted on The Magician’s renowned Magic Tape series at the start of the year, Arches’ latest offering shows a more refined approach to their songwriting. Rhythmic piano hooks serve as a driving force to give the track a head nodding bounce, whilst an insatiable bassline seamlessly ties the track together to make for a truly infectious piece of music.
 With a sound that is appreciated by DJ’s and music lovers alike, Arches are certainly a unique proposition. Already knocking up accolades from the likes of Gorgon City, Lxury and Groove Armada, as well as BBC Radio 1 DJ’s Annie Mac and Danny Howard – it certainly seems that the boys from Belgium aren’t shy of making waves.
 
-(oembed: https://soundcloud.com/wearearches)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/wearearches
+
+----
+

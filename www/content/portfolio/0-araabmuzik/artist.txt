@@ -1,6 +1,17 @@
-Title: AraabMuzik
+Title:
+
+AraabMuzik
+
 ----
-Text: If you were to Google the name AraabMuzik, you would discover many videos showing this music producer hammering on an MPC as if he was Travis Barker on the drums. With his fast rhythmic touches on the
+
+Toplinks:
+
+
+----
+
+Text:
+
+If you were to Google the name AraabMuzik, you would discover many videos showing this music producer hammering on an MPC as if he was Travis Barker on the drums. With his fast rhythmic touches on the
 machine - while donning a New Era fitted, some might call it poetry in motion, others might say it’s suicide on an MPC, but for the this producer it’s just another day on the job.
 Born Abraham Orellana in Providence, RI, the middle child of two other siblings, he grew up with affection for music starting at a very young age. “I’ve been drumming since the age of 3. When I was around 10, I started getting into keyboard and producing my own music.” Half Dominican and Guatemalan, he confesses that his Hispanic heritage has influenced his music to a degree. With his mom being a one-time professional singer, he’s been around melodies and beats his entire life, however; growing up in Providence... it’s natural to assume Hip-Hop not having much of an influence in the city, considering that’s
 it sprawled so far away in New England. “There’s definitely a lot of Hip-Hop here.
@@ -9,4 +20,13 @@ minutes for me to complete a beat. It’s always like 10-15 minutes the most and
 As his talents continue to move him forward, don’t ever think he plans leaving his hometown. “Growing up in Providence, I was blessed because I didn’t have to go through a lot of the things that other people that I know in places like Boston and New York had to go through. I was raised by both my mom and my pops and they’re still together this day. Besides, it doesn’t matter where I’m from, just so long as the people
 keep liking my beats - that’s all that matters.”
 
-(oembed: https://soundcloud.com/araabmuzik)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/araabmuzik
+
+----
+

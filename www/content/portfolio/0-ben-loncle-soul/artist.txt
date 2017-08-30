@@ -1,6 +1,17 @@
-Title: Ben L'Oncle Soul
+Title:
+
+Ben L'Oncle Soul
+
 ----
-Text: Ben L’Oncle Soul couldn't escape his fate. Even before he was born, his mother cradled him to Otis Redding and nursed him to Aretha Franklin. He grew up to the beat of Ray Charles, Sam Cooke, Donny Hattaway and Marvin Gaye. He had no idea yet, but his kindergarten record collection already knew the name of his future employer: Motown. Proof, essentially, that the inhabitant of Tours has always been steeped in Berry Gordy Jr.'s label. Scouted by Motown France in 2008 after having posted his music on the internet, Ben is incessantly adding chapters to his childhood dream. 
+
+Toplinks:
+
+
+----
+
+Text:
+
+Ben L’Oncle Soul couldn't escape his fate. Even before he was born, his mother cradled him to Otis Redding and nursed him to Aretha Franklin. He grew up to the beat of Ray Charles, Sam Cooke, Donny Hattaway and Marvin Gaye. He had no idea yet, but his kindergarten record collection already knew the name of his future employer: Motown. Proof, essentially, that the inhabitant of Tours has always been steeped in Berry Gordy Jr.'s label. Scouted by Motown France in 2008 after having posted his music on the internet, Ben is incessantly adding chapters to his childhood dream. 
 
 His performance training happened at breakneck speed; after having integrated the basics of singing in Gospel formations, he became L’Oncle Ben and quickly dove head first into the shark tank, opening for the big names in contemporary Soul, such as Musiq Soulchild, Raphael Saadiq, or India Arie, with whom he ended up on stage. Enough to conjure you up a character. Impassioned by Hip-Hop and encounters, the Tours native then collaborated with Hocus Pocus and Oxmo Puccino, but also with Beat Assaillant, with whom he went off on tour and established solid ties. After a joint track on the American MC's album, Ben worked with the rapper on writing English text to his first album, self-entitled Ben L’Oncle Soul. 
 
@@ -12,4 +23,13 @@ Conscious but obstinately positive, Ben L’Oncle Soul offers up and emanates wa
 
 Ben's groove is undeniably American, in terms of respecting the standards of the Motown genre, in that it remains soul music with a distinct pop influence (in Elle Me Dit, and Demain J’Arrête), but without any attempt to behave. At liberty to, the Soul Uncle additionally covers the old bow-tied crooners' range on Mon Amour, and the funky R&B of Stevie Wonder on I Don't Wanna Waste on his flourishing collection of 60s standards written in 2010. As we know that Motown Records' nickname in the 60s was The Hit Factory, no doubt remains: Ben L’Oncle Soul really couldn't escape his fate.
 
-(oembed: https://soundcloud.com/ben-loncle-soul)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/ben-loncle-soul
+
+----
+

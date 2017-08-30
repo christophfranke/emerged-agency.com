@@ -1,6 +1,27 @@
-Title: Autograf
+Title:
+
+Autograf
+
 ----
-Text: Combining two art students and a derivatives trader into an all-encompassing art project was surely a novel concept. Autograf -- formed by Jake Carpenter, Louis Kha, and Mikul Wing -- craft a shimmery mix of futuristic electronica with a D.I.Y. ethos that melds the skills from their former day jobs.  When the electronic music scene reached a certain peak, the group wanted to bring some sexy back to the genre. After remixing songs by a string of prominent artists like Lorde and Pharrell, they released their first original song, "Dream," followed by "Running" and "Metaphysical," featuring Autograf-designed paintings and mixed-media pieces. Autograf's future philosophy and artistic talents led them to create their own stage installations, which they hoped would revolutionize the electronic music scene. Following the release of their first three originals, the trio released their debut EP, 'Future Soup,' and continued the momentum with their Hype Machine dominating single "Nobody Knows" and remix of "Rockabye" by Clean Bandit and Sean Paul. Most recently, the trio made their Big Beat Records debut with their latest jam “You Might Be” featuring Lils. 
+
+Toplinks:
+
+
+----
+
+Text:
+
+Combining two art students and a derivatives trader into an all-encompassing art project was surely a novel concept. Autograf -- formed by Jake Carpenter, Louis Kha, and Mikul Wing -- craft a shimmery mix of futuristic electronica with a D.I.Y. ethos that melds the skills from their former day jobs.  When the electronic music scene reached a certain peak, the group wanted to bring some sexy back to the genre. After remixing songs by a string of prominent artists like Lorde and Pharrell, they released their first original song, "Dream," followed by "Running" and "Metaphysical," featuring Autograf-designed paintings and mixed-media pieces. Autograf's future philosophy and artistic talents led them to create their own stage installations, which they hoped would revolutionize the electronic music scene. Following the release of their first three originals, the trio released their debut EP, 'Future Soup,' and continued the momentum with their Hype Machine dominating single "Nobody Knows" and remix of "Rockabye" by Clean Bandit and Sean Paul. Most recently, the trio made their Big Beat Records debut with their latest jam “You Might Be” featuring Lils. 
  
 Autograf continue to grow in various aspects of art culture, having recently opened a Future Factory art gallery in Bangkok, featuring Joan Cornella as the opening exhibition. This side to the project will come as no surprise to fans of the band, who designed and built their own lighting rig for their last US tour. The guys just revealed their own streetwear line as well. A By Autograf combines their passion for a perfect intersection between art, fashion and music.
-(oembed: https://soundcloud.com/autografmusic)
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/autografmusic
+
+----
+

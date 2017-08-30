@@ -1,6 +1,25 @@
-Title: Møme
+Title:
+
+Møme
+
 ----
-Text: It is from his van, also home-studio/house, that  the native French producer Mome created his songs from all around Australia. His music influenced by different artists from the Australian label Future Classic as Flume or Chet Faker can be considered to fit in the chillwave genre. Mome is 26 years old. He played in a rockband before releasing his first EP „Eclipse“ in 2014. Even though his attachment to instruments is strong, his work on compositions slowly pushed him to softwares.
+
+Toplinks:
 
 
-(oembed: https://soundcloud.com/mome-music)
+----
+
+Text:
+
+It is from his van, also home-studio/house, that  the native French producer Mome created his songs from all around Australia. His music influenced by different artists from the Australian label Future Classic as Flume or Chet Faker can be considered to fit in the chillwave genre. Mome is 26 years old. He played in a rockband before releasing his first EP „Eclipse“ in 2014. Even though his attachment to instruments is strong, his work on compositions slowly pushed him to softwares.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/mome-music
+
+----
+

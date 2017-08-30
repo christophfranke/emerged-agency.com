@@ -1,6 +1,17 @@
-Title: Ugly Duckling
+Title:
+
+Ugly Duckling
+
 ----
-Text: They’re still here. After five albums and more than a decade of touring, Ugly Duckling continues to make music with independence and integrity. While most people in the entertainment business are constantly attempting to reinvent themselves, UD has remained happily naïve when it comes to the latest industry attitudes, fashion trends, and state-of-the-art production techniques preferring instead to develop and stand by their own signature sound. “We’ve seen so many phases come and go that it all seems silly to us now,” says Andy. “Good music and top level live performance are really our only concerns.”
+
+Toplinks:
+
+
+----
+
+Text:
+
+They’re still here. After five albums and more than a decade of touring, Ugly Duckling continues to make music with independence and integrity. While most people in the entertainment business are constantly attempting to reinvent themselves, UD has remained happily naïve when it comes to the latest industry attitudes, fashion trends, and state-of-the-art production techniques preferring instead to develop and stand by their own signature sound. “We’ve seen so many phases come and go that it all seems silly to us now,” says Andy. “Good music and top level live performance are really our only concerns.”
 
 Young Einstein, Dizzy Dustin and Andy Cooper formed Ugly Duckling way back in 1993 in their hometown of Long Beach, California. Growing up in the 1980s, they were raised on a classic hip hop diet but were especially influenced by the mostly New York-based and production-focused groups of the late 80’s and early 90’s (such as A Tribe Called Quest, The Beatnuts, Diamond D, Gangstarr, etc.) Strangely enough, Ugly Duckling started out at exactly the same time Long Beach was becoming
 
@@ -23,4 +34,13 @@ Since those early experiences UD has released five albums and circled the globe 
 
 All things considered, Ugly Duckling is a rarity in that there are not many bands who can claim to have worked in the music industry for over ten years and done so completely on their own terms. What’s the secret? “Stay young at heart and never stop moving,” says Dizzy. “We got to this point by not overthinking, just doing things the way we thought they should be done.” “Plus,” adds Einstein,”if we’ve been around for this long, it’s probably because we’re pretty good.”
 
-(oembed: https://soundcloud.com/ugly-duckling)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/ugly-duckling
+
+----
+

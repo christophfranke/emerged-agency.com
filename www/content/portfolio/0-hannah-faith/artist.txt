@@ -1,6 +1,17 @@
-Title: Hannah Faith
+Title:
+
+Hannah Faith
+
 ----
-Text: Hannah Faith is a London-based music selector who began just over a year ago by experimenting with mixing and blending the songs she came across on the Internet. The now 22 year-old quickly began gaining attention online following her first release, entitled BLOWN; Which featured tracks from such talented producers as Lakim, Ta-ku, J-Louis, and a handful of carefully curated musicians.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Hannah Faith is a London-based music selector who began just over a year ago by experimenting with mixing and blending the songs she came across on the Internet. The now 22 year-old quickly began gaining attention online following her first release, entitled BLOWN; Which featured tracks from such talented producers as Lakim, Ta-ku, J-Louis, and a handful of carefully curated musicians.
 
 What began as a way to share her current tastes and discoveries with fellow music lovers lead to Faith to become internationally renowned for her craft. In only one year, Ms. Faith has seen her uploads quadruple in plays, celebrating a total of 1 million plays on Soundcloud and averaging at around 90-180,000 per mix. Following the onslaught of account shutdowns on Soundcloud, Hannah’s profile was removed and has since been re- started on Mixcloud.
 
@@ -10,4 +21,13 @@ Following her recent debut show in Los Angeles, Faith continues to create her se
 
 Influenced by iconic figures such as J-Dilla, Pete Rock, Gill Scott Heron, Solange Knowles and of course; Soulection- for Faith, the future is as bright as the atmosphere created by her sets for all that press play. With artists such as Flying Lotus and Vic Mensa as fans, Hannah is hungry to continue pursuing a career as a DJ, and she is most certainly one to keep your eyes (and ears) on.
 
-(oembed: https://soundcloud.com/hannahfai)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/hannahfai
+
+----
+

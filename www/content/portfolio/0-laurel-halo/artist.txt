@@ -1,5 +1,25 @@
-Title: Laurel Halo
-----
-Text: Heavy, mutilated strains of electronic music with influence from the sounds of Detroit, UK and Germany – Laurel Halo’s music is shapeshifting, moody and ecstatic. The Michigan-born and Berlin-based artist has been a mainstay of the London-based label Hyperdub, who released her breakout, divisive debut album Quarantine in 2012. The record received critical acclaim, and was named Wire Magazine’s Album of the Year. Since then she’s released two more albums – 2013’s Chance of Rain for Hyperdub, 2015’s In Situ for Honest Jon’s – and toured extensively with a live hardware PA. In addition, Laurel hosts a regular show on Berlin Community Radio, having originally cut her teeth as a freeform DJ on the legendary WCBN-FM station in Ann Arbor, Michigan. She has collaborated with John Cale, Julia Holter, David Borden, Daniel Wohl, and Metahaven among others.Halo has also composed the soundtrack for Still Be Here, a Transmediale/CTM film commission starring the Japanese virtual popstar, Hatsune Miku, which debuted at Berlin’s Haus der Kulturen der Welt, and was most recently shown at the Barbican Hall in London. Her latest album, Dust, is due out on Hyperdub in late June.
+Title:
 
-(oembed: https://soundcloud.com/laurelhalo)
+Laurel Halo
+
+----
+
+Toplinks:
+
+
+----
+
+Text:
+
+Heavy, mutilated strains of electronic music with influence from the sounds of Detroit, UK and Germany – Laurel Halo’s music is shapeshifting, moody and ecstatic. The Michigan-born and Berlin-based artist has been a mainstay of the London-based label Hyperdub, who released her breakout, divisive debut album Quarantine in 2012. The record received critical acclaim, and was named Wire Magazine’s Album of the Year. Since then she’s released two more albums – 2013’s Chance of Rain for Hyperdub, 2015’s In Situ for Honest Jon’s – and toured extensively with a live hardware PA. In addition, Laurel hosts a regular show on Berlin Community Radio, having originally cut her teeth as a freeform DJ on the legendary WCBN-FM station in Ann Arbor, Michigan. She has collaborated with John Cale, Julia Holter, David Borden, Daniel Wohl, and Metahaven among others.Halo has also composed the soundtrack for Still Be Here, a Transmediale/CTM film commission starring the Japanese virtual popstar, Hatsune Miku, which debuted at Berlin’s Haus der Kulturen der Welt, and was most recently shown at the Barbican Hall in London. Her latest album, Dust, is due out on Hyperdub in late June.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/laurelhalo
+
+----
+

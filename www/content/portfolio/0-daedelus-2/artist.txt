@@ -1,6 +1,17 @@
-Title: Daedelus
+Title:
+
+Daedelus
+
 ----
-Text: Alfred Darlington isn’t a paint-by-numbers musician. From how he looks (early Victorian Dandyism), to how he makes music, or how he expresses
+
+Toplinks:
+
+
+----
+
+Text:
+
+Alfred Darlington isn’t a paint-by-numbers musician. From how he looks (early Victorian Dandyism), to how he makes music, or how he expresses
 himself and views the world, his is a very individual ‘bespoke’ outlook.
 
 Alfred was born in Santa Monica in 1977 to an artist mother and professor father. Musical from very early on, as a child he was classically and jazz-trained in a number of instruments, but his interests were broad and varied – less a prodigy than a renaissance boy whose obsessions ranged from Greek legend to the mountains of Wales. As a 15 year old he finally persuaded his parents to take him to the Principality. Whilst in a YWCA in London he flipped the radio dial, found a pirate radio station and taped some UK rave and hardcore. “It was my first ‘Eureka!’ moment in music,” he says.
@@ -21,4 +32,13 @@ Since his last album "Love To Make Music To" for Ninja there has been no let up 
 
 2011 starts not only with his new album but the meticulous planning of a huge tour featuring guest vocalists from his "Bespoke" LP and with a spectacular visual show curated in part by Emmanuel Baird (of Manchester's Warehouse Project and Hoya Hoya nights) which will feature a top secret new invention codenamed ARCHIMEDES promising to yet again re-invent live electronic performance.
 
-(oembed: https://soundcloud.com/daedelus)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/daedelus
+
+----
+

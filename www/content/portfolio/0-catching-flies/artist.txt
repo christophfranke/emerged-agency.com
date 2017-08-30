@@ -1,6 +1,17 @@
-Title: Catching Flies
+Title:
+
+Catching Flies
+
 ----
-Text: When he's not collecting glowworms and growing rare fruits, Catching Flies somehow finds the time to make music. Music that pleasures your ears a bass heavy yet melodic mesh of broody electronics and intricate rhythms, containing shades of everything from hip-hop to house, from soul to jazz.
+
+Toplinks:
+
+
+----
+
+Text:
+
+When he's not collecting glowworms and growing rare fruits, Catching Flies somehow finds the time to make music. Music that pleasures your ears a bass heavy yet melodic mesh of broody electronics and intricate rhythms, containing shades of everything from hip-hop to house, from soul to jazz.
 
 In late 2012, the 22 year-old decided to self-release his first EP, 'The Stars', and it was a decision that paid off, with full support coming in across the blogosphere. One track hit the coveted #1 spot on The Hype Machine chart, and the EP has been downloaded an impressive 25,000 times to date. The four track trip down paradise lane' ('Indie Shuffle') was quickly followed by a bootleg of Jill Scott's 'Golden', which has had hundreds of thousands of plays on YouTube and Soundcloud, and turned the heads of the likes of BBC 6 Music's Gilles Peterson.
 
@@ -10,4 +21,13 @@ Spring 2013 saw the release of Catching Flies' second EP, 'The Long Journey Home
 His DJ sets have also been garnering attention across Europe, and over the past year he has done mixes for Mixmag, Earmilk, Oki-Ni and more.
 After all this praise and initial kudos, you sense that this is the beginning of something very special indeed.
 
-(oembed: https://soundcloud.com/catchingfliesmusic)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/catchingfliesmusic
+
+----
+

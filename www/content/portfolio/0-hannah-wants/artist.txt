@@ -1,6 +1,17 @@
-Title: Hannah Wants
+Title:
+
+Hannah Wants
+
 ----
-Text: A child of the garage generation Hannah Wants has validated herself as a world renowned DJ with some serious credentials.
+
+Toplinks:
+
+
+----
+
+Text:
+
+A child of the garage generation Hannah Wants has validated herself as a world renowned DJ with some serious credentials.
 
 In 2014 alone Hannah picked up the Best Breakthrough DJ title at the DJ Mag Awards and became Mixmag’s Best Breakthrough DJ and Star of the Year.
 
@@ -22,4 +33,15 @@ With a majestic career already under her belt it’s Hannah’s developing knowl
 
 
 
-(oembed: https://soundcloud.com/hannah)_wants
+_wants
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/hannah
+
+----
+

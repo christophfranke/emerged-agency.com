@@ -1,6 +1,17 @@
-Title: Jaguar Skills
+Title:
+
+Jaguar Skills
+
 ----
-Text: The rise and rise of Jaguar Skills has been well documented. Honing his craft and love of music for the last 20 years Jaghas remained true to his school and kept a mysterious edge to his character; with details of his real name, age and home town etc left largely unconfirmed...
+
+Toplinks:
+
+
+----
+
+Text:
+
+The rise and rise of Jaguar Skills has been well documented. Honing his craft and love of music for the last 20 years Jaghas remained true to his school and kept a mysterious edge to his character; with details of his real name, age and home town etc left largely unconfirmed...
 
 One thing is known though. He has been responsible for some of the most exciting musical projects of the past few years. Largely centered around producing stunning mixes comprises his personal unique edits and mash-ups, Jag has caught the ear and worked with the likes of fashion labelMaharishi, fashionista Jade Jagger, Urban Outfitters,Carling Zest, Renault Clio, and of course BBC Radio 1. His relationship with the public service broadcaster started with a weekly '10 Minute Mash Up Mix' for the Trevor Nelson Show which ran for several years. This led to him turning in his now legendary mixtape '1979-2006: A Hip-Hop Odyssey - 800 Tracks In 45 Minutes' which was downloaded over a MILLION times.
 Follwing this Jag also turned in his 'History of D'n'B Mix' and also a 'History of Ayia Napa' mix for the station, such was the demand for his mixing prowess.
@@ -27,6 +38,13 @@ As ever Jag is back on the festival circuit with gigs at Parklife,Glastonbury, B
 
 So make sure you stay locked in with the rest of the Jaguar Skills army to hear an impending aural assault of every tempo; from house to drum n bass, and everything in-between.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/djjaguarskills)
+-
+  url: >
+    https://soundcloud.com/djjaguarskills
+
+----
+

@@ -1,6 +1,17 @@
-Title: Snakehips
+Title:
+
+Snakehips
+
 ----
-Text: Since forming only 18 months ago, Snakehips have made their name with Hype Machine chart-topping remixes for Banks, The Weeknd, Bondax and Wild Belle, which between them have notched up more than 30 million plays on Soundcloud and YouTube. Last May, the mysterious production duo built on their early acclaim with On &amp; On, a Radio 1-championed debut single that set out their signature sound, a sensual up-to-date take on old school R&amp;B and hip hop.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Since forming only 18 months ago, Snakehips have made their name with Hype Machine chart-topping remixes for Banks, The Weeknd, Bondax and Wild Belle, which between them have notched up more than 30 million plays on Soundcloud and YouTube. Last May, the mysterious production duo built on their early acclaim with On &amp; On, a Radio 1-championed debut single that set out their signature sound, a sensual up-to-date take on old school R&amp;B and hip hop.
 In time to usher in another summer and ahead of appearances at major festivals across the UK and abroad, Snakehips are ready to release their glorious, second single, Days With U, featuring Disclosure and Rudimental vocalist Sinead Harnett. With the vibe of long, hot, hazy days coursing through its veins, Days With U sounds both retro and fresh and as dreamily laid-back as it is dancefloor-friendly. Driven as much by melody as by hip hop beats and shimmering synths, it’s a song about heartbreak that, somehow, sounds resolutely life-affirming.
 With a debut album well underway and due out early next year, Snakehips have decided it’s time to reveal themselves as 24 year old Londoners Oliver Lee and James Carter. Despite a shared home city, the pair met on separate business trips to Hong Kong, where they bonded over shared musical interests. They shared a flight to L.A., began talking music and booked a studio in which to work on a track. It went so well that within days of returning to London they nudged their laptops together and Snakehips was born.
 The pair’s first release was a remix of Chicago band Wild Belle’s It’s Too Late; their next a remix of Gold by electronic duo Bondax. Both used only the original vocal, topped the Hype Machine chart and revealed Snakehips’ love of ‘90s hip hop, disco and vintage soul.
@@ -12,4 +23,13 @@ Most of 2014 so far has been spent working on their as-yet-untitled debut album,
 “Put the name Hoffman West, plus five, on a guest list and no one asks questions when you get to the door,” he explains. “There’s something about that name that sounds so important that you’re always ushered straight in.”
 It’s a busy summer ahead for Snakehips with appearances lined up at festivals such as Glastonbury, Reading &amp; Leeds, Love Saves The Day as well as European jaunts at Outlook in Croatia and Pitch in Amsterdam. With a debut album also in the pipeline, there’s certainly a lot more of exciting things in store from the London based production duo.
 
-(oembed: https://soundcloud.com/snakehips-1)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/snakehips-1
+
+----
+

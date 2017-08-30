@@ -1,9 +1,29 @@
-Title: Soom T
+Title:
+
+Soom T
+
 ----
-Text: Soom T is the Glaswegian globetrotting MC known for her eclectic vocal collaborations on over 50 record releases since 1999 with the likes of The Orb, T.Raumschmiere, King Creosote, Miss Kittin, Mungos Hi-Fi, Bus, Asian Dub Foundation, Tigerstyle, DJ Yoda and many other definitive artists. Having spent the last 15 years releasing and recording, she continues the tradition of touring to spread the word of truth through her quite formidable musical gift.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Soom T is the Glaswegian globetrotting MC known for her eclectic vocal collaborations on over 50 record releases since 1999 with the likes of The Orb, T.Raumschmiere, King Creosote, Miss Kittin, Mungos Hi-Fi, Bus, Asian Dub Foundation, Tigerstyle, DJ Yoda and many other definitive artists. Having spent the last 15 years releasing and recording, she continues the tradition of touring to spread the word of truth through her quite formidable musical gift.
 Having been influenced Hindi Ghazals from the 50′s, Punjabi Bhangra, the hiphop of the 80′s and electro, rave and punk of the early 90′s and more recently by Jazz her influences range from Lauryn Hill, Rage Against The Machine, Pink Floyd and Queen to Christie Moore, Mahelia Jackson, 2Pac, Tasmin Archer and Commodore 64 game soundtracks.
 Her inclusion as a member of Scottish Supergroup ‘Burns Unit’ saw her appear on Jools Holland with war song ‘Send Them Kids To War in 2011.’Releases of note include ‘Did You Really Know’ with Mungos Hifi (2007) with over 1 million YouTube Hits in 2013, ‘Aftermath’ with the Orb (2003) Dirty Money (2010) produced by Johan Danielson, ‘Pull It Up’ with Neeko and in 2011 the follow up album ‘Ode To A Carrot’ with German producer jan g saw Soom T supporting the legalisation of cannabis with her  melodic comedic banter summing up the renegade mind.
 In 2011 Soom T tried her hand as a composer for a theatre musical. Her stage musical works were witnessed at theatres in England, Scotland and Australia with the productions presented onstage for a life affirming musical based on a true activist story ‘The Glasgow Girls’,  produced by award winning producer ‘Cora Bissett.’ The title song was released as a single 7″ in October 2012 on Renegade run Folk Label ‘Folk U records.’
 With several riotous crowd churning sets having left a firm imprint on worldwide audiences, with tours from 2010 including Scandinavia, Japan, China, USA, Canada, Mexico, India, Brazil, Canada, Europe, Argentina, Balkans, Reunion Island and others, the spread of the Soom T phenomenon shows no signs of letting up. Her experience has culminated in her setting up the label ‘Renegade Masters’ dedicated to remaining fiercely independent and seeking, nurturing and releasing artists internationally who create powerful positive music with a strong emotive response in listeners.
 
-(oembed: https://soundcloud.com/soom-t)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/soom-t
+
+----
+

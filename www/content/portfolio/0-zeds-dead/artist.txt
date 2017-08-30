@@ -1,6 +1,17 @@
-Title: Zeds Dead
+Title:
+
+Zeds Dead
+
 ----
-Text: The tape reads Biography. Pop it in. Rewind. Press play.
+
+Toplinks:
+
+
+----
+
+Text:
+
+The tape reads Biography. Pop it in. Rewind. Press play.
 A whiskey-voiced narrator starts speaking as the hazy images come into focus..
 “It’s 2010. Zeds Dead is about to play one of their first shows in the basement of a dive bar in Toronto. Behind the brick walls and the unfinished ceiling exposed wires hang freely. The air smells of booze, smoke, and sweat. A crowd is lined up outside, flasks hang from their back pockets and cigarettes from their lips. Abandoned drinks rest on the lip of the dj booth while joints get sparked in the corners.
 The tiny room is packed. Nobody quite knows how to describe the music yet. When Hooks and DC start their set the earth trembles. The air becomes charged and almost sexual. Everyone goes crazy. You feel the music in your bones. Your marrow shakes. You don’t know what they will play next but you know it might just change your life. Everybody at those early shows could tell – these guys are gonna be big.”
@@ -19,4 +30,13 @@ FABIENNE: “Who’s Zed?”
 BUTCH: “Zed’s dead, baby, Zed’s dead.”
 The screen goes black.
 
-(oembed: https://soundcloud.com/zedsdead)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/zedsdead
+
+----
+

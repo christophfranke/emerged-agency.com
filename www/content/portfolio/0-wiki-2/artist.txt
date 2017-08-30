@@ -1,6 +1,26 @@
-Title: Wiki
+Title:
+
+Wiki
+
 ----
-Text: "The sooty atmosphere, the complex rhyme structure, the tactile combination of claustrophobia and swagger: New York rap is a religion in decline.
+
+Toplinks:
+
+
+----
+
+Text:
+
+"The sooty atmosphere, the complex rhyme structure, the tactile combination of claustrophobia and swagger: New York rap is a religion in decline.
 That makes Wiki's devoted practice of it all the more striking. The main rapper in Ratking, he's pure texture: His voice is raspy and nasal, and he clusters his syllables tight, as if huddling under a large coat in cold weather." - The New York Times
 
-(oembed: https://soundcloud.com/wikset)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/wikset
+
+----
+

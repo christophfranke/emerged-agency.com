@@ -1,6 +1,17 @@
-Title: Tokimonsta
+Title:
+
+Tokimonsta
+
 ----
-Text: As TOKiMONSTA, California producer Jennifer Lee's charted a fascinating career over the past seven years, and 'Lune Rouge' is her exhilarating next step. The third proper long-player from TOKiMONSTA is both a logical progression of her sound and a surprising left turn from an artist that rarely ceases to surprise. A smoky, patient, and altogether lovely collection, 'Lune Rouge' mixes modern sensibilities with old-school sounds to make for a heady brew of moonlit music.
+
+Toplinks:
+
+
+----
+
+Text:
+
+As TOKiMONSTA, California producer Jennifer Lee's charted a fascinating career over the past seven years, and 'Lune Rouge' is her exhilarating next step. The third proper long-player from TOKiMONSTA is both a logical progression of her sound and a surprising left turn from an artist that rarely ceases to surprise. A smoky, patient, and altogether lovely collection, 'Lune Rouge' mixes modern sensibilities with old-school sounds to make for a heady brew of moonlit music.
 
 "'Lune Rouge' is the culmination of all the experiences I've encountered so far," Lee explains the album's genesis, which she started work on in late 2015 before being diagnosed with a rare neurovascular condition called Moyamoya. A year later, after two major brain surgeries and extensive rehabilitation, 'Lune Rouge' was finished. "During its creation, I faced some of the most difficult and uplifting moments of my life. Seeing myself at the edge of my own mortality and how I chose to move past is a story told in this album."
 
@@ -15,4 +26,13 @@ Elsewhere, the MNDR-featuring 'We Love' serves up perfect summer vibes with aqua
 
 "I chose the title 'Lune Rouge', which translates to 'red moon', because I think people perceive it to hold ominous weight,"Lee explains her thinking behind the album's title. "However, a red moon is rare and pretty awesome event from a scientific perspective and, to me, means significant change". And 'Lune Rouge' is the latest change in her prismatic career - a testament to the healing powers of art in the face of insurmountable difficulty.
 
-(oembed: https://soundcloud.com/tokimonsta)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/tokimonsta
+
+----
+

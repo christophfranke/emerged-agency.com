@@ -1,6 +1,26 @@
-Title: us & sparkles
-----
-Text: Das Projekt „us & sparkles“ wurde von den in Zürich ansässigen Produzenten Roland Vollenweider und Philip Cron ins Leben gerufen. Die Zusammenarbeit führte zu deren ersten Produktion – einer EP, die auf den klangvollen Namen: „Damn Rich“ getauft wurde und im Dezember 2014 auf Boyoom Connective veröffentlicht wurde. Auf dieser zeigte sich zum ersten Mal, was zur Essenz der Produktionen von „us & sparkles“ werden sollte: Langsame, stehende Bässe, gepaart mit verschobenen Grooves, die grosse Räume strukturieren und filigrane Klänge, die diesem Raum entspringen. Dies alles zubereitet mit einer ordentlichen Dosis Hi-Fi. Es folgten zwei weitere Veröffentlichungen: Zum einen die „None of this“ EP im Mai 2015 auf Ghosthall und andererseits die EP „Bubble Drops“ im August 2015 auf Baroque Records. 
-Die Klangwelten von „us & sparkles“ werden alle in deren Studio in Zürich geschaffen. In diesem einzigartigen Labor, in welchem sich namhafte Synthesizer stapeln, hunderte Kabel wirren und sich die Drum Maschinen aneinanderreihen, verschmelzen analog und digital und es gewährt sich Zufall & Chaos. 
+Title:
 
-(oembed: https://soundcloud.com/usandsparkles)
+us & sparkles
+
+----
+
+Toplinks:
+
+
+----
+
+Text:
+
+Das Projekt „us & sparkles“ wurde von den in Zürich ansässigen Produzenten Roland Vollenweider und Philip Cron ins Leben gerufen. Die Zusammenarbeit führte zu deren ersten Produktion – einer EP, die auf den klangvollen Namen: „Damn Rich“ getauft wurde und im Dezember 2014 auf Boyoom Connective veröffentlicht wurde. Auf dieser zeigte sich zum ersten Mal, was zur Essenz der Produktionen von „us & sparkles“ werden sollte: Langsame, stehende Bässe, gepaart mit verschobenen Grooves, die grosse Räume strukturieren und filigrane Klänge, die diesem Raum entspringen. Dies alles zubereitet mit einer ordentlichen Dosis Hi-Fi. Es folgten zwei weitere Veröffentlichungen: Zum einen die „None of this“ EP im Mai 2015 auf Ghosthall und andererseits die EP „Bubble Drops“ im August 2015 auf Baroque Records. 
+Die Klangwelten von „us & sparkles“ werden alle in deren Studio in Zürich geschaffen. In diesem einzigartigen Labor, in welchem sich namhafte Synthesizer stapeln, hunderte Kabel wirren und sich die Drum Maschinen aneinanderreihen, verschmelzen analog und digital und es gewährt sich Zufall & Chaos.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/usandsparkles
+
+----
+

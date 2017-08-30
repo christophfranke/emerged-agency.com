@@ -1,11 +1,29 @@
-Title: Weval
+Title:
+
+Weval
+
 ----
-Text: Hearing Weval’s music for the very first time, you might wonder from what lost vault of a veteran genius these sounds have been pulled: the Dutch duo’s incredibly catchy arrangements seem perfused by a rarefied pop magic that only a chosen few have truly mastered. Two obscenely talented youngsters named Harm Coolen and Merijn Scholte Albers are the brains and muscle of the operation, dreaming up slow-burning, emotive and highly dynamic electronic music with a taste for danceable drama and epic melodies.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Hearing Weval’s music for the very first time, you might wonder from what lost vault of a veteran genius these sounds have been pulled: the Dutch duo’s incredibly catchy arrangements seem perfused by a rarefied pop magic that only a chosen few have truly mastered. Two obscenely talented youngsters named Harm Coolen and Merijn Scholte Albers are the brains and muscle of the operation, dreaming up slow-burning, emotive and highly dynamic electronic music with a taste for danceable drama and epic melodies.
 
 Brimming with powerful synth hooks, rousing rhythmic patterns and expertly juxtaposed intensities, Weval’s music lends itself rather well to a live setting – but that doesn’t necessarily mean that it follows the prime-time rule-book of constant „in-your-face“ power play. Rather opting for a different, much more nuanced approach, Harm and Merijn succesfully adapt their intimate sound cosmos to active dance floors, bringing a heady vibe and lots of flexing bass to clubs and festivals all over Europe.
 
 Debuting in 2013 with the impressive and much sought-after “Half Age EP”, Weval have since found a welcoming home with the Kompakt family where the duo nourished their very own brand of crossover pop rapture on the glistening „Easier EP“ in 2014. This was followed by the bold and beautiful 2015 offering „It’ll Be Just Fine / Grow Up“, which saw the two soundsmiths digging deeper into the granularities of electronic funk than ever before. Their sonic expedition moves deeper into uncharted territory in 2016 with the self-titled debut-full length “Weval“ – not a mere collection of interchangeable tracks, but an organically flowing record with emotional heft and a narrative thread.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/weval)
+-
+  url: >
+    https://soundcloud.com/weval
+
+----
+

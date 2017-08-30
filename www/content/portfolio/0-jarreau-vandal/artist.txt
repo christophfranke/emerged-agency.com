@@ -1,6 +1,17 @@
-Title: Jarreau Vandal
+Title:
+
+Jarreau Vandal
+
 ----
-Text: Born in Maastricht, raised in Amsterdam, 23-year-old Jarreau Vandal grew up in a musical family surrounded by cassette tapes full of Jazz, soul &amp; funk. Being a child of the 90’s allowed him to fully immerse in Hip-Hop, rock and R&amp;B. Artists such as Jamiroquai, A Tribe Called Quest, Red Hot Chili Peppers and many others inspired him to pursue a career in music.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Born in Maastricht, raised in Amsterdam, 23-year-old Jarreau Vandal grew up in a musical family surrounded by cassette tapes full of Jazz, soul &amp; funk. Being a child of the 90’s allowed him to fully immerse in Hip-Hop, rock and R&amp;B. Artists such as Jamiroquai, A Tribe Called Quest, Red Hot Chili Peppers and many others inspired him to pursue a career in music.
 
 His Grandfather (also a producer) introduced him to the music production program Logic at the tender age of 16. Since then, he has been hooked and hasn’t stopped producing since.
 
@@ -8,6 +19,13 @@ With only a handful of releases to his name, Jarreau Vandal has already shown he
 
 As a member of the Los Angeles based collective Soulection, Jarreau Vandal released a groundbreaking white label EP in 2014. As he continues to bridge the gaps between dance music, hip-hop, R&amp;B, and jazz, he is wrapping up his forthcoming EP titled Suburb Superhero, which will see a late 2015 release.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/jarreauvandal)
+-
+  url: >
+    https://soundcloud.com/jarreauvandal
+
+----
+

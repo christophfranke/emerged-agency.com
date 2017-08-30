@@ -1,6 +1,17 @@
-Title: Madjo
+Title:
+
+Madjo
+
 ----
-Text: In order to create, you first have to exit the darkness. Seize those first notes and let them run wild. Accept that you won’t master them right away. To catch the void that leads to everything, Madjo chose to return to the beginning.
+
+Toplinks:
+
+
+----
+
+Text:
+
+In order to create, you first have to exit the darkness. Seize those first notes and let them run wild. Accept that you won’t master them right away. To catch the void that leads to everything, Madjo chose to return to the beginning.
 
 The origin is the house she grew up in, the “Madjo Villa,” in Evian-les- Bains, France, next to Lake Geneva. Madjo is a contraction of Madeleine and Joseph, the former homeowners. It’s also where her grandparents and her parents lived and spread stories of their family, those that are spoken of and others as well. Within the walls of Mad &amp; Jo, she collected recording equipment and instruments to transform those secret, shapeless stories into music. This is result of her conversations with its bricks and mortar; sounds that strike and reverberate, rhythms that call out emergencies, a fugitive’s music to escape being placed in a cage.
 
@@ -21,4 +32,15 @@ The origin is also being on stage. Madjo spent three years on the road playing, 
 
 
 
-(oembed: https://soundcloud.com/madjo)_12cf34443
+_12cf34443
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/madjo
+
+----
+

@@ -1,6 +1,17 @@
-Title: Flux Pavilion
+Title:
+
+Flux Pavilion
+
 ----
-Text: Flux Pavilion’s polymath-like ability to involve himself in all aspects of music cannot be understated. Known as Joshua Steele to friends and family, Flux is a singer-songwriter, record producer and label owner who plays the drums, guitar, saxophone and piano. His achievements range from releasing his first vinyl at 19 years old to selling out the legendary Red Rocks Amphitheatre in Colorado twice, notching up a UK top 10 hit with Sway and having Kanye West &amp; Jay Z sample his dance floor anthem ‘I Can’t Stop’ in addition to featuring in DJ Magazine’s Top 100 DJ’s 2015. Not bad for a guy who started out replaying jingles he’d heard on TV on his Casio keyboard.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Flux Pavilion’s polymath-like ability to involve himself in all aspects of music cannot be understated. Known as Joshua Steele to friends and family, Flux is a singer-songwriter, record producer and label owner who plays the drums, guitar, saxophone and piano. His achievements range from releasing his first vinyl at 19 years old to selling out the legendary Red Rocks Amphitheatre in Colorado twice, notching up a UK top 10 hit with Sway and having Kanye West &amp; Jay Z sample his dance floor anthem ‘I Can’t Stop’ in addition to featuring in DJ Magazine’s Top 100 DJ’s 2015. Not bad for a guy who started out replaying jingles he’d heard on TV on his Casio keyboard.
 
 Influenced by the likes of David Bowie, The Beatles and Frank Zappa in the early years, it was when he heard The Prodigy and The Chemical Brothers that Flux Pavilion knew he had found a musical direction he truly wanted to explore for himself. A deluge of musical projects followed, writing instrumental hip hop and dirty drum &amp; bass, joining local bands and producing for other acts all while studying at university. But the major turning point for this unquestionably talented musician was a visit to London superclub Fabric:
 
@@ -12,5 +23,13 @@ Meanwhile Flux’s own output has gone from strength to strength, having worked 
 
 The intervening years have seen Flux notch up three headline US tours, two headline UK tours, DJ sets at every festival worth mentioning – from Glastonbury to Reading, Coachella to EDC Vegas and beyond – plus live performances with Example, Foreign Beggars and Chiddy Bang. In that time Flux has continued to develop his signature sound, retaining the all-important energy that The Prodigy and Rusko inspired him with in the early days and undoubtedly inspiring a generation of electronic music producers of his own in the process.
 
+----
 
-(oembed: https://soundcloud.com/flux-pavilion)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/flux-pavilion
+
+----
+

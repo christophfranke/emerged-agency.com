@@ -1,6 +1,17 @@
-Title: Ratatat
+Title:
+
+Ratatat
+
 ----
-Text: On July 17th Ratatat releases its fifth full-length album, Magnifique, on XL Recordings, a solid five years after Mike Stroud and Evan Mast’s last release, LP4 from 2010. Following up on the experimental sounds of LP3 and LP4, Ratatat return to their core guitar-driven sound on Magnifique. “I feel like it’s our strongest record,” Evan says. “We did it in spurts. We made a few trips to different locations where we’d set up a studio and work.” Mike and Evan spent time in Port Antonio, Jamaica, upstate New York (at the same studio where LP3 and LP4 were recorded), Long Island, New York and at their own studio in Brooklyn.
+
+Toplinks:
+
+
+----
+
+Text:
+
+On July 17th Ratatat releases its fifth full-length album, Magnifique, on XL Recordings, a solid five years after Mike Stroud and Evan Mast’s last release, LP4 from 2010. Following up on the experimental sounds of LP3 and LP4, Ratatat return to their core guitar-driven sound on Magnifique. “I feel like it’s our strongest record,” Evan says. “We did it in spurts. We made a few trips to different locations where we’d set up a studio and work.” Mike and Evan spent time in Port Antonio, Jamaica, upstate New York (at the same studio where LP3 and LP4 were recorded), Long Island, New York and at their own studio in Brooklyn.
 
 Combining the bedrock beats and primordial riffs from their first two albums with the sonic experimentation and production prowess of LP3 and LP4, Mike and Evan arrived at a new plateau with Magnifique. “We used to nearly always start tracks with a beat, but with this album we were often starting with melodies and adding beats and percussion after the fact,” Mike says. “We were all about getting strong melodies.” With more time, tools and experiences to work with, Evan and Mike created their most fully-realized album with proper “Intro” and “Outro” tracks and palette- cleansing interludes made to sound like someone tuning in music from an alternate world, often creating stark juxtapositions between lo and hi-fi sounds.
 
@@ -12,4 +23,13 @@ The secret weapon on Magnifique’s slower tracks is the pedal steel guitar, an 
 
 “We learned so much about song writing doing the last two records,” Evan says. “Once we knew what we knew having recorded LP3 and LP4, we wanted to go back to our old sounds and we what we could do with that same palate. We wanted to do some more aggressive stuff too, songs that would be really fun to play live.” In March they introduced some of their new songs to an electric crowd at their first show in nearly three years in Tulsa, OK. In part thanks to a face-melting stage show featuring ludicrous lasers and Evan’s stunning visuals, fans freaked out over the new songs “Pricks of Brightness”, “Cream on Chrome” and “Abrasive,” the latter getting the most enthusiastic response of the night.
 
-(oembed: https://soundcloud.com/ratatat)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/ratatat
+
+----
+

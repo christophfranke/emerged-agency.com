@@ -1,9 +1,29 @@
-Title: Flosstradamus
+Title:
+
+Flosstradamus
+
 ----
-Text: Flosstradamus (AKA Curt Cameruci) is an American DJ and producer. Currently based in Brooklyn, Flosstradamus came to prominence in Chicago while collaborating with acts such as Major Lazer, Matt &amp; Kim, A-Trak, and Baauer. In the last few years they’ve collaborated with the likes of G.T.A, Lil’ Jon, Waka Flocka Flame, Post Malone and Travis Porter. Career highlights over the past decade include iconic tracks like Major Lazer’s “Original Don” (Flosstradamus Remix), “CROWD CNTRL,” “Mosh Pit," “TTU (Too Turnt Up),” “Soundclash,” and “Prison Riot.”
+
+Toplinks:
+
+
+----
+
+Text:
+
+Flosstradamus (AKA Curt Cameruci) is an American DJ and producer. Currently based in Brooklyn, Flosstradamus came to prominence in Chicago while collaborating with acts such as Major Lazer, Matt &amp; Kim, A-Trak, and Baauer. In the last few years they’ve collaborated with the likes of G.T.A, Lil’ Jon, Waka Flocka Flame, Post Malone and Travis Porter. Career highlights over the past decade include iconic tracks like Major Lazer’s “Original Don” (Flosstradamus Remix), “CROWD CNTRL,” “Mosh Pit," “TTU (Too Turnt Up),” “Soundclash,” and “Prison Riot.”
 
 In addition to their musical endeavors, Flosstradamus has become synonymous with a Hi-Def lifestyle ultimately resulting in a lifestyle brand that’s extended to apparel, their own annual HDYFEST event, and record label Hi Def Youth. Flosstradamus’s devout group of fans known as the HDYNATION has developed into one of the most dedicated and recognizable communities in dance music.
 
 In March 2017, Flosstradamus released their latest single “Back Again” with Mayhem and Waka Flocka Flame.
 
-(oembed: https://soundcloud.com/flosstradamus)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/flosstradamus
+
+----
+

@@ -1,6 +1,17 @@
-Title: Mount Kimbie
+Title:
+
+Mount Kimbie
+
 ----
-Text: “It’s a question of being respectful to each other,” Dom Maker says of the art of collaboration. It’s a simple ethic, but one that has yielded rich rewards. Since 2009, Maker and his partner in Mount Kimbie, Kai Campos, have played a central role in forging a new form for electronic music. Their influence stretches far beyond the tiny corner of the dance music underground that birthed them and, with the duo now signed to the legendary Warp label, it looks set to stretch further still in the coming years. Since their emergence Mount Kimbie have repeatedly confounded expectations, transforming themselves from bedroom-studio producers to creators of one of the most fully realised electronic album-length statements of recent years. This year, with the release of the duo’s second LP, the perception of what Mount Kimbie is looks set to expand again. Still, at the heart of the band’s music lies that simplest of things: the meeting of two musical minds.
+
+Toplinks:
+
+
+----
+
+Text:
+
+“It’s a question of being respectful to each other,” Dom Maker says of the art of collaboration. It’s a simple ethic, but one that has yielded rich rewards. Since 2009, Maker and his partner in Mount Kimbie, Kai Campos, have played a central role in forging a new form for electronic music. Their influence stretches far beyond the tiny corner of the dance music underground that birthed them and, with the duo now signed to the legendary Warp label, it looks set to stretch further still in the coming years. Since their emergence Mount Kimbie have repeatedly confounded expectations, transforming themselves from bedroom-studio producers to creators of one of the most fully realised electronic album-length statements of recent years. This year, with the release of the duo’s second LP, the perception of what Mount Kimbie is looks set to expand again. Still, at the heart of the band’s music lies that simplest of things: the meeting of two musical minds.
 
 
 
@@ -34,8 +45,13 @@ Perhaps this is a natural progression for a band who are no longer new kids on t
 
 Not new, perhaps, but arguably more exciting and relevant than ever. “Since the first record came out we’ve been learning to be better artists really,” say Campos. Cold Spring Fault Less Youth is proof, if it were needed, that that journey hasn’t been in vain.
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/mountkimbie
 
+----
 
-(oembed: https://soundcloud.com/mountkimbie)

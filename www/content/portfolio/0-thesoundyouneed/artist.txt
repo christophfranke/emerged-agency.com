@@ -1,6 +1,25 @@
-Title: TheSoundYouNeed
+Title:
+
+TheSoundYouNeed
+
 ----
-Text: TheSoundYouNeed. Music at its finest.
+
+Toplinks:
 
 
-(oembed: https://soundcloud.com/tsyn)
+----
+
+Text:
+
+TheSoundYouNeed. Music at its finest.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/tsyn
+
+----
+

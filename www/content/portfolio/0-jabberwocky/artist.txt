@@ -1,7 +1,27 @@
-Title: Jabberwocky
+Title:
+
+Jabberwocky
+
 ----
-Text: After selling more than 100 000 singles and did more than 6 millions views on Youtube with Photomaton, the french trio Jabberwocky have signed worldwide on Polydor.  They have remixed officially Lana Del Rey this last year and their first EP « POLA « has been released on 3th November with some remixes by Fakear, Clara Moto, N’to, The Geek x VRV, …  Their 2nd Single « Pola » has been acclaimed by everyone and the video with the actress Golshifteh Farahani has been viewed more than 500 000 times.
+
+Toplinks:
+
+
+----
+
+Text:
+
+After selling more than 100 000 singles and did more than 6 millions views on Youtube with Photomaton, the french trio Jabberwocky have signed worldwide on Polydor.  They have remixed officially Lana Del Rey this last year and their first EP « POLA « has been released on 3th November with some remixes by Fakear, Clara Moto, N’to, The Geek x VRV, …  Their 2nd Single « Pola » has been acclaimed by everyone and the video with the actress Golshifteh Farahani has been viewed more than 500 000 times.
 ‘Photomaton’ has been recently choosed to be on the official soundtrack of the french movie ‘Eden’.
 The Band has already played in all the biggest french cities and festivals (Vieilles Charrues, Francofollies, Solidays, Positiv Festival, Calvi On the Rocks).
 
-(oembed: https://soundcloud.com/jbbrwck)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/jbbrwck
+
+----
+

@@ -1,6 +1,17 @@
-Title: Rüfüs
+Title:
+
+Rüfüs
+
 ----
-Text: DISTANCE is one of the recurring themes on RÜFÜS' second album Bloom.
+
+Toplinks:
+
+
+----
+
+Text:
+
+DISTANCE is one of the recurring themes on RÜFÜS' second album Bloom.
 
 It's not particularly surprising: Bloom arrives after the Sydney electronic trio lapped the globe several times touring their debut album Atlas.
 
@@ -54,4 +65,13 @@ Bloom will continue to spread the word for quality Australian electronic music, 
 
 "The last thing we were thinking about was any possible attention for this album, here or internationally, we were just trying to make something we love," Hunt says. "We don't really try to write hits, just songs we love."
 
-(oembed: https://soundcloud.com/rufussounds)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/rufussounds
+
+----
+

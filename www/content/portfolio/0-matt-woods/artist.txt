@@ -1,8 +1,27 @@
-Title: Matt Woods
+Title:
+
+Matt Woods
+
 ----
-Text: Matt Woods, born and raised in Cornwall, moved to London to pursue his passion in music. Having spent his childhood singing in the Truro Cathedral choir, Matt developed a love for vocal harmony that is clear in his music - combining a stunning male falsetto with minimal electronic production.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Matt Woods, born and raised in Cornwall, moved to London to pursue his passion in music. Having spent his childhood singing in the Truro Cathedral choir, Matt developed a love for vocal harmony that is clear in his music - combining a stunning male falsetto with minimal electronic production.
 Following on from his tracks 'In The Dark', which made the BBC Introducing playlist in April 2015, and 'Impression'which reached #5 on Spotify's Global Viral Chart, Matt Woods returns with 'Ain't No Use'.
 A real statement of intent for 2016, 'Ain't No Use' hit #2 on the HypeM chart and cements Matt as one to watch this year.
 
+----
 
-(oembed: https://soundcloud.com/mattwoodsofficial)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/mattwoodsofficial
+
+----
+

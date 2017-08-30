@@ -1,6 +1,17 @@
-Title: The Souljazz Orchestra
+Title:
+
+The Souljazz Orchestra
+
 ----
-Text: Canada’s fastest moving and hardest working collective are back with one of their finest albums to date, a brand new journey into tropical, soul and jazz styles on their scorching new release, ‘Under Burning Skies’.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Canada’s fastest moving and hardest working collective are back with one of their finest albums to date, a brand new journey into tropical, soul and jazz styles on their scorching new release, ‘Under Burning Skies’.
  
 Turbulent times call for strong voices and The Souljazz Orchestra’s new set packs a suitably heavy lyrical punch, with wry observations and an urge for progressive change. Musically, the band continue to push the limits, dusting off ‘80s vintage synthesizers and early drum machines for the first time, bringing lo fi disco, boogie and electro touches to their trademark horn arrangements and earthy analogue sound. The fruits are a-plenty and the group sound at their confident and versatile best from start to finish.
  
@@ -10,4 +21,13 @@ The Souljazz Orchestra continue to be an unstoppable force. Nominated for a Cana
  
 ‘Under Burning Skies’ is released on LP, CD, cassette and digital formats. The LP is pressed on bright yellow vinyl and all formats feature superb illustrated artwork by The Souljazz Orchestra’s Pierre Chrétien.
 
-(oembed: https://soundcloud.com/strut)/sets/the-souljazz-orchestra-under/s-EdY2Y
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/strut/sets/the-souljazz-orchestra-under/s-EdY2Y
+
+----
+

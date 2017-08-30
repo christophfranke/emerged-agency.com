@@ -1,6 +1,17 @@
-Title: Stromae
+Title:
+
+Stromae
+
 ----
-Text: Paul Van Haver, better known as Stromae is a Belgian singer-songwriter. He has distinguished himself in both hip-hop and electronic music. He first became famous with the song ‘Alors on danse’, which remained at number one for several weeks in numerous countries throughout Europe.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Paul Van Haver, better known as Stromae is a Belgian singer-songwriter. He has distinguished himself in both hip-hop and electronic music. He first became famous with the song ‘Alors on danse’, which remained at number one for several weeks in numerous countries throughout Europe.
 
 He was born in Brussels of a Rwandan father and a Belgian mother. At the age of eleven, Paul Van Haver showed an interest in music and attended 'l'Académie Musicale de Jette', where he studied music history and learned to play the drums.
 
@@ -14,4 +25,13 @@ In September of the same year, Stromae collaborated with Kanye West on a remix o
 
 ‘Papaoutai’, the first single for his new album, was released on May 13th and has already reached 5 million views on Youtube.
 
-(oembed: https://soundcloud.com/stromae)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/stromae
+
+----
+

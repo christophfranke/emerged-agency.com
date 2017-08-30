@@ -1,7 +1,27 @@
-Title: Langenberg
+Title:
+
+Langenberg
+
 ----
-Text: Langenberg is co-founder of Essen based label Mild Pitch. His first output as a producer in 2007 marked the beginning of an ongoing string of remarkable releases on labels like Mild Pitch, Drumpoet Community, STHLM Audio, Liebe*Detail & Dessous Recordings. Under his „Ribn“ moniker, a producing alliance with Manuel Tur, he shows an equally attraktive discographie with releases on labels like Mule Electronic, Styrax Leaves, Millions of Moments (MOM), Mild Pitch, Ovum & Poker Flat Recordings.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Langenberg is co-founder of Essen based label Mild Pitch. His first output as a producer in 2007 marked the beginning of an ongoing string of remarkable releases on labels like Mild Pitch, Drumpoet Community, STHLM Audio, Liebe*Detail & Dessous Recordings. Under his „Ribn“ moniker, a producing alliance with Manuel Tur, he shows an equally attraktive discographie with releases on labels like Mule Electronic, Styrax Leaves, Millions of Moments (MOM), Mild Pitch, Ovum & Poker Flat Recordings.
 
 He lives and works in Berlin / Germany.
 
-(oembed: https://soundcloud.com/langenberg)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/langenberg
+
+----
+

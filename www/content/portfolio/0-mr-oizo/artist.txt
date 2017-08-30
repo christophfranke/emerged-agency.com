@@ -1,6 +1,17 @@
-Title: Mr. Oizo
+Title:
+
+Mr. Oizo
+
 ----
-Text: Quentin DUPIEUX was born in 1974.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Quentin DUPIEUX was born in 1974.
 At the age of 12, he found a camera and shot anything and everything. At 17, he began to play music to illustrate his images, and bought his first synthesizer.
 
 In 1997 he released his first long-player, on FCOM and invented the silly pseudo: MR OIZO.
@@ -34,4 +45,13 @@ In his last LP released last year, third for legendary Parisian label Ed Banger 
 
 He dies in 2041, used by all this superficial bullshit.
 
-(oembed: https://soundcloud.com/oizo-mr-3000)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/oizo-mr-3000
+
+----
+

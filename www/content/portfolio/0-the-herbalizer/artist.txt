@@ -1,6 +1,17 @@
-Title: The herbalizer
+Title:
+
+The herbalizer
+
 ----
-Text: Approaching 20 years into their musical journey, The Herbaliser just keep getting bigger, stronger and better. It all began in the early 1990s when West London duo Jake Wherry and Ollie Teeba discovered a shared passion for hip-hop, rare groove, funk and jazz. James Brown, DJ Premier, Lalo Schifrin, Pete Rock and David Axelrod were some of the heroes from their formative years.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Approaching 20 years into their musical journey, The Herbaliser just keep getting bigger, stronger and better. It all began in the early 1990s when West London duo Jake Wherry and Ollie Teeba discovered a shared passion for hip-hop, rare groove, funk and jazz. James Brown, DJ Premier, Lalo Schifrin, Pete Rock and David Axelrod were some of the heroes from their formative years.
 
 
 Both avid vinyl collectors, Jake and Ollie began using the freshest sampling techniques, coupled with Jake’s musical knowhow from playing guitar and bass, to create the early demos for fledgling label Ninja Tune. These tracks formed the core of their first album, Remedies, released in 1995. It offered an emphatically London-centric take on funky beats packed with samples, scratches and chopped-up rhythms. It remains an influential underground classic from the urban flipside of the Britpop boom.
@@ -11,4 +22,13 @@ Fast forward to 2008 and The Herbaliser decided to delve back to their funk root
 
 In 2016 The Herbaliser celebrate their 20th Anniversary.
 
-(oembed: https://soundcloud.com/the-herbaliser-1)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/the-herbaliser-1
+
+----
+

@@ -1,6 +1,17 @@
-Title: Joey Bada$$
+Title:
+
+Joey Bada$$
+
 ----
-Text: Joey Bada$$ is an American, independent hip-hop recording artist, who hails from Brooklyn, New York. With his rugged style, an invigorating outcome of his Brooklyn neighborhood and surroundings, Joey Bada$$ has been a staple in the hip-hop industry for maintaining an authentic, unique and versatile sound. Whereas other rappers may take less risks with formulaic projects, Joey never shies away from keeping his music raw and original.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Joey Bada$$ is an American, independent hip-hop recording artist, who hails from Brooklyn, New York. With his rugged style, an invigorating outcome of his Brooklyn neighborhood and surroundings, Joey Bada$$ has been a staple in the hip-hop industry for maintaining an authentic, unique and versatile sound. Whereas other rappers may take less risks with formulaic projects, Joey never shies away from keeping his music raw and original.
 
 He is a co-founder of the collective Pro Era, with whom he has released two mixtapes and toured the globe multiple times. 
 
@@ -10,5 +21,13 @@ His debut studio album, B4.DA.$$, released on 1/20/2015 through Pro Era Records 
 
 After his debut album release in January, Joey has spent the better part of 2015 touring; playing overseas festivals; creating original music for soundtracks, such as ’SouthPaw,' as well as a national tour in the U.S, all while establishing the first annual Steez Day Festival in New York on July 7th. After a busy 2015 that saw a #1 album and extensive touring schedule, Joey Bada$$' plans for 2016 are looking brighter than ever.
 
+----
 
-(oembed: https://soundcloud.com/joey-bada-official)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/joey-bada-official
+
+----
+

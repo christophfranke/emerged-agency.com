@@ -1,6 +1,17 @@
-Title: Jay Daniel
+Title:
+
+Jay Daniel
+
 ----
-Text: Jay Daniel has become one of the leading artists in the latest generation of Detroit electronic music-makers.  In the five years he has been on the scene, he released the Scorpio Rising EP on Theo Parrish’ Sound Signature Records, Karmatic Equations on Kyle Hall’s Wild Oats Music, and featured on Funkineven’s Abyss, all in 2014; all while gig-hopping from New York to London, Japan to Australia, and all points in between.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Jay Daniel has become one of the leading artists in the latest generation of Detroit electronic music-makers.  In the five years he has been on the scene, he released the Scorpio Rising EP on Theo Parrish’ Sound Signature Records, Karmatic Equations on Kyle Hall’s Wild Oats Music, and featured on Funkineven’s Abyss, all in 2014; all while gig-hopping from New York to London, Japan to Australia, and all points in between.
 
 In 2015, Jay took it to the next level with the creation of his own record label, Watusi High, releasing his first EP, School Dance.
 
@@ -8,4 +19,13 @@ In 2015, Jay took it to the next level with the creation of his own record label
 
 The nine-track LP “signals a departure from Jay’s previous output,” says the label. “Disillusioned with the constraints of drum programming, he retreated to his mother’s basement, picked up his drumsticks and started recording into a multitrack mixer for the first time.”
 
-(oembed: https://soundcloud.com/jaydaniel)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/jaydaniel
+
+----
+

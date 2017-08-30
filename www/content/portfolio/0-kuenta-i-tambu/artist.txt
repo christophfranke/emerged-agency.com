@@ -1,6 +1,17 @@
-Title: Kuenta I Tambu
+Title:
+
+Kuenta I Tambu
+
 ----
-Text: Tradition is a tricky beast. There are those who would leave it as a dusty museum exhibit. Then there are others who see further, into the possibility of tradition, a line that runs through history all the way to the present. They're the ones who respect the past but aren't going to be hidebound by it, who make it a very vital part of now. People like Kuenta i Tambu, who've transformed the old tambu music of Curacao into the 21st-century phenomenon of Tambutronic.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Tradition is a tricky beast. There are those who would leave it as a dusty museum exhibit. Then there are others who see further, into the possibility of tradition, a line that runs through history all the way to the present. They're the ones who respect the past but aren't going to be hidebound by it, who make it a very vital part of now. People like Kuenta i Tambu, who've transformed the old tambu music of Curacao into the 21st-century phenomenon of Tambutronic.
 
 Then meets now through hard kicks and hooky synths, the gritty good times that spawned bass music's tropical, global offshoots, from baile funk to moombahton. Taking up the sounds that evolved in Dutch clubs and mashing them effortlessly with the group's percussive, evocative Caribbean roots, Kuenta i Tambu proves how easily traditional grooves can move in new, unexpected ways.
 
@@ -25,4 +36,13 @@ New York Times: "The six-beat complexity and metal percussion of tambu arrived, 
 
 Rolling Stone: "Sounds like: A super-crunk, blacklight warehouse party surrounded by four separate Carnival parades."
 
-(oembed: https://soundcloud.com/aboutkit)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/aboutkit
+
+----
+

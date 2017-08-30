@@ -1,6 +1,25 @@
-Title: Pyrmdplaza
+Title:
+
+Pyrmdplaza
+
 ----
-Text: PYRMDPLAZA is a producer/musician based in the UK. His tracks jump and groove in a genre-challenging way that earned him millions of streams and constant recognition. With multiple world tours under his belt and collaborations with artists such as Gravez and KR, PYRMDPLAZA is poised to take to world by storm.
+
+Toplinks:
 
 
-(oembed: https://soundcloud.com/pyrmdplaza)
+----
+
+Text:
+
+PYRMDPLAZA is a producer/musician based in the UK. His tracks jump and groove in a genre-challenging way that earned him millions of streams and constant recognition. With multiple world tours under his belt and collaborations with artists such as Gravez and KR, PYRMDPLAZA is poised to take to world by storm.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/pyrmdplaza
+
+----
+

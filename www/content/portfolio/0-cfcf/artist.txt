@@ -1,6 +1,17 @@
-Title: CFCF
+Title:
+
+CFCF
+
 ----
-Text: Michael Silver (aka CFCF) is one of those rare talents to whom pop sensibility seems to be second nature. The Montreal native has been making music in his bedroom since he was 12 years old, and over the past 6 years or so that the rest of the world has been able to share in his pop experiments. This wide scope of interest in genre and pop structure and mature melodic instinct allow him to shift gears effortlessly from Techno & House to Ambient & New Age; from Kate Bush-tinged pop to the melancholy micro-genre known as ‘Night Bus’ (of which Silver has been a pioneer), and everything in between. His pop music can be sweetly sad or creepily disturbing, but it is always fundamentally Pop.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Michael Silver (aka CFCF) is one of those rare talents to whom pop sensibility seems to be second nature. The Montreal native has been making music in his bedroom since he was 12 years old, and over the past 6 years or so that the rest of the world has been able to share in his pop experiments. This wide scope of interest in genre and pop structure and mature melodic instinct allow him to shift gears effortlessly from Techno & House to Ambient & New Age; from Kate Bush-tinged pop to the melancholy micro-genre known as ‘Night Bus’ (of which Silver has been a pioneer), and everything in between. His pop music can be sweetly sad or creepily disturbing, but it is always fundamentally Pop.
 CFCF’s debut LP, ‘Continent’, was an impressive and prescient collage of vintage electronic textures evoking grandiose , neon-soaked landscapes worthy of a Michael Mann film. Across its 12 tracks, he explores numerous styles, including tropical-tinged house, nervous film-score electronics, and lush, beat-driven soundscapes, resulting in a cohesive masterclass on the variety of dance music.
 ‘The River’, an EP based partly on Werner Herzog’s classic film Fitzcarraldo, deepened a growing obsession with conjuring far-away landscapes and voyages through a style which is at times melancholy, propulsive and ecstatic. This vivid record creates a world that is fantastic, frightening, and illusory, using acoustic guitars and ambient synthesizers to evoke the madness of the jungle.
 Silver’s craft grew considerably following these releases with a pair of complimentary EP’s. ‘Exercises’ incorporates influences from neo-classical composers like Philip Glass and Steve Reich, to Brutalist architecture, to the film and musical works created by Norman McLaren at the NFB. Pitchfork called it “chilly, spacious, and oddly out of time”, noting that “by stretching out into classical- and kosmische-informed keyboard selections, CFCF has reached a place where his next options are almost limitless.” This was followed by ‘Music for Objects’, a more micro exploration of the secret life of inanimate objects, the meaning we give them, and the small moments they inhabit. As per Pitchfork again, “it’s another excellent chapter in CFCF’s story, a strong case for how much unexpected magic can be found in the ordinary and, more importantly, in CFCF’s ever-mutating discography.”
@@ -12,4 +23,13 @@ In between all these releases Silver has stayed busy with a series of evolving m
 As a DJ and a live act, CFCF has toured across Europe and the Americas in a variety of contexts. He’s DJed with indie acts such as Toro y Moi, Neon Indian, and Caribou, played The Museum Of Modern Art’s PS1 Warm-Up venue with Animal Collective and Oneohtrix Point Never and full on parties with Hercules and Love Affair, The Juan MacLean, Nguzunguzu, and Purity Ring, among many others. He has appeared in a live webcast DJ mix on the Boiler Room channel, and DJ’d at events like The Fader Fort in Austin and New York. As a live act, he has performed alongside Tim Hecker (in a church in Calgary, Alberta) and Nils Frahm (at the Decibel Fest in Seattle).
 Silver is also active in the art world. In 2013 he contributed music to artist Doug Aitken’s “Song 1” video installation and performance at the Hirshhorn Museum and Sculpture Garden in Washington, DC. In early 2015 he contributed to the Minneapolis-based Walker Art Center’s ‘Intangibles’ project, where he created a piece of intangible art to be purchased on the museum’s website alongside pieces by Nico Muhly and Martine Syms. And in early 2016, Silver collaborated with visual artist Andrew Thomas Huang, renowned for his continuing collaboration with Bjork on all visual aspects of her last 2 albums ‘Vulnicura’ and ‘Biophilia’, on a new immersive video piece titled ‘Interstice’.
 
-(oembed: https://soundcloud.com/cfcf)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/cfcf
+
+----
+

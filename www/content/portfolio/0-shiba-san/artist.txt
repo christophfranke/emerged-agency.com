@@ -1,6 +1,17 @@
-Title: Shiba San
+Title:
+
+Shiba San
+
 ----
-Text: In recent times Shiba San has garnered a lot of positive attention from every corner. With one foot in his hip hop past and the other embracing the future of house he has found a comfortable balance of the two in bass heavy ghetto funk. Associations with Claude Von Stroke’s label, Dirtybird, Coyu’s Suara and Amine Edge and Dance’s Cuff certainly haven’t hurt.
+
+Toplinks:
+
+
+----
+
+Text:
+
+In recent times Shiba San has garnered a lot of positive attention from every corner. With one foot in his hip hop past and the other embracing the future of house he has found a comfortable balance of the two in bass heavy ghetto funk. Associations with Claude Von Stroke’s label, Dirtybird, Coyu’s Suara and Amine Edge and Dance’s Cuff certainly haven’t hurt.
 
 ‘Okay’, The Best Underground Dance Track of 2014 (WMC/IDMA) effortlessly became a huge summer soundtrack. The track shot straight to the top of Beatport’s House chart and came in at Number 3 on the overall rankings - a clear indicator of the power behind this low slung rumbler (as if hearing the track yourself wouldn’t confirm that)! Only one year later, ‘Burn Like Fire’, the debut release of Shiba San’s own imprint ‘Basement Leak’, won the International Dance Music Award for the second year in a row and continues to make some serious rounds on the club circuit.
 
@@ -10,5 +21,13 @@ With his unrivaled technical skills, Shiba San quickly caught the attention of t
 
 It’s fair to say that Shiba San is primed and ready to explode. You can’t escape the feeling that he is quickly becoming a major player in the international House Music scene.
 
+----
 
-(oembed: https://soundcloud.com/shibasan)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/shibasan
+
+----
+

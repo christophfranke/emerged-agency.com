@@ -1,6 +1,17 @@
-Title: Beardyman
+Title:
+
+Beardyman
+
 ----
-Text: Imagine a machine that can let you record and mix music in real time – one that will enable musicians to get down the ideas in their head instantly, with no filter between the germs of a song and hearing it come alive straight away. Imagine the fevered genius capable of building such a perfect musical aid. Meet the BEARDYTRON_5000mkIV (Beardytron). And meet its creator…Beardyman, whose performances have been viewed over 60 million times on YouTube alone with improvisation being at the heart of the creative process.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Imagine a machine that can let you record and mix music in real time – one that will enable musicians to get down the ideas in their head instantly, with no filter between the germs of a song and hearing it come alive straight away. Imagine the fevered genius capable of building such a perfect musical aid. Meet the BEARDYTRON_5000mkIV (Beardytron). And meet its creator…Beardyman, whose performances have been viewed over 60 million times on YouTube alone with improvisation being at the heart of the creative process.
 
 Chances are, you already know Beardyman. He’s the lovable beatboxing champion, the festival favourite last heard playing the charismatic stoner on Fatboy Slim’s global smash Eat Sleep Rave Repeat, right? Well, yes, that was Beardyman. But the musician emerging from hiding on his startling new album Distractions is virtually a different species altogether.
 
@@ -36,4 +47,13 @@ There’s also an ongoing international tour for Distractions. How will it diffe
 
 Right now, making people dance is Beardyman’s ultimate distraction. And his album will distract the listener every single time.
 
-(oembed: https://soundcloud.com/beardyman)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/beardyman
+
+----
+

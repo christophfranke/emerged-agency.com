@@ -1,6 +1,23 @@
-Title: Duke Dumont
+Title:
+
+Duke Dumont
+
 ----
-Text: Duke Dumont Produces KATY PERRY feat NICKI MINAJ “Swish, Swish” single came out Friday May 19th.
+
+Toplinks:
+
+-
+  url: >
+    https://open.spotify.com/track/4jgvPFeCE4V2HkYX6luV9B
+-
+  url: >
+    https://open.spotify.com/track/4jgvPFeCE4V2HkYX6luV9B
+
+----
+
+Text:
+
+Duke Dumont Produces KATY PERRY feat NICKI MINAJ “Swish, Swish” single came out Friday May 19th.
 
 
 
@@ -12,7 +29,7 @@ Duke Dumont has released a hat trick of massive global hits - two UK number 1’
  
 
 
-SPOTIFY LINK: (oembed: https://open.spotify).com/track/4jgvPFeCE4V2HkYX6luV9B
+SPOTIFY LINK: 
 
 
  
@@ -29,9 +46,13 @@ Duke Dumont &amp; Gorgon City Feat Naations ‘Real Life’ is a collaboration b
 
 Duke headlined the first festival gig back at LA’s Historic STATE PARK this last weekend alongside Miike Snow before heading into a summer Ibiza residency and host of summer club and festival dates.
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/dukedumont
 
+----
 
-
-(oembed: https://soundcloud.com/dukedumont)

@@ -1,6 +1,26 @@
-Title: Audio Dope
+Title:
+
+Audio Dope
+
 ----
-Text: Basel based producer Audio Dope started his musical journey by making old fashioned beats inspired by the late 90s US hiphop vibes until he fell in love with the instrumental music scene and quickly established his own style combining organic samples and vocal fragments with crispy synths and tight drums.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Basel based producer Audio Dope started his musical journey by making old fashioned beats inspired by the late 90s US hiphop vibes until he fell in love with the instrumental music scene and quickly established his own style combining organic samples and vocal fragments with crispy synths and tight drums.
 He already uploaded three highly acclaimed releases on BandCamp and is now working on his first major album.
 
-(oembed: https://soundcloud.com/audio-dope)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/audio-dope
+
+----
+

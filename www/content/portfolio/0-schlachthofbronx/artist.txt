@@ -1,9 +1,29 @@
-Title: Schlachthofbronx
+Title:
+
+Schlachthofbronx
+
 ----
-Text: Schlachthofbronx is a duo consisting of Benedikt and Jakob from Munich/Germany who produce and play hybrid club music.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Schlachthofbronx is a duo consisting of Benedikt and Jakob from Munich/Germany who produce and play hybrid club music.
 Besides being known as on point performers on club and festival stages, the guys also built their reputation with production and studio work with and for artists like Snoop Dogg, M.I.A., Major Lazer, Buraka Som Sistema, Bonde Do Role and others. Their tracks get support on BBC radio as well as praise and spins from a wide range of fellow DJs and artists (like Modeselektor, Brodinski, Toddla T, Rob Da Bank, Diplo, DJ Hell, Mr. Oizo, Annie Mac, you name it). In the club they deliver a fast paced, bass heavy mix of styles, reflecting their various influences reaching from Dancehall/Reggae via Booty Bass and Footwork to Techno and the UK Bass continuum.
 Having three studio albums and countless EPs, singles and remixes on a handful of reference labels (like Mixpak, Monkeytown, Man Recordings, Disko B, etc) under their belt, they are now gearing up for for a series of releases under the Haul &amp; Pull Up banner: Three EPs with features like Riko Dan, Gonjasufi, Warrior Queen and Otto von Schirach are on the horizon, all leading up to their fourth studio album, perfecting their craft of creating genre-defying music oscillating between the club and the world beyond.
 Their ongoing/never ending tour take their sound around the world. So far on the travel record: Clubs and festivals all over Europe, supporting M.I.A. as well as multiple solo tours in the USA, Canada, Mexico and Africa, plus detours to places like Russia, Peru and others. Schlachthofbronx proud themselves of a certain diversity in their touring schedule, where a rave in a bavarian small town strip club can be followed by either a big festival in Mexico, a special one-off show together with a brass band at Munich's Oktoberfest or by hopping on one of the big soundsystem trucks during Nottinghill Carnival in London.
 Their newest live project is Blurred Vision, a night built around an outstanding 60.000 watt soundsystem, custom made tracks made especially for that very system, and enabling the audience to feel the music with their whole body until the bass eventually causes – well, Blurred Vision.
 
-(oembed: https://soundcloud.com/schlachthofbronx)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/schlachthofbronx
+
+----
+

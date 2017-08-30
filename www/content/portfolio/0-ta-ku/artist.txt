@@ -1,6 +1,17 @@
-Title: Ta-Ku
+Title:
+
+Ta-Ku
+
 ----
-Text: With an intimidating body of work amassing, spearheaded by the current Bandcamp charting release Re-Twerk, Perth’s Ta-ku is showing no signs of slowing down with co-signs from Diplo, A-trak, Gas Lamp Killer, Salva, Baauer, Shigeto, Flosstradamus, Nina Las Vegas, JJJ Next Crop, Nosaj Thing to name a few.
+
+Toplinks:
+
+
+----
+
+Text:
+
+With an intimidating body of work amassing, spearheaded by the current Bandcamp charting release Re-Twerk, Perth’s Ta-ku is showing no signs of slowing down with co-signs from Diplo, A-trak, Gas Lamp Killer, Salva, Baauer, Shigeto, Flosstradamus, Nina Las Vegas, JJJ Next Crop, Nosaj Thing to name a few.
 
 The Red Bull Music Academy alumni quickly captured the world’s attention and with the amount of releases he has clocked up for labels like Brownswood, HW&amp;W, Soulection and Project Mooncircle as well as collaborations with Chet Faker and remixes for Justin Timberlake, Flume, The Presets, Hermitude and Snakadaktal, Ta-ku looks set to continue with a crackling schedule set for 2013 already locked in.
 
@@ -8,6 +19,13 @@ From an early output of dusty beat samples, this disciple of The Ummah can cut a
 
 Available for DJ sets and Production panels, Ta-ku will soon emerge from the studio to be one of the most formidable live Producer acts in the country.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/takugotbeats)
+-
+  url: >
+    https://soundcloud.com/takugotbeats
+
+----
+

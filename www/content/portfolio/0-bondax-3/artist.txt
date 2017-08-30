@@ -1,6 +1,17 @@
-Title: Bondax
+Title:
+
+Bondax
+
 ----
-Text: "There's an old saying" says George Townsend, "that it takes years of work to be an overnight success." Wise words indeed, but startling too. Indeed, it's hard to believe that Bondax, the duo of George Townsend and Adam Kaye, have had the years to put into their work. After all, both are 18 years old and barely out of sixth form – surely theirs must just have been a lucky break, a couple of fluke big tunes that got spread on a wave of internet hype?
+
+Toplinks:
+
+
+----
+
+Text:
+
+"There's an old saying" says George Townsend, "that it takes years of work to be an overnight success." Wise words indeed, but startling too. Indeed, it's hard to believe that Bondax, the duo of George Townsend and Adam Kaye, have had the years to put into their work. After all, both are 18 years old and barely out of sixth form – surely theirs must just have been a lucky break, a couple of fluke big tunes that got spread on a wave of internet hype?
 
 Well no, they really have put the hours in to get where they are now. "We met properly in year 11" says Adam, "when we were doing our GCSEs. George had been producing for ages, I'd been in bands playing indie and stuff, and he asked me in to try and make some tunes. It was just fun at first, but the more we did it the more we realised... well, that we could make something quite decent!"
 
@@ -12,4 +23,13 @@ When the first buzz began to explode George took the bold step of dropping out o
 
 That's the same sense of perspective which George displayed in pointing out the work they needed to get where they are – and they both know there's a lot of work still to do. It's unusual to find any act who are so clear about what's needed to go where they want to be, let alone an act that's just out of school. But Bondax are a very unusual act, and one that's arrived just at the right time. Though they may have all the hallmarks of "bass music", the newest production techniques, tweaks and club rhythms, there's something deeper underlying all their tracks which gives them both pop appeal and the possibility of the longevity they clearly want. It's early days, of course, but there's every chance that in years to come, they won't be looked at alongside the hip club producers of the time, but in a category with Moby, Gorillaz, LCD Soundsystem and other such acts which have taken dance grooves to the biggest stages and the widest audiences.
 
-(oembed: https://soundcloud.com/bondax)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/bondax
+
+----
+

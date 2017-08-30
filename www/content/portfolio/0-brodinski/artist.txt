@@ -1,6 +1,17 @@
-Title: Brodinski
+Title:
+
+Brodinski
+
 ----
-Text: At first he was just a kid at a computer. Born into a generation whose musical culture is forged in just a couple of clicks, Brodinski spent much of his youth creating mp3 files, first in his hometown of Reims, and then in Lille where he went to study.
+
+Toplinks:
+
+
+----
+
+Text:
+
+At first he was just a kid at a computer. Born into a generation whose musical culture is forged in just a couple of clicks, Brodinski spent much of his youth creating mp3 files, first in his hometown of Reims, and then in Lille where he went to study.
 
 This included techno, of course, from Erol Alkan to Andrew Weatherall, but also Nine Inch Nails-style rock and the slick and menacing rap of artists like Three 6 Mafia and their Southern sound.
 
@@ -29,5 +40,13 @@ Brodinski has infused this record with all the influences that have fueled him o
 
 With this record, Brodinski has created a heady mix, an intoxicating style where you forget about genres and just dance and chill. A record that reflects a life.
 
+----
 
-(oembed: https://soundcloud.com/brodinskiofficial)
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/brodinskiofficial
+
+----
+

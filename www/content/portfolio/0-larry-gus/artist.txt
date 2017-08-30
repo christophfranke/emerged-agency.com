@@ -1,3 +1,22 @@
-Title: Larry Gus
+Title:
+
+Larry Gus
+
 ----
-Text: 
+
+Toplinks:
+
+
+----
+
+Text:
+
+
+
+----
+
+Bottomlinks:
+
+
+----
+

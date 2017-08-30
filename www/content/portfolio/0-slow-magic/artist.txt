@@ -1,6 +1,17 @@
-Title: Slow Magic
+Title:
+
+Slow Magic
+
 ----
-Text: A DIY project with worldwide scope, Slow Magic is universal and inclusive. It’s cosmic electronic music culled from the ether, yet crafted with human hands. It’s joyous, escapist, multi-disciplinary art that mixes transcendent performance with the nostalgic intimacy of two teenagers staying up too late on the phone.
+
+Toplinks:
+
+
+----
+
+Text:
+
+A DIY project with worldwide scope, Slow Magic is universal and inclusive. It’s cosmic electronic music culled from the ether, yet crafted with human hands. It’s joyous, escapist, multi-disciplinary art that mixes transcendent performance with the nostalgic intimacy of two teenagers staying up too late on the phone.
 
 After the release of 2012’s beloved and critically-acclaimed Triangle, Slow Magic became an international movement after touring with artists like Gold Panda and XXYYXX. Crowds found a masked man in their midst, bathed in fantastic light, with electronic triggers and a drum. The future-primitive combination infused the project’s electronic compositions with new life.
 
@@ -8,4 +19,13 @@ How To Run Away, Slow Magic’s debut with Downtown Records, reflects this growt
 
 Slow Magic is music by your imaginary friend.
 
-(oembed: https://soundcloud.com/slowmagic)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/slowmagic
+
+----
+

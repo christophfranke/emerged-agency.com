@@ -1,6 +1,17 @@
-Title: Imany
+Title:
+
+Imany
+
 ----
-Text: Die Magie des Augenblicks. Jene seltenen Momente, in denen das Herz vor Ergriffenheit überzulaufen droht und die Welt plötzlich still zu stehen scheint. Zerrissen zwischen Freude und Schmerz; zwischen Melancholie, Sehnsucht und diesem ganz besonderen Urvertrauen auf den Lauf der Dinge. Übersetzt aus ihrer kisuahelischen Muttersprache bedeutet das Wort Imany so viel wie Glaube – ein Begriff, der sich wie ein roter Faden durch das Schaffen der franko-afrikanischen Soul-Newcomerin zieht. Mit “Shape Of A Broken Heart” legt Imany nun eines der faszinierendsten Albumdebüts im gesamten Genre vor!
+
+Toplinks:
+
+
+----
+
+Text:
+
+Die Magie des Augenblicks. Jene seltenen Momente, in denen das Herz vor Ergriffenheit überzulaufen droht und die Welt plötzlich still zu stehen scheint. Zerrissen zwischen Freude und Schmerz; zwischen Melancholie, Sehnsucht und diesem ganz besonderen Urvertrauen auf den Lauf der Dinge. Übersetzt aus ihrer kisuahelischen Muttersprache bedeutet das Wort Imany so viel wie Glaube – ein Begriff, der sich wie ein roter Faden durch das Schaffen der franko-afrikanischen Soul-Newcomerin zieht. Mit “Shape Of A Broken Heart” legt Imany nun eines der faszinierendsten Albumdebüts im gesamten Genre vor!
 
 Als Nadia Mladjao alias Imany vor gut drei Jahren nach Paris zurückkehrte, fanden sich in ihrem kleinen Koffer nichts weiter als ein paar Kleider, eine Fotomappe und eine Demo-CD mit sechs selbst geschriebenen Songs. Sieben Jahre lang hatte das in einem kleinen Vorort der französischen Hauptstadt aufgewachsene Ausnahmetalent in New York als gefragtes Fashion Model gearbeitet, bis sie von einem Tag auf den anderen beschloss, ihr Leben als wandelnder Kleiderständer abrupt zu beenden und stattdessen ihrer großen Leidenschaft, der Musik, nachzugehen. Endlich wieder frei sein. Frei, etwas ganz Neues zu beginnen. Der große Sprung ins Ungewisse, Aufregende. Raus aus der oberflächlichen Welt der Mode, hinein in die Wirklichkeit. Mit allen Konsequenzen.
 
@@ -10,4 +21,13 @@ Anstatt reflexartigem Laufsteglächeln offenbart Imany erstmals ihr Innerstes: A
 
 “Shape Of A Broken Heart” – nie zuvor wurde das alte Prinzip von Glaube, Liebe, Hoffnung so einfühlsam und charismatisch präsentiert.
 
-(oembed: https://soundcloud.com/imanymusic)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/imanymusic
+
+----
+

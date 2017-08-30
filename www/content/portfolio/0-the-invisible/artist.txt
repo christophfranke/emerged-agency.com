@@ -1,6 +1,17 @@
-Title: The Invisible
+Title:
+
+The Invisible
+
 ----
-Text: The key sentiment behind The Invisible’s new album, “Patience,” is a sense of “joy and gratitude for being alive.” The experiences of the three members of the band since the release of their last album, both individually and collectively, mean that the group “have gained a deeper understanding of the value of life.” In some sense, you could argue that this is what music, at its most basic, does—it lifts us up, it celebrates, it is a distillation of the very best of life and living.
+
+Toplinks:
+
+
+----
+
+Text:
+
+The key sentiment behind The Invisible’s new album, “Patience,” is a sense of “joy and gratitude for being alive.” The experiences of the three members of the band since the release of their last album, both individually and collectively, mean that the group “have gained a deeper understanding of the value of life.” In some sense, you could argue that this is what music, at its most basic, does—it lifts us up, it celebrates, it is a distillation of the very best of life and living.
 
 As a group, Dave Okumu (guitar, vocals), Tom Herbert (bass &amp; synthesizer) and Leo Taylor (drums), have been involved in this celebration for almost a decade now, though their musical collaborations stretch back further still. The trio met as teenagers, and, over the next ten yeas or so, they crossed over again and again, gigging, jamming, working as session players and supporting each other’s band projects.
 
@@ -24,4 +35,13 @@ The record takes its title from an unfashionable but profound idea — that, if 
 
 The result of all these experiences - the collaborations, the new confidence, the group’s belief in celebrating life - is a record which seems set to take The Invisible from London’s best kept secret (almost a dictionary definition of musician’s musicians) to the much wider, broader audience that their beautiful work deserves. Good things come to those who wait…
 
-(oembed: https://soundcloud.com/the-invisible)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/the-invisible
+
+----
+

@@ -1,6 +1,17 @@
-Title: Valentino Khan
+Title:
+
+Valentino Khan
+
 ----
-Text: Valentino Khan makes everything.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Valentino Khan makes everything.
 
 From hip hop club anthems to dance music hits, Valentino's production knows no bounds. He has produced hip hop for multi-platinum and Grammy award-winning artists such as B.o.B., T.I., Bruno Mars, 2 Chainz, Iggy Azalea, Tyga and Kid Sister.
 
@@ -8,6 +19,13 @@ This year Khan already has a full plate, performing at Ultra Music Festival and 
 
 In the summer of 2014, Valentino signed to Skrillex's OWSLA imprint for his dance music releases and released his debut EP "In Khan We Trust." The music video for the lead single "Make Some Noise" was in high circulation around the internet and MTV and was nominated as an official selection for SXSW's film festival.  Khan also has had official releases on Mad Decent, Dim Mak, Columbia, Interscope, Warner Music, Ultra Records, and Slow Roast.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/valentinokhan)
+-
+  url: >
+    https://soundcloud.com/valentinokhan
+
+----
+

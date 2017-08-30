@@ -1,11 +1,28 @@
-Title: Ganz
+Title:
+
+Ganz
+
 ----
-Text: Despite being only 24, Dutchman Jordy Saämena has already achieved and accomplished many things. As a child he first became conscious of the wider musical world when listening to hip hop, old soul and garage and soon began drumming. It was a desire to create the full song, not just the bottom end, that turned Jordy onto production. Now, eight or so years later, he has switched with great skill and style between a number of different genres. In 2012 the musician and producer began studying Electronic Music at The Conservatory in Haarlem and soon became infatuated with bass. This is no surprise given Jordy s Moluccan heritage, a culture that is known for laying down exciting rhythms on traditional local drum, the Tifa.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Despite being only 24, Dutchman Jordy Saämena has already achieved and accomplished many things. As a child he first became conscious of the wider musical world when listening to hip hop, old soul and garage and soon began drumming. It was a desire to create the full song, not just the bottom end, that turned Jordy onto production. Now, eight or so years later, he has switched with great skill and style between a number of different genres. In 2012 the musician and producer began studying Electronic Music at The Conservatory in Haarlem and soon became infatuated with bass. This is no surprise given Jordy s Moluccan heritage, a culture that is known for laying down exciting rhythms on traditional local drum, the Tifa.
 It was at this moment that he dreamt up new moniker GANZ (also known as GANZ GVNZ, IAMGANZ or GANZEE) and began crafting the creations we hear today. This music he makes, inspired by peers like Rustie and Hudson Mohawke, is a melange of beats and bass, R&amp;B smoothness with hip hop rhythms and so far has been released on labels like Terrorhythm Recordings, Bmkltsch Rcrds, Saturate!
 Records and HW&amp;W. On the 18th of November GANZ released his EP, PVRPLE CWTCH on Plastician s
 label Terrorhythm. And in February he released his flip of Flume s sensational remix of „Hyperparadise by Hermitude. Keeping the smooth bass injections intact, GANZ restructured the breaks and added a smooth jazz section. Within six days this track hit 300.000 streams on Soundcloud and got major support from Flume and Hermitude.
 
+----
 
+Bottomlinks:
 
+-
+  url: >
+    https://soundcloud.com/iamganz
 
-(oembed: https://soundcloud.com/iamganz)
+----
+

@@ -1,6 +1,17 @@
-Title: Crystal Fighters DJ Set
+Title:
+
+Crystal Fighters DJ Set
+
 ----
-Text: If you’d spent the last few years of your life wrapped up in an album like Star Of Love, you’d go looking for a little respite, too. Crystal Fighters’ debut was the product of minds made manic by a deluge of fresh experience, both in the studio and on the road. It was inspired by an opera written by a man whose sanity disintegrated before he could finish it. It seemed to be influenced just as much by traditional Basque music from the 18th century as it was modern-day clubland, and contained residual traces of every genre, scene, style or party that had existed in-between.
+
+Toplinks:
+
+
+----
+
+Text:
+
+If you’d spent the last few years of your life wrapped up in an album like Star Of Love, you’d go looking for a little respite, too. Crystal Fighters’ debut was the product of minds made manic by a deluge of fresh experience, both in the studio and on the road. It was inspired by an opera written by a man whose sanity disintegrated before he could finish it. It seemed to be influenced just as much by traditional Basque music from the 18th century as it was modern-day clubland, and contained residual traces of every genre, scene, style or party that had existed in-between.
 
 But if album one was the sound of haywire electronic loops frantically kept spinning like plates on sticks, then album two is the story of Crystal Fighters mastering control of those rave repetitions, withdrawing from the chaos of the club to carve their music into the shape of songs.
 
@@ -16,4 +27,13 @@ Nevertheless, it has at its heart the same tension that provides all great recor
 
 With Cave Rave, Pringle, Vierich and Dickson have managed just that. The melodies, hooks and refrains of the album are so compelling it’s almost as if Crystal Fighters had to devise them simply to navigate a way across the landscapes of their own avid genrelessness, to remain as masters of music that itself seems to be a disputed territory. Here you have a band hell-bent on locating their own musical heaven, a place beyond petty genre parameters, where all that remains, finally, is song, rhythm and sentiment, bursting in vivid colour from the dark of the silent Basque night.
 
-(oembed: https://soundcloud.com/crystalfighters)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/crystalfighters
+
+----
+

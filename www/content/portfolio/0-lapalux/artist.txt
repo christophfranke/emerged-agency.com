@@ -1,9 +1,27 @@
-Title: Lapalux
+Title:
+
+Lapalux
+
 ----
-Text: In a world in which upstart DIY talent is flooding the gates of electronic music, a few recent voices have been so strong as to be startling. Lapalux - aka 25-year-old Stuart Howard - is certainly one such. As singular as a brilliant artist always should be, his instinctive understanding of the atmospheric power of texture grips the ear immediately on listening. Nostalchic is his debut album, mission statement, and the climax of many years of studying his craft.
+
+Toplinks:
+
+
+----
+
+Text:
+
+In a world in which upstart DIY talent is flooding the gates of electronic music, a few recent voices have been so strong as to be startling. Lapalux - aka 25-year-old Stuart Howard - is certainly one such. As singular as a brilliant artist always should be, his instinctive understanding of the atmospheric power of texture grips the ear immediately on listening. Nostalchic is his debut album, mission statement, and the climax of many years of studying his craft.
 
 The amalgam of words that make the title is aptly, and perhaps knowingly chosen. The album evokes nostalgia without ever sounding nostalgic, and Howard may have had his tongue in his chic when he added the second half of the title. The album is his most focused document to date, adding his beloved R&amp;B and soul into elements of house and hip hop, all with the trademark Lapalux finish; infectious, lopsided swing and achingly deep texture.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/lapalux)
+-
+  url: >
+    https://soundcloud.com/lapalux
+
+----
+

@@ -1,6 +1,17 @@
-Title: Lone
+Title:
+
+Lone
+
 ----
-Text: Whether it’s his long-standing love of 90s hip hop, passing penchant for the bright lights and sounds of hardcore or career defining old school house releases, Lone’s music is steeped in nostalgia. Studio or club born, he teases a dance floor ready sound from the in-between places of your consciousness, making you feel warm and fuzzy without quite knowing why.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Whether it’s his long-standing love of 90s hip hop, passing penchant for the bright lights and sounds of hardcore or career defining old school house releases, Lone’s music is steeped in nostalgia. Studio or club born, he teases a dance floor ready sound from the in-between places of your consciousness, making you feel warm and fuzzy without quite knowing why.
 
 Prolific from an early age with six album releases to his name already, it was Nottingham born and now London based Matt Cutler’s energetic 2010 LP, ‘Emerald Fantasy Tracks’ which truly put him on the artistic map. The accolades amassed from there on, Lone’s last two long-players – the sweet as candy ‘Galaxy Garden’ and dusty hip-house hitter ‘Reality Testing’ – catching the ear of the critics, whilst his high profile remixes, including Radiohead, Disclosure, Friendly Fires, Nathan Fake, TEED, Underworld, Steffi and Midland spread his sound to the masses.
 
@@ -12,4 +23,13 @@ The golden imperfections of all Lone tracks have transported many a bedroom list
 
 Cutler has focused his wandering creative mind into a rapidly growing discography which is vibrant, surprising and – like the crackle of an old vinyl – intensely evocative. No matter how you choose to experience it, Lone’s contribution to music is unique.
 
-(oembed: https://soundcloud.com/lone-1)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/lone-1
+
+----
+

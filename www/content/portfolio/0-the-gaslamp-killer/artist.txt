@@ -1,6 +1,26 @@
-Title: The Gaslamp Killer
+Title:
+
+The Gaslamp Killer
+
 ----
-Text: LA’s William Bensussen, aka The Gaslamp Killer, is many things at once. The San Diego native is a bonafide one-off; an artist and human being that can never be repeated. With an unparalleled energy, the DJ, producer, promoter and curator brings a different level of performance and showmanship to electronic music.
+
+Toplinks:
+
+-
+  url: >
+    https://www.facebook.com/gaslampkiller/
+-
+  url: >
+    http://www.emerged-agency.com/wp-content/uploads/2015/09/Unbenannt-1.jpg
+-
+  url: >
+    http://www.emerged-agency.com/wp-content/uploads/2015/09/home-214x214.png
+
+----
+
+Text:
+
+LA’s William Bensussen, aka The Gaslamp Killer, is many things at once. The San Diego native is a bonafide one-off; an artist and human being that can never be repeated. With an unparalleled energy, the DJ, producer, promoter and curator brings a different level of performance and showmanship to electronic music.
 "I always felt drawn to party time ever since I was little. Any kind of opportunity; a wedding, bar mitzvah, holiday. Whatever kind of event that was going on in my little community in San Diego, if there was music, I was dancing. It's just the way it was. I've always been into the energy and the happiness that it brings.” - The Gaslamp Killer
 Being a true music lover, and a complete obsessive, as a DJ/selector Bensussen has opened minds around the world to music that wouldn’t otherwise get heard. In his own words: “As artists, it's our job to entertain as well as educate.” Alongside co-founder Daddy Kev, GLK has put Southern California on the music map for years to come, with their beat mecca Low End Theory and the vibrant creative community they’ve built around it. The weekly Wednesday club night has brought together different scenes and generations, breaking new artists while also getting the likes of Thom Yorke and Erykah Badu to play DJ sets to the fevered Low End crowd, who often wait hours to get in.
 Over the last ten years, Gaslamp Killer’s iconoclastic attitude has led him beyond LA to far-reaching corners of the globe, one stage at a time: from Pitch in Amsterdam, to Sonar in Barcelona, to Austin Psych Fest, to Roskilde in Denmark, to Coachella. Holding a collection of well over 13,000 vinyl records, GLK’s untamed, unpredictable sets take traditional genres of rock into the outer reaches of hip-hop and the deep into the cosmic pressure of the heaviest electronic beats, with plenty of obscurity and bizarreness in-between.
@@ -9,8 +29,16 @@ The now rare, GLK collectables “I Spit On Your Grave” (Obey) and “All Kill
 As a producer, The Gaslamp Killer has worked with artists such as Gonjasufi, Prefuse 73 and Flying Lotus. His own experimental solo material pushes the borders of genre as much as his performances, particularly with his heavy-weighted EP ‘My Troubled Mind’ (Brainfeeder) and the monster ‘Death Gate‘ EP (Brainfeeder), which featured Gonjasufi, Computer Jay and Mophono.
 Forthcoming on Brainfeeder in September 2012, ‘Breakthrough’ will mark the debut full-length album from the Gaslamp Killer. Blending California-inspired psych with widespread global influences, on ‘Breakthrough’ GLK brings together a potent cast of friends to contribute to the album, with guest appearances from Gonjasufi, Adrian Younge, Dimlite, Daedelus, SAMIYAM and more. A musical anachronism and unconstrained compilation from a wandering spirit.
 
+----
 
-                                                                                           
+Bottomlinks:
 
+-
+  url: >
+    http://www.emerged-agency.com/wp-content/uploads/2015/09/soundcloud.jpg
+-
+  url: >
+    https://soundcloud.com/gaslampkiller
 
-(oembed: https://soundcloud.com/gaslampkiller)
+----
+

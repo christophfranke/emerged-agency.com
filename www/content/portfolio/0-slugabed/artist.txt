@@ -1,6 +1,17 @@
-Title: Slugabed
+Title:
+
+Slugabed
+
 ----
-Text: Slugabed is Greg. He lives in London and has been using the same buggy version of FruityLoops since he was 14. He's 27 now. That's 13 years of weirdly damaged bass music spewing from his odd little mind. On Facebook he describes his chosen genre as "steeped pears," while someone a bit more helpfully once tweeted that he "paints disconnect and loneliness in a tumble of fascinating beats." The point is, Greg drinks while he works, and he would have no idea how, for instance, he manages to be both of his time and so far ahead of it, to tell vivid stories without using words, or to make mercurial heaters that ought to be hung in aural art galleries considering the way he smears vibrant organic and synthetic sounds across an uncanny sonic valley. He has released with revered IDM labels like Ninja Tune and Planet Mu, helped launch indie imprints like Donky Pitch and Activia Benz, DJed dingy bars in every corner of this earth, run many a Boiler Room broadcast, and soundtracked at least one psychedelic yoga session. Depending on the day, your ears may detect in his music bits of glitch, ambient, trap, future bass, new age, strange pop and/or/mostly "other." Ultimately, Slugabed is a producer unmoored—a superb floating sound island unto himself.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Slugabed is Greg. He lives in London and has been using the same buggy version of FruityLoops since he was 14. He's 27 now. That's 13 years of weirdly damaged bass music spewing from his odd little mind. On Facebook he describes his chosen genre as "steeped pears," while someone a bit more helpfully once tweeted that he "paints disconnect and loneliness in a tumble of fascinating beats." The point is, Greg drinks while he works, and he would have no idea how, for instance, he manages to be both of his time and so far ahead of it, to tell vivid stories without using words, or to make mercurial heaters that ought to be hung in aural art galleries considering the way he smears vibrant organic and synthetic sounds across an uncanny sonic valley. He has released with revered IDM labels like Ninja Tune and Planet Mu, helped launch indie imprints like Donky Pitch and Activia Benz, DJed dingy bars in every corner of this earth, run many a Boiler Room broadcast, and soundtracked at least one psychedelic yoga session. Depending on the day, your ears may detect in his music bits of glitch, ambient, trap, future bass, new age, strange pop and/or/mostly "other." Ultimately, Slugabed is a producer unmoored—a superb floating sound island unto himself.
 
 That might have to do with his upbringing. Gregory Feldwick was raised in Bath, hippie country, far from the garage clubs and grime nights of London, and a good bit closer to other bored teens with access their dads' 'shroom stashes and Sun Ra LPs. He grew up with instruments in the house, began playing drums at 8, piano soon after, and moved onto PlayStation at 12. To be clear, he didn't care about games—he was making mutant dance tracks in Music 2000. From then, it was always beats over bands—why collaborate when an entire warped orchestra exists at your fingertips? Because of all this, Greg didn't get to school on time often, spurring his mom to call him a "slugabed." But at 19, he moved to Brighton and found others like him.
 
@@ -8,4 +19,13 @@ In 2009, Donky Pitch was just a weekday get-together in a tiny venue beneath a p
 
 But that was in 2012. What in the world has Greg been doing since that he hasn't released a proper sophomore album? Good question. One, he started Activia Benz, a 'net label devoted to allowing all sorts of beat eccentrics to flex (the ongoing Singles Club is essential and free), plus Slugabed himself, both in collaboration with folk like Iglooghost and Sega Bodega, and via his 2014 Coolest EP in which he sampled T-Pain and covered Roger Sanchez. But, mainly, Greg's been in the lab—his messy bedroom studio that smells like a brewery—popping bottles of cheap beer, mashing on cheap keyboards, and otherwise devising the exact sonic specifications which, when LP2 comes, will pull us all bodily into his specific universe. That, or he's steeping pears.
 
-(oembed: https://soundcloud.com/slugabed)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/slugabed
+
+----
+

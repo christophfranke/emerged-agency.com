@@ -1,6 +1,17 @@
-Title: Overwerk
+Title:
+
+Overwerk
+
 ----
-Text: Edmond Huszar is OVERWERK. The Canadian producer and songwriter broke onto the scene in late 2011 with the release of his debut EP, 'The Nth Degree'. Exactly one year later, he followed up the act with 'After Hours', his highly anticipated sophomore EP. Having firmly established himself amongst industry heavyweights, OVERWERK continuously pushed the boundaries in an effort to express his artistic talent. He ingeniously rewrote the entirety of 'After Hours' as a piano medley, while consistently putting out hard-hitting singles. His latest work, the chart topping 'Conquer' EP, is a testimony to the tireless effort and love for music that has defined him as an artist.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Edmond Huszar is OVERWERK. The Canadian producer and songwriter broke onto the scene in late 2011 with the release of his debut EP, 'The Nth Degree'. Exactly one year later, he followed up the act with 'After Hours', his highly anticipated sophomore EP. Having firmly established himself amongst industry heavyweights, OVERWERK continuously pushed the boundaries in an effort to express his artistic talent. He ingeniously rewrote the entirety of 'After Hours' as a piano medley, while consistently putting out hard-hitting singles. His latest work, the chart topping 'Conquer' EP, is a testimony to the tireless effort and love for music that has defined him as an artist.
 
 The OVERWERK sound is undeniably unique in itself as it blends the heavy complexities of electro with the orchestral feel of a cinematic score. What stands out the most, however, is the distinct quality and technicality of his music which firmly sets him apart from the electro community. It is this unique sound that has been sought after and licensed to such companies as Gucci, Prada, Vogue, Lamborghini, GoPro, EA, FOX and Fortune.
 
@@ -8,6 +19,13 @@ The name OVERWERK stems from Huszar's early passion for graphic design. Original
 
 With the utmost devotion to music lovers, OVERWERK promises to continue leaving fans and first-time listeners with an unparalleled experience. This year, OVERWERK will bring his epic sound to clubs and festivals across the world.
 
+----
 
+Bottomlinks:
 
-(oembed: https://soundcloud.com/overwerk)
+-
+  url: >
+    https://soundcloud.com/overwerk
+
+----
+

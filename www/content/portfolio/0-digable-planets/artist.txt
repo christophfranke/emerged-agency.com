@@ -1,6 +1,17 @@
-Title: Digable Planets
+Title:
+
+Digable Planets
+
 ----
-Text: Digable Planets, the alternative hip-hop trio comprised of Mary Ann “Ladybug Mecca” Vieira, Craig “Doodlebug” Irving, and Ishmael “Butterfly” Butler have finally reunited!! The group’s debut album Reachin' (A New Refutation of Time and Space) was released in 1993 under Pendulum Records.  The album's lead single, "Rebirth of Slick (Cool Like Dat)" became a crossover Top 20 Billboard hit, earning gold certification by the RIAA and winning the Grammy for Best Rap Performance by a Duo or Group.
+
+Toplinks:
+
+
+----
+
+Text:
+
+Digable Planets, the alternative hip-hop trio comprised of Mary Ann “Ladybug Mecca” Vieira, Craig “Doodlebug” Irving, and Ishmael “Butterfly” Butler have finally reunited!! The group’s debut album Reachin' (A New Refutation of Time and Space) was released in 1993 under Pendulum Records.  The album's lead single, "Rebirth of Slick (Cool Like Dat)" became a crossover Top 20 Billboard hit, earning gold certification by the RIAA and winning the Grammy for Best Rap Performance by a Duo or Group.
 
 Digable’s fusion of jazz with hip hop broadened hip hop’s reach and expanded it’s connection to music history, African American culture and the sounds of the streets.   The trio’s second album in late 1994, Blowout Comb, organically integrated soul, jazz and live instrumentation with political consciousness, mixed in with happy observations of everyday life.  Both albums are proven hip-hop classics thriving on listeners’ ability to relate, think, feel and be inspired.
 
@@ -8,4 +19,13 @@ After Blowout Comb, all three decided to pursue solo careers -- Butler created a
 
 Digable’s music is one of the guaranteed sounds in hip-hop to “put on and enjoy and vibe out to, with a rich undercurrent of history and thought.”  A proper reunion for Digable Planets has been a long time coming and fans are ready.
 
-(oembed: https://soundcloud.com/digable-planets-official)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/digable-planets-official
+
+----
+

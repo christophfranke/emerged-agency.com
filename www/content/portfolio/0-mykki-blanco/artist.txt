@@ -1,6 +1,41 @@
-Title: Mykki Blanco
+Title:
+
+Mykki Blanco
+
 ----
-Text: A fearless artist at his challenging yet melodic best, Mykki Blanco releases his debut album “Mykki" (produced by Woodkid and Jermiah Meece) on 16th September on Dogfood Music Group / !K7.
+
+Toplinks:
+
+-
+  url: >
+    https://youtu.be/cNGR4ciDmTA
+-
+  url: >
+    http://www.thefader.com/2016/05/17/mykki-blanco-high-school-never-ends-music-video
+-
+  url: >
+    http://mykkiblancoworld.com/gaydogfood
+-
+  url: >
+    https://www.youtube.com/watch?v=axQ7CRJNti0
+-
+  url: >
+    https://youtu.be/ioMKTWCIwl8
+-
+  url: >
+    https://youtu.be/w39Fxx10CEI
+-
+  url: >
+    https://youtu.be/sokeAMDm7mk
+-
+  url: >
+    https://youtu.be/LSgVZEGpo6U
+
+----
+
+Text:
+
+A fearless artist at his challenging yet melodic best, Mykki Blanco releases his debut album “Mykki" (produced by Woodkid and Jermiah Meece) on 16th September on Dogfood Music Group / !K7.
 
 Mykki Blanco has metamorphosed many times. The multi-faceted star was a child actor who founded a performance art collective as a teen, ran away from home, and won scholarships to two prestigious art colleges, quitting both as he realised that “the art world is just one big scam for rich people” - an idea touched upon in album track “High School Never Ends” written with Woodkid, which premiered on FADER in May.
 
@@ -24,4 +59,13 @@ Mykki Blanco’s referential framework is both archival and futuristic: a myriad
 
 What stands out above all of this though on “Mykki” is the musicianship, melody and depth, that help Mykki Blanco birth a heavyweight album about feminine empowerment, the discovery of one’s “second soul”, giving a voice to the marginalised and scratching a question mark that cuts deeps over and over again.
 
-(oembed: https://soundcloud.com/mykkiblanco)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/mykkiblanco
+
+----
+

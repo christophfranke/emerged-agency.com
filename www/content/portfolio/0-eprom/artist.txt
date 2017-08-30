@@ -1,6 +1,26 @@
-Title: Eprom
+Title:
+
+Eprom
+
 ----
-Text: EPROM is one of the vibrant West-Coast scene’s most colourful characters and an important cog in the international Rwina machine. He’s a consummate post-millennial producer, and his sound varies from toxic hip-hop to searing garage mutations to bizarre concoctions somewhere in between. His beats jiggle and drip and contort wildly, always in some perpetual state of melting, churning, and mutation. He’s had releases on Warp, Surefire, and Bristol-based Bad Acid, but it’s his Rwina releases that have been the most visible and enduring, whether it’s the timestretch torture and fierce melodic geysers of “Humanoid” or deconstructionist mayhem of his “Pipe Dream” EP, where dubstep and grime collide for a staggering beast that shakes off heavy blotches of radioactive fluorescent sludge with every beat that lands. His live sets are something to behold as well, emphasizing the hip-hop roots that lurk underneath his sewer beats, and an hour of EPROM is bound to turn your brain into to the same sort of goo that gums the gears of his distinctive beats.
+
+Toplinks:
+
+
+----
+
+Text:
+
+EPROM is one of the vibrant West-Coast scene’s most colourful characters and an important cog in the international Rwina machine. He’s a consummate post-millennial producer, and his sound varies from toxic hip-hop to searing garage mutations to bizarre concoctions somewhere in between. His beats jiggle and drip and contort wildly, always in some perpetual state of melting, churning, and mutation. He’s had releases on Warp, Surefire, and Bristol-based Bad Acid, but it’s his Rwina releases that have been the most visible and enduring, whether it’s the timestretch torture and fierce melodic geysers of “Humanoid” or deconstructionist mayhem of his “Pipe Dream” EP, where dubstep and grime collide for a staggering beast that shakes off heavy blotches of radioactive fluorescent sludge with every beat that lands. His live sets are something to behold as well, emphasizing the hip-hop roots that lurk underneath his sewer beats, and an hour of EPROM is bound to turn your brain into to the same sort of goo that gums the gears of his distinctive beats.
 Fans and supporters of Eprom include Flying Lotus, ?uestlove, DJ Shadow, Rustie, The Gaslamp Killer, The Glitch Mob and BBC Radio One’s Mary Anne Hobbs, and the producer has shared the stage with many of the international electronic music community’s hottest artists. With his new album, Metahuman, garnering critical acclaim from all corners, Eprom is finally getting the recognition he has earned as an integral part of the giant bouncing backbone of West Coast Sound.
 
-(oembed: https://soundcloud.com/epromofficial)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/epromofficial
+
+----
+

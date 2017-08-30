@@ -1,6 +1,17 @@
-Title: The Magician
+Title:
+
+The Magician
+
 ----
-Text: The Magician is the alias of talented DJ/Producer, Stephen Fasano.
+
+Toplinks:
+
+
+----
+
+Text:
+
+The Magician is the alias of talented DJ/Producer, Stephen Fasano.
 
 One night not so long ago, he appeared from a place between space and time. Apparently he stepped into this world, materializing in a cloud of crystal stars and soft pink smoke. Some claim he’s a former airline pilot who crashed an afterparty – some say it’s all just an illusion, a well performed hoax.
 
@@ -10,4 +21,13 @@ Recently signed to Parlophone / Warner Records and joining the Machine Managemen
 
 During this whole time he has also been capturing the imaginations of music fans with his Magic Tapes on Soundcloud. Every month he sifts through new music - exclusives from other artists plus music from fans - crafting these tracks into new DJ mix tapes. He’s up to an impressive 44 so far and along the way gaining a cult following of disco, pop and house fans.    All of which is supported by a busy touring schedule throughout 2014. Everywhere The Magician DJs people come under his spell.
 
-(oembed: https://soundcloud.com/themagician)
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/themagician
+
+----
+
