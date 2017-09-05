@@ -83,7 +83,10 @@ function Tiles(options){
 
 		//set container dimensions
 		var rows = Math.ceil(visibleTiles/elemsPerRow);
-		container.css('height', height*rows);
+		if(height*rows == 0)
+			container.css('height', 'auto');
+		else
+			container.css('height', height*rows);
 	}
 
 	function unsetCSS(){

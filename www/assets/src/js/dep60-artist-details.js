@@ -7,16 +7,20 @@ function ArtistDetails(options){
 	var artistContainerSelector = options['artistContainer'];
 	var currentURL = null;
 
-	var fadeTime = 1.5;
+	var fadeTime = 0.75;
 
 	var self = this;
 
 	function fadeOut(){
 		$(artistContainerSelector).css('opacity', '0');
+		$(artistContainerSelector).css('pointer-events', 'none');
+		$(artistContainerSelector).css('transform', 'scale3D(0.8, 0.8, 1');
 	}
 
 	function fadeIn(){
 		$(artistContainerSelector).css('opacity', '1');
+		$(artistContainerSelector).css('pointer-events', 'auto');
+		$(artistContainerSelector).css('transform', 'scale3D(1, 1, 1');
 	}
 
 	function scrollIfNecessary(){
@@ -73,7 +77,7 @@ function ArtistDetails(options){
 	}
 
 	self.initialize = function(){
-		$(artistContainerSelector).css('transition', 'opacity ' + fadeTime + 's');
+		$(artistContainerSelector).css('transition', 'opacity ' + fadeTime + 's, transform ' + fadeTime + 's');
 	}
 
 	self.initialize();

@@ -19,4 +19,7 @@
 		}
 	}
 ?>
+	<div class="artist-details">
+		<?php if(isset($include_artist_content) && $include_artist_content === true) snippet('artist-content') ?>
+	</div>
 </div>
