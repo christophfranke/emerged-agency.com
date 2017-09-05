@@ -1,6 +1,7 @@
 
 
 LOCAL_DOMAIN = 'emerged-relaunch.local'
+LIVE_DOMAIN = 'emerged-agency.com'
 
 
 ENABLE_BUILD_SYSTEM = True
