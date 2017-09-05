@@ -14,8 +14,8 @@ $dimensions = array(
 <div class="tour-dates">
 	<?php
 	$url = $page->location();
-	$one_day_in_seconds = 60*60*24;
-	$content = getCached($url, $one_day_in_seconds); //expires once a day
+	$cache_time_in_seconds = 60*$page->cachetime()->value();
+	$content = getCached($url, $cache_time_in_seconds);
 	$xml = simplexml_load_string($content);
 	$json = json_encode($xml);
 	$obj = json_decode($json);
