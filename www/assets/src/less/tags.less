@@ -6,6 +6,7 @@ body, html{
     font-family: Helvetica;
     font-weight: lighter;
     font-style: normal;
+    background-color: @white;
 }
 
 
@@ -25,6 +26,10 @@ a:hover{
 p{
 	font-weight: lighter;
 	color: @grey;
+	line-height: 1.4em;
+	@media @small{
+		color: @black;
+	}
 }
 
 p.black{

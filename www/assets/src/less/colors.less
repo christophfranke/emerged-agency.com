@@ -1,11 +1,12 @@
 
 
-@transparent-grey: rgba(0, 0, 0, 0.5);
-@transparent-white: rgba(255, 255, 255, 0.75);
+@white: #fafbfc;
+@black: #000000;
+@grey: average(@white, @black);
+@light-grey: lighten(@grey, 25%);
 
-@white: white;
-@black: black;
-@grey: #828282;
-@light-grey: #dddddd;
-@transparent-white: rgba(255, 255, 255, 0.925);
-@transparent: rgba(255, 255, 255, 0);
+
+
+@transparent-grey: fade(@black, 60%);
+@transparent-white: fade(@white, 92.5%);
+@transparent: fade(@black, 0%);
