@@ -74,9 +74,9 @@
 		position: relative;
 		.arrow{
 			font-size: 30px;
-			position: absolute;
 			transition: background-color 0.7s, color 0.7s;
 			font-weight: lighter;
+			display: inline-block;
 			&:hover{
 				text-decoration: none;
 				color: @white;
@@ -84,10 +84,12 @@
 			}
 		}
 		.left{
-			left: 0;
+			float: left;
+			margin-right: 10px;
 		}
 		.right{
-			right: 0;
+			float: right;
+			margin-left: 10px;
 		}
 	}
 }
