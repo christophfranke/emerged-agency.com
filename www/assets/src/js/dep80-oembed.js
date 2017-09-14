@@ -40,6 +40,7 @@ function Oembed(){
 
 	function embedHTMLinElement(html, element){
 		$(element).html(html);
+		$(element).removeClass('transparent');
 		$(element).removeAttr('data-oembed-url');
 	}
 
@@ -103,8 +104,15 @@ function Oembed(){
 		embedHTMLinElement('<a href="' + url + '" target="_blank">' + url + '</a>', element);
 	}
 
-	self.embed = function(){
+	self.embed = function(minimumDelay){
 		var elems = $(selector);
+		$(elems).addClass('transparent');
+		if(typeof minimumDelay !== 'undefined'){
+			$(elems).addClass('hidden');
+			setTimeout(function(){
+				$(elems).removeClass('hidden');
+			}, 1000*minimumDelay);
+		}
 		for(var i=0; i < elems.length; i++)
 			this.resolveURL(elems[i]);
 	}

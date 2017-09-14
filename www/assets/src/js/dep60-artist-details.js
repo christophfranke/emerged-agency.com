@@ -52,7 +52,7 @@ function ArtistDetails(options){
 		Ajax.get(ajaxURL, function(html){
 			updateArtistContainer(html);
 			currentURL = url;
-			objects.oembed.embed();
+			objects.oembed.embed(fadeTime);
 			AjaxNavigation.updateLinks();
 			scrollIfNecessary();
 			initializeLightslider();
