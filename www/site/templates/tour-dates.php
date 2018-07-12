@@ -32,11 +32,14 @@ $dimensions = array(
 		{ ?>
 			<?php
 			$slug = str_replace(' ','-', strtolower($artist));
-			$slug = str_replace("'", '', $slug);
+			$slug = str_replace("'", '-', $slug);
 			$slug = str_replace('!', '', $slug);
 			$slug = str_replace('$', '', $slug);
 			$slug = str_replace('.', '', $slug);
 			$slug = str_replace('-&-', '-', $slug);
+			$slug = str_replace('ä', 'ae', $slug);
+			$slug = str_replace('ö', 'oe', $slug);
+			$slug = str_replace('ü', 'ue', $slug);
 			$artist_page = $site->find('/portfolio')->find($slug);
 			$i = 0;
 			while($artist_page !== false && $artist_page->intendedTemplate() == 'redirect'){
