@@ -49,7 +49,7 @@ $dimensions = array(
 				if($i > 100)
 					break;
 			}
-			if($artist_page !== false){
+			if($artist_page !== false && $artist_page->image() !== null){
 				$image = $artist_page->image()->thumb($dimensions);
 				$h3 = '<h3 class="artist_name"><a href="' . $artist_page->url() . '">' . $artist . '</a></h3>';
 			}
