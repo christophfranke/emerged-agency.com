@@ -172,7 +172,8 @@ function Tiles(options){
 	//go to a state according to url
 	self.goState = function(url){
 		var validationURI = '/portfolio/';
-		if(url == 'http://' + window.location.hostname + '/' || url == 'http://' + window.location.hostname + '/portfolio')
+		var hostWithPort = window.location.hostname + (window.location.port ? `:${window.location.port}`:'');
+		if(url == 'http://' + hostWithPort + '/' || url == 'http://' + hostWithPort + '/portfolio')
 			url = validationURI;
 		var validate = url.indexOf(validationURI);
 		if(validate >= 0){		
