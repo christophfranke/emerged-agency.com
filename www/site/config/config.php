@@ -56,5 +56,17 @@ c::set('routes', array(
         'action' => function($letter) {
             return array('portfolio', compact('letter'));
         }
+    ),
+    array(
+        'pattern' => 'portfolio',
+        'action' => function() {
+            return array('portfolio', array('letter' => ''));
+        }
+    ),
+    array(
+        'pattern' => '/',
+        'action' => function() {
+            return array('home', array('letter' => ''));
+        }
     )
 ));
