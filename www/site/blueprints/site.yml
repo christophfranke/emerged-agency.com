@@ -11,6 +11,9 @@ fields:
   soundcloud:
     label: Soundcloud Page
     type: url
+  instagram:
+    label: Instagram Page
+    type: url
   imprint:
     label: Imprint
     type: page
