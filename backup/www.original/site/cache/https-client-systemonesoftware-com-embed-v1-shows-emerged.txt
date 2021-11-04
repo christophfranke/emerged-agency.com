@@ -1,0 +1,487 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <link rel="stylesheet" href="/css/embed-shows-light.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
+        <style>
+            BODY {font-family: 'Roboto', sans-serif;}
+        </style>
+    </head>
+    <body>
+        <div class="list">
+
+            <div>
+                <h1>Upcoming shows</h1>
+            </div>
+
+
+
+<div class="month-header">
+    
+    <span class="year-label">
+        2020
+    </span> - <span class="month-label">
+        May
+    </span> 
+</div>    <div class="month">
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Fri
+            </div>
+            <div class="daynumber">
+                29
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Steve Aoki
+                </div>
+                <div class="eventname">
+Steve Aoki @ Sputnik Festival, Pouch                </div>
+            </div>
+            <div>
+                <div class="venuename">
+Sputnik Festival                </div>
+
+                <div class="venuecity">
+                    Pouch, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+            <a href=https://www.sputnik-springbreak-shop.de/tickets class="onsale" target="_blank">Tickets</a>
+
+    </div>
+
+</div>            </div>
+    </div>
+
+<div class="month-header">
+    
+    <span class="year-label">
+        2020
+    </span> - <span class="month-label">
+        July
+    </span> 
+</div>    <div class="month">
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Sat
+            </div>
+            <div class="daynumber">
+                11
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Netsky
+                </div>
+                <div class="eventname">
+Netsky @ Airbeat One                </div>
+            </div>
+            <div>
+                <div class="venuename">
+Airbeat One                </div>
+
+                <div class="venuecity">
+                    Neustadt-Glewe, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+            <a href=https://bit.ly/2R1nDdG class="onsale" target="_blank">Tickets</a>
+
+    </div>
+
+</div>            </div>
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Fri
+            </div>
+            <div class="daynumber">
+                17
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Altin G&#xFC;n
+                </div>
+                <div class="eventname">
+Altin G&#xFC;n @&#xA0;Junkyard, Dortmund                </div>
+            </div>
+            <div>
+                <div class="venuename">
+                            <a href=http://junkyard.ruhr/ target="_blank">JunkYard</a>
+                </div>
+
+                <div class="venuecity">
+                    Dortmund, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+
+    </div>
+
+</div>            </div>
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Sun
+            </div>
+            <div class="daynumber">
+                19
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Ekali
+                </div>
+                <div class="eventname">
+EKALI @ Parookaville                </div>
+            </div>
+            <div>
+                <div class="venuename">
+Parookaville                </div>
+
+                <div class="venuecity">
+                    Weeze, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+
+    </div>
+
+</div>
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Sun
+            </div>
+            <div class="daynumber">
+                19
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Steve Aoki
+                </div>
+                <div class="eventname">
+Steve Aoki @ Parookaville                </div>
+            </div>
+            <div>
+                <div class="venuename">
+Parookaville                </div>
+
+                <div class="venuecity">
+                    Weeze, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+
+    </div>
+
+</div>            </div>
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Fri
+            </div>
+            <div class="daynumber">
+                24
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    JAUZ B2B HOLY GOOF
+                </div>
+                <div class="eventname">
+JAUZ B2B HOLY GOOF @ Open Beatz, Herzogenaurach                </div>
+            </div>
+            <div>
+                <div class="venuename">
+Open Beatz Festival                </div>
+
+                <div class="venuecity">
+                    Herzogenaurach, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+
+    </div>
+
+</div>            </div>
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Thu
+            </div>
+            <div class="daynumber">
+                30
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Islandman
+                </div>
+                <div class="eventname">
+Islandman @ Appletree Garden Festival                </div>
+            </div>
+            <div>
+                <div class="venuename">
+Appletree Festival                </div>
+
+                <div class="venuecity">
+                    Diepholz, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+
+    </div>
+
+</div>            </div>
+    </div>
+
+<div class="month-header">
+    
+    <span class="year-label">
+        2020
+    </span> - <span class="month-label">
+        August
+    </span> 
+</div>    <div class="month">
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Sun
+            </div>
+            <div class="daynumber">
+                02
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Altin G&#xFC;n
+                </div>
+                <div class="eventname">
+Altin G&#xFC;n @&#xA0;Watt en Schlick, Varel                </div>
+            </div>
+            <div>
+                <div class="venuename">
+                            <a href=http://wattenschlick.de/ target="_blank">Watt En Schlick Fest</a>
+                </div>
+
+                <div class="venuecity">
+                    Varel, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+
+    </div>
+
+</div>            </div>
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Tue
+            </div>
+            <div class="daynumber">
+                04
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Altin G&#xFC;n
+                </div>
+                <div class="eventname">
+Altin G&#xFC;n @ Merck Sommerperlen, Centralstation, Darmstadt, 04.08.20                </div>
+            </div>
+            <div>
+                <div class="venuename">
+                            <a href=http://www.centralstation-darmstadt.de/ target="_blank">Centralstation</a>
+                </div>
+
+                <div class="venuecity">
+                    Darmstadt, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+            <a href=https://www.centralstation-darmstadt.de/event/8730001/merck-sommerperlen-altin-guen class="onsale" target="_blank">Tickets</a>
+
+    </div>
+
+</div>            </div>
+            <div class="day">
+
+<div class="row">
+
+    <div class="day-cell">
+        <div>
+            <div class="dayname">
+                Wed
+            </div>
+            <div class="daynumber">
+                05
+            </div>
+        </div>
+    </div>
+
+    <div class="details-cell">
+
+        <div class="grid">
+            <div>
+                <div class="artistname">
+                    Altin G&#xFC;n
+                </div>
+                <div class="eventname">
+Altin G&#xFC;n @&#xA0;Kulturarena, Jena                </div>
+            </div>
+            <div>
+                <div class="venuename">
+                            <a href=http://www.kulturarena.de/ target="_blank">KulturArena</a>
+                </div>
+
+                <div class="venuecity">
+                    Jena, DE
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="tickets-cell">
+        
+            <a href=https://www.kulturarena.de/programm/altin-guen-postcards.html class="onsale" target="_blank">Tickets</a>
+
+    </div>
+
+</div>            </div>
+    </div>
+
+<footer class="flex">
+    <div class="grow1 poweredby">overview by <a href="https://www.systemonesoftware.com" target="_blank">System One</a></div>
+    <div class="history">
+        
+
+    </div>
+</footer>
+        </div>
+    </body>
+</html>

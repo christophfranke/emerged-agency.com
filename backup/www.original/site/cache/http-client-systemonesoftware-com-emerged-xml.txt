@@ -1,0 +1,1522 @@
+<shows cached="2020-05-12T15:49:26.3889646Z">
+  <show id="2541874">
+    <Artist filter="?artist=645366">Steve Aoki</Artist>
+    <Date duration="1">05/29/2020</Date>
+    <Time />
+    <Venue>Sputnik Festival</Venue>
+    <Street>Halbinsel Pouch</Street>
+    <PostalCode>06774</PostalCode>
+    <City>Pouch</City>
+    <Country>DE</Country>
+    <GeoLat>0</GeoLat>
+    <GeoLng>0</GeoLng>
+    <EventName>Steve Aoki @ Sputnik Festival, Pouch</EventName>
+    <Url />
+    <TicketUrl>https://www.sputnik-springbreak-shop.de/tickets</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2602076">
+    <Artist filter="?artist=669030">Netsky</Artist>
+    <Date duration="1">07/11/2020</Date>
+    <Time />
+    <Venue>Airbeat One</Venue>
+    <Street>Segelflugplatz</Street>
+    <PostalCode>19306</PostalCode>
+    <City>Neustadt-Glewe</City>
+    <Country>DE</Country>
+    <GeoLat>53.361</GeoLat>
+    <GeoLng>11.6167</GeoLng>
+    <EventName>Netsky @ Airbeat One</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2R1nDdG</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2652116">
+    <Artist filter="?artist=863489">Altin Gün</Artist>
+    <Date duration="1">07/17/2020</Date>
+    <Time />
+    <Venue>JunkYard</Venue>
+    <Street>Schlägelstraße 57</Street>
+    <PostalCode>44145</PostalCode>
+    <City>Dortmund</City>
+    <Country>DE</Country>
+    <GeoLat>51.5331</GeoLat>
+    <GeoLng>7.47253</GeoLng>
+    <EventName>Altin Gün @ Junkyard, Dortmund</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2609436">
+    <Artist filter="?artist=653848">Ekali</Artist>
+    <Date duration="1">07/19/2020</Date>
+    <Time />
+    <Venue>Parookaville</Venue>
+    <Street>Flughafen Ring 293</Street>
+    <PostalCode>47652</PostalCode>
+    <City>Weeze</City>
+    <Country>DE</Country>
+    <GeoLat>51.5954</GeoLat>
+    <GeoLng>6.15741</GeoLng>
+    <EventName>EKALI @ Parookaville</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2558294">
+    <Artist filter="?artist=645366">Steve Aoki</Artist>
+    <Date duration="1">07/19/2020</Date>
+    <Time />
+    <Venue>Parookaville</Venue>
+    <Street>Flughafen Ring 293</Street>
+    <PostalCode>47652</PostalCode>
+    <City>Weeze</City>
+    <Country>DE</Country>
+    <GeoLat>51.5954</GeoLat>
+    <GeoLng>6.15741</GeoLng>
+    <EventName>Steve Aoki @ Parookaville</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2597544">
+    <Artist filter="?artist=1162404">JAUZ B2B HOLY GOOF</Artist>
+    <Date duration="1">07/24/2020</Date>
+    <Time />
+    <Venue>Open Beatz Festival</Venue>
+    <Street>Poppenhofer Weiher</Street>
+    <PostalCode>91074</PostalCode>
+    <City>Herzogenaurach</City>
+    <Country>DE</Country>
+    <GeoLat>49.5683</GeoLat>
+    <GeoLng>10.8829</GeoLng>
+    <EventName>JAUZ B2B HOLY GOOF @ Open Beatz, Herzogenaurach</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2640531">
+    <Artist filter="?artist=1102797">Islandman</Artist>
+    <Date duration="1">07/30/2020</Date>
+    <Time />
+    <Venue>Appletree Festival</Venue>
+    <Street>Lüdersbusch 2</Street>
+    <PostalCode>49356</PostalCode>
+    <City>Diepholz</City>
+    <Country>DE</Country>
+    <GeoLat>52.5998</GeoLat>
+    <GeoLng>8.38836</GeoLng>
+    <EventName>Islandman @ Appletree Garden Festival</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2621979">
+    <Artist filter="?artist=863489">Altin Gün</Artist>
+    <Date duration="1">08/02/2020</Date>
+    <Time />
+    <Venue>Watt En Schlick Fest</Venue>
+    <Street>Kirchweg 1</Street>
+    <PostalCode>26316</PostalCode>
+    <City>Varel</City>
+    <Country>DE</Country>
+    <GeoLat>53.446</GeoLat>
+    <GeoLng>8.11067</GeoLng>
+    <EventName>Altin Gün @ Watt en Schlick, Varel</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2643914">
+    <Artist filter="?artist=863489">Altin Gün</Artist>
+    <Date duration="1">08/04/2020</Date>
+    <Time />
+    <Venue>Centralstation</Venue>
+    <Street>Im Carree</Street>
+    <PostalCode>64283</PostalCode>
+    <City>Darmstadt</City>
+    <Country>DE</Country>
+    <GeoLat>49.8722</GeoLat>
+    <GeoLng>8.65264</GeoLng>
+    <EventName>Altin Gün @ Merck Sommerperlen, Centralstation, Darmstadt, 04.08.20</EventName>
+    <Url />
+    <TicketUrl>https://www.centralstation-darmstadt.de/event/8730001/merck-sommerperlen-altin-guen</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2645715">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">08/05/2020</Date>
+    <Time />
+    <Venue>JunkYard</Venue>
+    <Street>Schlägelstraße 57</Street>
+    <PostalCode>44145</PostalCode>
+    <City>Dortmund</City>
+    <Country>DE</Country>
+    <GeoLat>51.5331</GeoLat>
+    <GeoLng>7.47253</GeoLng>
+    <EventName>Too Many Zooz @ Junkyard, Dortmund</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2643946">
+    <Artist filter="?artist=863489">Altin Gün</Artist>
+    <Date duration="1">08/05/2020</Date>
+    <Time />
+    <Venue>KulturArena</Venue>
+    <Street>Schillergäßchen 1</Street>
+    <PostalCode>07745</PostalCode>
+    <City>Jena</City>
+    <Country>DE</Country>
+    <GeoLat>50.9255</GeoLat>
+    <GeoLng>11.5834</GeoLng>
+    <EventName>Altin Gün @ Kulturarena, Jena</EventName>
+    <Url />
+    <TicketUrl>https://www.kulturarena.de/programm/altin-guen-postcards.html</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2582851">
+    <Artist filter="?artist=669030">Netsky</Artist>
+    <Date duration="1">08/07/2020</Date>
+    <Time />
+    <Venue>Nibirii Festival</Venue>
+    <Street>Am Badesee 1</Street>
+    <PostalCode>52349</PostalCode>
+    <City>Düren</City>
+    <Country>DE</Country>
+    <GeoLat>50.803</GeoLat>
+    <GeoLng>6.44726</GeoLng>
+    <EventName>Netsky @ Nibirii Festival, Düren</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2645725">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">08/07/2020</Date>
+    <Time />
+    <Venue>Theaterfestival Isny</Venue>
+    <Street>Am Feuerschwanden 5</Street>
+    <PostalCode>88316</PostalCode>
+    <City>Isny im Allgäu</City>
+    <Country>DE</Country>
+    <GeoLat>47.6897</GeoLat>
+    <GeoLng>10.0521</GeoLng>
+    <EventName>Too Many Zooz @ Theaterfestival Isny, Isny</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2608596">
+    <Artist filter="?artist=863489">Altin Gün</Artist>
+    <Date duration="1">08/08/2020</Date>
+    <Time />
+    <Venue>Haldern Pop Festival</Venue>
+    <Street />
+    <PostalCode>46459</PostalCode>
+    <City>Rees</City>
+    <Country>DE</Country>
+    <GeoLat>51.7853</GeoLat>
+    <GeoLng>6.37658</GeoLng>
+    <EventName>Altin Gün @ Haldern Pop, Haldern</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657761">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">08/09/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Too Many Zooz @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/event/too-many-zooz-gretchen-12492105/?affiliate=GMD</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657767">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">08/10/2020</Date>
+    <Time />
+    <Venue>Die Kantine</Venue>
+    <Street>Neusser Landstraße 2</Street>
+    <PostalCode>50735</PostalCode>
+    <City>Köln</City>
+    <Country>DE</Country>
+    <GeoLat>50.9979</GeoLat>
+    <GeoLng>6.93877</GeoLng>
+    <EventName>Too Many Zooz @ Kantine, Köln</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657124">
+    <Artist filter="?artist=1080487">Nubya Garcia</Artist>
+    <Date duration="1">09/07/2020</Date>
+    <Time />
+    <Venue>Club Bahnhof Ehrenfeld</Venue>
+    <Street>Bartholomäus-Schink-Str. 65/67</Street>
+    <PostalCode>50825</PostalCode>
+    <City>Köln</City>
+    <Country>DE</Country>
+    <GeoLat>50.9518</GeoLat>
+    <GeoLng>6.91641</GeoLng>
+    <EventName>Nubya Garcia @ CBE, Köln</EventName>
+    <Url />
+    <TicketUrl>https://shop.derticketservice.de/clubbahnhofehrenfeld/details/?fremdref=504772705</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657113">
+    <Artist filter="?artist=1080487">Nubya Garcia</Artist>
+    <Date duration="1">09/08/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Nubya Garcia @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2QOhDEe</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2650076">
+    <Artist filter="?artist=1204167">Daughters of Reykjavík</Artist>
+    <Date duration="4">09/16/2020</Date>
+    <Time />
+    <Venue>Reeperbahn Festival</Venue>
+    <Street>Reeperbahn</Street>
+    <PostalCode>20359</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5496</GeoLat>
+    <GeoLng>9.96258</GeoLng>
+    <EventName>Daughters of Reykjavik @ Reeperbahn Festival, Hamburg (Deal Memo noch nicht verschickt)</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2615356">
+    <Artist filter="?artist=748264">Weval</Artist>
+    <Date duration="4">09/16/2020</Date>
+    <Time />
+    <Venue>Reeperbahn Festival</Venue>
+    <Street>Reeperbahn</Street>
+    <PostalCode>20359</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5496</GeoLat>
+    <GeoLng>9.96258</GeoLng>
+    <EventName>Weval @ Reeperbahn Festival Hamburg</EventName>
+    <Url />
+    <TicketUrl>https://www.reeperbahnfestival.com/de/tickets</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2651177">
+    <Artist filter="?artist=762390">Schlachthofbronx</Artist>
+    <Date duration="1">09/18/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Schlachthofbronx @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2660815">
+    <Artist filter="?artist=1142697">Peaking Lights</Artist>
+    <Date duration="1">09/18/2020</Date>
+    <Time />
+    <Venue>Gewölbe</Venue>
+    <Street>Hans-Böckler-Platz 2</Street>
+    <PostalCode>50672</PostalCode>
+    <City>Köln</City>
+    <Country>DE</Country>
+    <GeoLat>50.9437</GeoLat>
+    <GeoLng>6.93384</GeoLng>
+    <EventName>Peaking Lights @ Gewölbe Köln</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/3aKE5GB</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657105">
+    <Artist filter="?artist=968276">Skinny Pelembe</Artist>
+    <Date duration="1">09/21/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Skinny Pelembe @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/event/skinny-pelembe-gretchen-12560524</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657104">
+    <Artist filter="?artist=968276">Skinny Pelembe</Artist>
+    <Date duration="1">09/22/2020</Date>
+    <Time />
+    <Venue>Kulturhaus Karlstorbahnhof</Venue>
+    <Street>Am Karlstor 1</Street>
+    <PostalCode>69117</PostalCode>
+    <City>Heidelberg</City>
+    <Country>DE</Country>
+    <GeoLat>49.4147</GeoLat>
+    <GeoLng>8.71904</GeoLng>
+    <EventName>Skinny Pelembe @ Karlstorbahnhof, Heidelberg</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/34KmYRO</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2612799">
+    <Artist filter="?artist=1063269">Theon Cross</Artist>
+    <Date duration="1">09/24/2020</Date>
+    <Time />
+    <Venue>Jazzfestival Freiburg</Venue>
+    <Street>FORUM Merzhausen</Street>
+    <PostalCode>79249</PostalCode>
+    <City>Merzhausen</City>
+    <Country>DE</Country>
+    <GeoLat>47.9659</GeoLat>
+    <GeoLng>7.82797</GeoLng>
+    <EventName>Theon Cross @ Jazzfestival Freiburg, Merzhausen</EventName>
+    <Url />
+    <TicketUrl>https://forumjazz-ev.reservix.de/tickets-theon-cross-quartett-jazzfestival-freiburg-in-merzhausen-forum-merzhausen-am-24-9-2020/e1544773</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2651437">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">09/26/2020</Date>
+    <Time />
+    <Venue>Mojo Club</Venue>
+    <Street>Reeperbahn 1</Street>
+    <PostalCode>20359</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5496</GeoLat>
+    <GeoLng>9.96809</GeoLng>
+    <EventName>Too Many Zooz @ Mojo Club, Hamburg</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657717">
+    <Artist filter="?artist=1196058">Clap! Clap!</Artist>
+    <Date duration="1">09/26/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Clap Clap @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/eventseries/clap-clap-live-av-2703215</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2556345">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">10/08/2020</Date>
+    <Time />
+    <Venue>Moods im Schiffbau</Venue>
+    <Street>Schiffbaustrasse 6</Street>
+    <PostalCode>8005</PostalCode>
+    <City>Zürich</City>
+    <Country>CH</Country>
+    <GeoLat>47.3888</GeoLat>
+    <GeoLng>8.51864</GeoLng>
+    <EventName>Too Many Zooz @ Moods, Zürich</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/too-many-zooz-20200522-2030-moods-zurich</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653831">
+    <Artist filter="?artist=1136058">Zara McFarlane</Artist>
+    <Date duration="1">10/10/2020</Date>
+    <Time />
+    <Venue>Moods im Schiffbau</Venue>
+    <Street>Schiffbaustrasse 6</Street>
+    <PostalCode>8005</PostalCode>
+    <City>Zürich</City>
+    <Country>CH</Country>
+    <GeoLat>47.3888</GeoLat>
+    <GeoLng>8.51864</GeoLng>
+    <EventName>Zara McFarlane @ Moods, Zurich</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/zara-mcfarlane-london-jazz-calling-20200428-2030-moods-zurich</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653615">
+    <Artist filter="?artist=1137458">Portico Quartet</Artist>
+    <Date duration="1">10/11/2020</Date>
+    <Time />
+    <Venue>Flex Cafe</Venue>
+    <Street>Augartenbrücke 1</Street>
+    <PostalCode>1010</PostalCode>
+    <City>Wien</City>
+    <Country>DE</Country>
+    <GeoLat>48.2021</GeoLat>
+    <GeoLng>16.369</GeoLng>
+    <EventName>Portico Quartet @ Flex Café, Wien</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2LS27F3</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2655985">
+    <Artist filter="?artist=1136058">Zara McFarlane</Artist>
+    <Date duration="1">10/11/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Zara McFarlane @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/event/zara-mcfarlane-gretchen-12882382</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2659305">
+    <Artist filter="?artist=1077509">Too Many Zooz</Artist>
+    <Date duration="1">10/11/2020</Date>
+    <Time />
+    <Venue>Alte Feuerwache</Venue>
+    <Street>Brückenstr. 2</Street>
+    <PostalCode>68167</PostalCode>
+    <City>Mannheim</City>
+    <Country>DE</Country>
+    <GeoLat>49.4954</GeoLat>
+    <GeoLng>8.47386</GeoLng>
+    <EventName>Too Many Zooz @ Mannheim, Alte Feuerwache</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/37ivZDw</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653612">
+    <Artist filter="?artist=1137458">Portico Quartet</Artist>
+    <Date duration="1">10/12/2020</Date>
+    <Time />
+    <Venue>Hansa 39</Venue>
+    <Street>Hansastraße 39</Street>
+    <PostalCode>81373</PostalCode>
+    <City>München</City>
+    <Country>DE</Country>
+    <GeoLat>48.1285</GeoLat>
+    <GeoLng>11.5347</GeoLng>
+    <EventName>Portico Quartet @ Hansa 39, München</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2t32S7n</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2654023">
+    <Artist filter="?artist=1102797">Islandman</Artist>
+    <Date duration="1">10/13/2020</Date>
+    <Time />
+    <Venue>das WERK</Venue>
+    <Street>Spittelauer Lände 12</Street>
+    <PostalCode>1090</PostalCode>
+    <City>Wien</City>
+    <Country>AT</Country>
+    <GeoLat>48.235</GeoLat>
+    <GeoLng>16.3609</GeoLng>
+    <EventName>Islandman @ Werk Wien, Wien</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653617">
+    <Artist filter="?artist=1137458">Portico Quartet</Artist>
+    <Date duration="1">10/13/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Portico Quartet @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/event/portico-quartet-gretchen-12861782</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653811">
+    <Artist filter="?artist=1102797">Islandman</Artist>
+    <Date duration="1">10/15/2020</Date>
+    <Time />
+    <Venue>Kaserne Basel</Venue>
+    <Street>Klybeckstrasse 1b</Street>
+    <PostalCode>4057</PostalCode>
+    <City>Basel</City>
+    <Country>CH</Country>
+    <GeoLat>47.5638</GeoLat>
+    <GeoLng>7.59128</GeoLng>
+    <EventName>Islandman @ Kaserne, Basel</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/islandman-tr-20200320-2330-kaserne-rossstall-1-basel</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2676832">
+    <Artist filter="?artist=1202783">Derya Yildirim &amp; Grup Simsek</Artist>
+    <Date duration="1">10/15/2020</Date>
+    <Time />
+    <Venue>Kulturzentrum Dieselstrasse e.V.</Venue>
+    <Street>Dieselstraße 26</Street>
+    <PostalCode>73734</PostalCode>
+    <City>Esslingen am Neckar</City>
+    <Country>DE</Country>
+    <GeoLat>48.7387</GeoLat>
+    <GeoLng>9.29233</GeoLng>
+    <EventName>Derya Yildirim &amp; Grup Simsek @ Dieselstrasse, Esslingen</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim-light.com/de/a/5c938d095d15420001fe12f2/e/5e4a9c25c664800731f837e3</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2662912">
+    <Artist filter="?artist=705396">Daedelus</Artist>
+    <Date duration="1">10/16/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Daedelus @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2659200">
+    <Artist filter="?artist=762390">Schlachthofbronx</Artist>
+    <Date duration="1">10/17/2020</Date>
+    <Time />
+    <Venue>INTERNATIONAL DUB GATHERING</Venue>
+    <Street>Carretera Tortosa Km 11</Street>
+    <PostalCode>43896</PostalCode>
+    <City>L'Aldea</City>
+    <Country>ES</Country>
+    <GeoLat>40.7456</GeoLat>
+    <GeoLng>0.618666</GeoLng>
+    <EventName>Schlachthofbronx @ International Dub Gathering, L´Aldea (Spanien)</EventName>
+    <Url />
+    <TicketUrl>https://www.internationaldubgathering.com/</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2656655">
+    <Artist filter="?artist=1036739">Romare</Artist>
+    <Date duration="1">10/17/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Romare @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/3boGPJq</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2590994">
+    <Artist filter="?artist=1139571">Matthew Halsall</Artist>
+    <Date duration="1">10/18/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Matthew Halsall @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/eventseries/2677080/?affiliate=GMD</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2656104">
+    <Artist filter="?artist=649090">Mulatu Astatke</Artist>
+    <Date duration="1">10/18/2020</Date>
+    <Time />
+    <Venue>Dachstock</Venue>
+    <Street>Neubrückstrasse 8</Street>
+    <PostalCode>3001</PostalCode>
+    <City>Bern</City>
+    <Country>CH</Country>
+    <GeoLat>46.9476</GeoLat>
+    <GeoLng>7.44043</GeoLng>
+    <EventName>Mulatu Astatke @ Dachstock, Bern</EventName>
+    <Url />
+    <TicketUrl>https://www.dachstock.ch/events/18-10-20-mulatu-astatke</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2658955">
+    <Artist filter="?artist=1102797">Islandman</Artist>
+    <Date duration="1">10/19/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Islandman @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2579076">
+    <Artist filter="?artist=1137458">Portico Quartet</Artist>
+    <Date duration="1">10/19/2020</Date>
+    <Time />
+    <Venue>Elbphilharmonie Hamburg</Venue>
+    <Street>Platz der Deutschen Einheit 1</Street>
+    <PostalCode>20457</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5413</GeoLat>
+    <GeoLng>9.98413</GeoLng>
+    <EventName>Portico Quartet @ Elbphilharmonie, Hamburg</EventName>
+    <Url />
+    <TicketUrl>http://www.elbphilharmonie.de/</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2579072">
+    <Artist filter="?artist=1139571">Matthew Halsall</Artist>
+    <Date duration="1">10/19/2020</Date>
+    <Time />
+    <Venue>Elbphilharmonie Hamburg</Venue>
+    <Street>Platz der Deutschen Einheit 1</Street>
+    <PostalCode>20457</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5413</GeoLat>
+    <GeoLng>9.98413</GeoLng>
+    <EventName>Matthew Halsall @ Elbphilharmonie, Hamburg</EventName>
+    <Url />
+    <TicketUrl>http://www.elbphilharmonie.de/</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657727">
+    <Artist filter="?artist=649090">Mulatu Astatke</Artist>
+    <Date duration="1">10/19/2020</Date>
+    <Time />
+    <Venue>Festsaal Kreuzberg</Venue>
+    <Street>Am Flutgraben 2</Street>
+    <PostalCode>12435</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4965</GeoLat>
+    <GeoLng>13.4528</GeoLng>
+    <EventName>Mulatu Astatke @ Festsaal Kreuzberg, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/event/mulatu-astatke-mulatu-astatke-festsaal-kreuzberg-12651563</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2654011">
+    <Artist filter="?artist=769979">Ben L'Oncle Soul</Artist>
+    <Date duration="1">10/20/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Ben L'Oncle Soul @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2KC7aZk</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2658967">
+    <Artist filter="?artist=1102797">Islandman</Artist>
+    <Date duration="1">10/20/2020</Date>
+    <Time />
+    <Venue>Musikbunker</Venue>
+    <Street>Goffartstraße 26</Street>
+    <PostalCode>52066 Aachen</PostalCode>
+    <City>Aachen</City>
+    <Country>DE</Country>
+    <GeoLat>50.7669</GeoLat>
+    <GeoLng>6.10378</GeoLng>
+    <EventName>Islandman @ Musikbunker, Aachen</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2646383">
+    <Artist filter="?artist=1137458">Portico Quartet</Artist>
+    <Date duration="1">10/20/2020</Date>
+    <Time />
+    <Venue>Fri-Son</Venue>
+    <Street />
+    <PostalCode>1705</PostalCode>
+    <City>Fribourg</City>
+    <Country>CH</Country>
+    <GeoLat>0</GeoLat>
+    <GeoLng>0</GeoLng>
+    <EventName>Portico Quartet @ Fri-Son, Fribourg</EventName>
+    <Url />
+    <TicketUrl>https://www.petzi.ch/fr/events/44749-fri-son-portico-quartett</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653604">
+    <Artist filter="?artist=1137458">Portico Quartet</Artist>
+    <Date duration="1">10/21/2020</Date>
+    <Time />
+    <Venue>Royal Baden</Venue>
+    <Street>Bahnhofstrasse 39</Street>
+    <PostalCode>5400</PostalCode>
+    <City>Baden</City>
+    <Country>CH</Country>
+    <GeoLat>47.4782</GeoLat>
+    <GeoLng>8.30866</GeoLng>
+    <EventName>Portico Quartet @ Royal, Baden (CH)</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/neues-datum-portico-quartet-uk-support-20201021-2100-royal-baden</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2654002">
+    <Artist filter="?artist=769979">Ben L'Oncle Soul</Artist>
+    <Date duration="1">10/21/2020</Date>
+    <Time />
+    <Venue>Zakk</Venue>
+    <Street>Fichtenstrasse 40</Street>
+    <PostalCode>40233</PostalCode>
+    <City>Düsseldorf</City>
+    <Country>DE</Country>
+    <GeoLat>51.2168</GeoLat>
+    <GeoLng>6.81066</GeoLng>
+    <EventName>Ben L'Oncle Soul @ Zakk, Düsseldorf</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2XsSuRt</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2654020">
+    <Artist filter="?artist=769979">Ben L'Oncle Soul</Artist>
+    <Date duration="1">10/22/2020</Date>
+    <Time />
+    <Venue>Mojo Club</Venue>
+    <Street>Reeperbahn 1</Street>
+    <PostalCode>20359</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5496</GeoLat>
+    <GeoLng>9.96809</GeoLng>
+    <EventName>Ben L'Oncle Soul @ Mojo Club, Hamburg</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2O2oOI2</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2662267">
+    <Artist filter="?artist=1141496">Object Blue</Artist>
+    <Date duration="1">10/23/2020</Date>
+    <Time />
+    <Venue>ISC</Venue>
+    <Street>Neubrückstrasse 10</Street>
+    <PostalCode>3012</PostalCode>
+    <City>Bern</City>
+    <Country>CH</Country>
+    <GeoLat>46.9535</GeoLat>
+    <GeoLng>7.43984</GeoLng>
+    <EventName>object blue @ ISC Bern</EventName>
+    <Url />
+    <TicketUrl>https://www.petzi.ch/de/events/44491-isc-medusa</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653368">
+    <Artist filter="?artist=1139571">Matthew Halsall</Artist>
+    <Date duration="1">10/25/2020</Date>
+    <Time />
+    <Venue>Moods im Schiffbau</Venue>
+    <Street>Schiffbaustrasse 6</Street>
+    <PostalCode>8005</PostalCode>
+    <City>Zürich</City>
+    <Country>CH</Country>
+    <GeoLat>47.3888</GeoLat>
+    <GeoLng>8.51864</GeoLng>
+    <EventName>Matthew Halsall @ Moods, Zürich</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/matthew-halsall-the-gondwana-orchestra-london-jazz-calling-20200314-2030-moods-zurich</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2674974">
+    <Artist filter="?artist=1071445">Yves Tumor</Artist>
+    <Date duration="1">10/28/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Yves Tumor @ Gretchen Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/?evid=12655887&amp;fun=page&amp;pagename=event</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2654058">
+    <Artist filter="?artist=769979">Ben L'Oncle Soul</Artist>
+    <Date duration="1">10/29/2020</Date>
+    <Time />
+    <Venue>Jazznojazz Festival</Venue>
+    <Street />
+    <PostalCode></PostalCode>
+    <City>Zürich</City>
+    <Country>CH</Country>
+    <GeoLat>47.3769</GeoLat>
+    <GeoLng>8.54169</GeoLng>
+    <EventName>Ben L'Oncle Soul @ Jazznojazz Festival, Zürich</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2CT3EWv</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653777">
+    <Artist filter="?artist=1161383">Black Milk &amp; Nat Turner Band</Artist>
+    <Date duration="1">10/30/2020</Date>
+    <Time />
+    <Venue>Alte Feuerwache</Venue>
+    <Street>Brückenstr. 2</Street>
+    <PostalCode>68167</PostalCode>
+    <City>Mannheim</City>
+    <Country>DE</Country>
+    <GeoLat>49.4954</GeoLat>
+    <GeoLng>8.47386</GeoLng>
+    <EventName>Black Milk &amp; Nat Turner Band @ Alte Feuerwache, Mannheim</EventName>
+    <Url />
+    <TicketUrl>https://altefeuerwache.reservix.de/p/reservix/event/1525659</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653737">
+    <Artist filter="?artist=1194215">Gary Bartz &amp; Maisha</Artist>
+    <Date duration="1">11/06/2020</Date>
+    <Time />
+    <Venue>Moods im Schiffbau</Venue>
+    <Street>Schiffbaustrasse 6</Street>
+    <PostalCode>8005</PostalCode>
+    <City>Zürich</City>
+    <Country>CH</Country>
+    <GeoLat>47.3888</GeoLat>
+    <GeoLng>8.51864</GeoLng>
+    <EventName>Gary Bartz &amp; Maisha @ Moods, Zürich</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/gary-bartz-maisha-20200411-2030-moods-zurich</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2658965">
+    <Artist filter="?artist=853930">Nathan Fake</Artist>
+    <Date duration="1">11/07/2020</Date>
+    <Time />
+    <Venue>Dachstock</Venue>
+    <Street>Neubrückstrasse 8</Street>
+    <PostalCode>3001</PostalCode>
+    <City>Bern</City>
+    <Country>CH</Country>
+    <GeoLat>46.9476</GeoLat>
+    <GeoLng>7.44043</GeoLng>
+    <EventName>Nathan Fake @ Dachstock Bern</EventName>
+    <Url />
+    <TicketUrl>https://www.petzi.ch/de/events/44677-dachstock-nathan-fake-mark-lando-vs-tesdorpf-ina-valeska</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653738">
+    <Artist filter="?artist=1194215">Gary Bartz &amp; Maisha</Artist>
+    <Date duration="1">11/09/2020</Date>
+    <Time />
+    <Venue>Club Bahnhof Ehrenfeld</Venue>
+    <Street>Bartholomäus-Schink-Str. 65/67</Street>
+    <PostalCode>50825</PostalCode>
+    <City>Köln</City>
+    <Country>DE</Country>
+    <GeoLat>50.9518</GeoLat>
+    <GeoLng>6.91641</GeoLng>
+    <EventName>Gary Bartz &amp; Maisha @ CBE, Köln</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/31QQSU2</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653882">
+    <Artist filter="?artist=1137157">Bbno$</Artist>
+    <Date duration="1">11/11/2020</Date>
+    <Time />
+    <Venue>Exil</Venue>
+    <Street>Hardstrasse 245</Street>
+    <PostalCode>8005</PostalCode>
+    <City>Zürich</City>
+    <Country>CH</Country>
+    <GeoLat>47.3882</GeoLat>
+    <GeoLng>8.51947</GeoLng>
+    <EventName>bbno$ @ Exil, Zürich</EventName>
+    <Url />
+    <TicketUrl>https://www.starticket.ch/de/tickets/bbno-20200411-2000-exil-zurich</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2655704">
+    <Artist filter="?artist=1192303">The Bloody Beetroots</Artist>
+    <Date duration="1">11/20/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>The Bloody Beetroots @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.residentadvisor.net/events/1405885</TicketUrl>
+    <TicketOnSaleDate>2020-02-03T00:00:00Z</TicketOnSaleDate>
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653518">
+    <Artist filter="?artist=1058056">Kazy Lambist</Artist>
+    <Date duration="1">11/22/2020</Date>
+    <Time />
+    <Venue>Hebebühne</Venue>
+    <Street>Barnerstraße 30</Street>
+    <PostalCode>22765</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5568</GeoLat>
+    <GeoLng>9.93022</GeoLng>
+    <EventName>Kazy Lambist  @Hebebühne, Hamburg</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2E0z2mh</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653525">
+    <Artist filter="?artist=1058056">Kazy Lambist</Artist>
+    <Date duration="1">11/23/2020</Date>
+    <Time />
+    <Venue>Zoom</Venue>
+    <Street>Brönnerstraße 5-9</Street>
+    <PostalCode>60313</PostalCode>
+    <City>Frankfurt am Main</City>
+    <Country>DE</Country>
+    <GeoLat>50.1154</GeoLat>
+    <GeoLng>8.6831</GeoLng>
+    <EventName>Kazy Lambist  @ Zoom, Frankfurt</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2RB6sjh</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653536">
+    <Artist filter="?artist=1058056">Kazy Lambist</Artist>
+    <Date duration="1">11/24/2020</Date>
+    <Time />
+    <Venue>Yuca</Venue>
+    <Street>Club Bahnhof Ehrenfeld</Street>
+    <PostalCode>50825</PostalCode>
+    <City>Köln</City>
+    <Country>DE</Country>
+    <GeoLat>50.9518</GeoLat>
+    <GeoLng>6.91641</GeoLng>
+    <EventName>Kazy Lambist @ Yuca, Köln</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2LzN6qY</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2656281">
+    <Artist filter="?artist=681407">Beardyman</Artist>
+    <Date duration="1">11/24/2020</Date>
+    <Time />
+    <Venue>MS Stubnitz</Venue>
+    <Street>Kirchenpauerkai Baakenhafen</Street>
+    <PostalCode>20457</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.537</GeoLat>
+    <GeoLng>10.0112</GeoLng>
+    <EventName>Beardyman @ MS Stubnitz, Hamburg</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/39biuoP</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2653559">
+    <Artist filter="?artist=1058056">Kazy Lambist</Artist>
+    <Date duration="1">11/25/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Kazy Lambist  @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2rsbAvu</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2656287">
+    <Artist filter="?artist=681407">Beardyman</Artist>
+    <Date duration="1">11/25/2020</Date>
+    <Time />
+    <Venue>Alte Feuerwache</Venue>
+    <Street>Brückenstr. 2</Street>
+    <PostalCode>68167</PostalCode>
+    <City>Mannheim</City>
+    <Country>DE</Country>
+    <GeoLat>49.4954</GeoLat>
+    <GeoLng>8.47386</GeoLng>
+    <EventName>Beardyman @ Mannheim, Alte Feuerwache</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/33FrAHz</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2656292">
+    <Artist filter="?artist=681407">Beardyman</Artist>
+    <Date duration="1">11/26/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Beardyman @ Gretchen</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/3dmV4jw</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2658946">
+    <Artist filter="?artist=885821">Actress</Artist>
+    <Date duration="1">11/27/2020</Date>
+    <Time />
+    <Venue>Blitz</Venue>
+    <Street>Museumsinsel 1</Street>
+    <PostalCode>80538</PostalCode>
+    <City>München</City>
+    <Country>DE</Country>
+    <GeoLat>48.1313</GeoLat>
+    <GeoLng>11.5855</GeoLng>
+    <EventName>Actress Live/AV @ Frameworks Festival München</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2658948">
+    <Artist filter="?artist=1193717">Katie Gately</Artist>
+    <Date duration="1">11/27/2020</Date>
+    <Time />
+    <Venue>Blitz</Venue>
+    <Street>Museumsinsel 1</Street>
+    <PostalCode>80538</PostalCode>
+    <City>München</City>
+    <Country>DE</Country>
+    <GeoLat>48.1313</GeoLat>
+    <GeoLng>11.5855</GeoLng>
+    <EventName>Katie Gately @ Frameworks Festival München</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2663450">
+    <Artist filter="?artist=1138212">Seed Ensemble</Artist>
+    <Date duration="1">11/29/2020</Date>
+    <Time />
+    <Venue>Gretchen Club</Venue>
+    <Street>Obentrautstr. 19-21</Street>
+    <PostalCode>10963</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.4963</GeoLat>
+    <GeoLng>13.3882</GeoLng>
+    <EventName>Seed Ensemble @ Gretchen, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.eventim.de/event/seed-ensemble-gretchen-12566740/?affiliate=GMD</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657298">
+    <Artist filter="?artist=839914">Jordan Mackampa</Artist>
+    <Date duration="1">12/14/2020</Date>
+    <Time />
+    <Venue>Hansa 39</Venue>
+    <Street>Hansastraße 39</Street>
+    <PostalCode>81373</PostalCode>
+    <City>München</City>
+    <Country>DE</Country>
+    <GeoLat>48.1285</GeoLat>
+    <GeoLng>11.5347</GeoLng>
+    <EventName>Jordan Mackampa @ Hansa 39, München</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2PcHDc7</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657302">
+    <Artist filter="?artist=839914">Jordan Mackampa</Artist>
+    <Date duration="1">12/15/2020</Date>
+    <Time />
+    <Venue>Zoom</Venue>
+    <Street>Brönnerstraße 5-9</Street>
+    <PostalCode>60313</PostalCode>
+    <City>Frankfurt am Main</City>
+    <Country>DE</Country>
+    <GeoLat>50.1154</GeoLat>
+    <GeoLng>8.6831</GeoLng>
+    <EventName>Jordan Mackampa  @ Zoom, Frankfurt</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/36ljOnW</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657306">
+    <Artist filter="?artist=839914">Jordan Mackampa</Artist>
+    <Date duration="1">12/16/2020</Date>
+    <Time />
+    <Venue>Club Bahnhof Ehrenfeld</Venue>
+    <Street>Bartholomäus-Schink-Str. 65/67</Street>
+    <PostalCode>50825</PostalCode>
+    <City>Köln</City>
+    <Country>DE</Country>
+    <GeoLat>50.9518</GeoLat>
+    <GeoLng>6.91641</GeoLng>
+    <EventName>Jordan Mackampa @ CBE, Köln</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2YGk0f1</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657330">
+    <Artist filter="?artist=839914">Jordan Mackampa</Artist>
+    <Date duration="1">12/17/2020</Date>
+    <Time />
+    <Venue>Bahnhof Pauli</Venue>
+    <Street>Spielbudenplatz 21-22</Street>
+    <PostalCode>20539</PostalCode>
+    <City>Hamburg</City>
+    <Country>DE</Country>
+    <GeoLat>53.5492</GeoLat>
+    <GeoLng>9.96426</GeoLng>
+    <EventName>Jordan Mackampa @ Bahnhof Pauli, Hamburg</EventName>
+    <Url />
+    <TicketUrl>https://www.fkpscorpio.com/de/veranstaltungen/ticketshop/?sprache=0&amp;standort=TIX&amp;veranst_nr=14262</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2657317">
+    <Artist filter="?artist=839914">Jordan Mackampa</Artist>
+    <Date duration="1">12/18/2020</Date>
+    <Time />
+    <Venue>silent green Kulturquartier</Venue>
+    <Street>Gerichtstraße 35</Street>
+    <PostalCode>13347</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.5457</GeoLat>
+    <GeoLng>13.3664</GeoLng>
+    <EventName>Jordan Mackampa @ Silent Green, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://www.listen.berlin/produkte/20913-tickets-jordan-mackampa-silent-green-berlin-am-18-12-2020</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2655982">
+    <Artist filter="?artist=1195760">Holden &amp; Zimpel</Artist>
+    <Date duration="1">04/14/2021</Date>
+    <Time />
+    <Venue>Berghain</Venue>
+    <Street>Am Wriezener Bahnhof</Street>
+    <PostalCode>10243</PostalCode>
+    <City>Berlin</City>
+    <Country>DE</Country>
+    <GeoLat>52.5111</GeoLat>
+    <GeoLng>13.4414</GeoLng>
+    <EventName>Holden &amp; Zimpel @ Berghain, Berlin</EventName>
+    <Url />
+    <TicketUrl>https://bit.ly/2vJa7Dp</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2677873">
+    <Artist filter="?artist=645366">Steve Aoki</Artist>
+    <Date duration="1">07/17/2021</Date>
+    <Time />
+    <Venue>Deichbrand Festival</Venue>
+    <Street>Walter-Carstens-Straße 1</Street>
+    <PostalCode>27639</PostalCode>
+    <City>Wurster Nordseeküste</City>
+    <Country>DE</Country>
+    <GeoLat>53.7615</GeoLat>
+    <GeoLng>8.67277</GeoLng>
+    <EventName>Steve Aoki @ Deichbrand Festival, Cuxhafen</EventName>
+    <Url />
+    <TicketUrl>https://www.deichbrand.de/tickets/alle-tickets</TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+  <show id="2675861">
+    <Artist filter="?artist=863489">Altin Gün</Artist>
+    <Date duration="1">08/07/2021</Date>
+    <Time />
+    <Venue>Appletree Festival</Venue>
+    <Street>Lüdersbusch 2</Street>
+    <PostalCode>49356</PostalCode>
+    <City>Diepholz</City>
+    <Country>DE</Country>
+    <GeoLat>52.5998</GeoLat>
+    <GeoLng>8.38836</GeoLng>
+    <EventName>Altin Gün @ Appletree Garden Festival</EventName>
+    <Url />
+    <TicketUrl></TicketUrl>
+    <TicketOnSaleDate />
+    <TicketSoldOut>false</TicketSoldOut>
+    <Production />
+    <Status id="7831">D</Status>
+  </show>
+</shows>

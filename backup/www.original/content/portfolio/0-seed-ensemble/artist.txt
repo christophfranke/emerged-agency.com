@@ -1,0 +1,30 @@
+Title: seed.
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=140></th>
+    <td><p>Territory: DE | AT | CH</p></td>
+  </tr>
+</table>   
+****     
+Formerly know as SEED Ensemble, seed. is a Mercury Award nominated ten-piece band led by alto saxophonist and composer Cassie Kinoshi.
+
+The band presents a stellar line-up featuring some of London’s most up-and-coming young jazz musicians. West African and Caribbean influenced groove, seed. explores a blend of genres through original compositions and improvisation. Their debut release Driftglass (Jazz Re:freshed, 2019) features the track Afronaut (feat. XANA) which won the Ivors Academy Award 2018 (formerly known as BASCA, British Composer Award) for Jazz Composition for Large Ensemble.
+
+<iframe src="https://open.spotify.com/embed/artist/7Fckv9o1zcguKXXwRWKkkI" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/seedensemble

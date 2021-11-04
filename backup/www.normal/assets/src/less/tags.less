@@ -1,0 +1,54 @@
+
+
+body, html{
+	margin: 0;
+	padding: 0;
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-style: normal;
+    background-color: @white;
+    font-size: 18px;
+    @media @medium{
+    	font-size: 16px;
+    }
+}
+
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+a{
+	color: @black;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+p{
+	font-weight: lighter;
+	color: @grey;
+	line-height: 1.4em;
+	@media @small{
+		color: @black;
+	}
+}
+
+p.black{
+	color: @black;
+}
+
+h1{
+	font-weight: lighter;
+}
+
+h2{
+	font-weight: lighter;
+}
+
+hr{
+	border: 0;
+	border-top: 1px solid @grey;
+}

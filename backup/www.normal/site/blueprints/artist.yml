@@ -1,0 +1,24 @@
+title: Artist
+icon: music
+files: images
+fields:
+  title:
+    label: Title
+    type:  text
+  toplinks:
+    label: External Media Links (next to artist picture)
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: url
+  text:
+    label: Text
+    type:  textarea
+  bottomlinks:
+    label: External Media Links (below text)
+    type: structure
+    fields:
+      url:
+        label: URL
+        type: url

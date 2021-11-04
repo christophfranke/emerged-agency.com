@@ -1,0 +1,8 @@
+title: Home
+icon: home
+pages: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text

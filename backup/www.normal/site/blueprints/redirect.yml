@@ -1,0 +1,11 @@
+title: Redirect
+icon: external-link
+pages: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  target:
+    label: Redirect Target
+    type: page

@@ -1,0 +1,28 @@
+Title: Bambii
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=140></th>
+    <td><p>Territory: europe</p></td>
+  </tr>
+</table>      
+****       
+Kirsten Azan, baptized Bambii, is one of Canada’s most compelling DJs. Whether online or on dancefloors, her political and musical vernacular give credence to dance music’s ever expanding reach, the relationships it helps forge between individuals, cultures and spaces. As proof, she’s completed her 3rd European tour as a solo artist and has also toured Asia. She’s supported some of the world’s most relevant artists—Mykki Blanco, Kelela, and Bbymutha just to name a few. Currently she is working on her debut EP and at home, her notorious event series ‘JERK’ is still hitting capacity and is now also touring around North America. Elsewhere, her work has been publicized in DAZED, Wonderland, Vogue, and Metal Magazine.
+
+<iframe src="https://open.spotify.com/embed/artist/6kf69CwzgodrETRgzcjX95" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/bam_bii

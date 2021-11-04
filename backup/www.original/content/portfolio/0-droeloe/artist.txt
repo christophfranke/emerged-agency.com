@@ -1,0 +1,29 @@
+Title: DROELOE
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=150></th>
+    <td><p>Territory: DE | CH</p></td>
+  </tr>
+</table>            
+****       
+
+Hailing from The Netherlands, DROELOE (pronounced drew-lou) is comprised of music producer and composer Vincent Rooijers. DROELOE is a multidimensional project that creates a hybrid audiovisual experience.  Weaving sonically progressive music and visually elaborate art, DROELOE seamlessly crafts cinematic soundscapes and visual projections that tell stories and unfold like a piece of art. Recognized in Billboard Dance’s inaugural Ones to Watch series, who noted that his style is “dynamic, compelling and drenched in otherworldly emotions,” DROELOE is today one of the most exciting live art projects in the scene.
+
+<iframe src="https://open.spotify.com/embed/artist/0u18Cq5stIQLUoIaULzDmA" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/droeloemusic

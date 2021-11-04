@@ -1,0 +1,28 @@
+Title: G Jones
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=180></th>
+    <td><p>Territory: DE</p></td>
+  </tr>
+</table>               
+****     
+Greg Jones, who is best known as G Jones, has been a pioneer in the electronic music scene since the early 2010s. He first hit the pavement in the underground bass scene in Santa Cruz and the bay area and he has been dominating ever since. G Jones has been collaborated with some of bass music's biggest artists including Bassnectar, Eprom and DJ Shadow. G Jones has performed at some of the biggest festival stages such as Electric Forest, Lollapalooza, EDC Las Vegas, Ultra Miami, Bonaroo and many more. With the release of his highly acclaimed album " The Inaffable Truth" in October 2018 and his subsequent tour, G Jones is on a roll.
+
+<iframe src="https://open.spotify.com/embed/artist/0gXx2aQ2mfovDfqCw10MQC" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/gjonesbass

@@ -1,0 +1,16 @@
+Title: Quantic
+
+----
+
+Toplinks: 
+
+----
+
+Text: The dance orientated sound of British musician, producer and DJ Will “Quantic” Holland has enchanted fans and tastemakers across the world for nearly two decades, showcasing his artistry and rare ability to intertwine the electronic with the orchestral. Now based in Brooklyn, New York after recent years along the Colombian Pacific Coast, Holland has developed a sound that embraces his own love of travel, bridging gaps across cultures and genres.
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/quantic

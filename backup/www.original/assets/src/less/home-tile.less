@@ -1,0 +1,82 @@
+
+@transition-time: 0.5s;
+.home-tile{
+	width: @content-width/5;
+	height: @content-width/5;
+	@media @medium{
+		width: @content-width/4;
+		height: @content-width/4;
+	}
+	@media @small{
+		width: 48vw;
+		height: 48vw;
+	}
+	display: none;
+	&.visible{
+		display: block;
+	}
+	.js-enabled &{
+		display: block;
+	}
+	position: relative;
+	line-height: 10px;
+	background-color: @black;
+	a{
+		width: 100%;
+		height: 100%;
+		display: block;
+	}
+	img{
+		border: 0;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+	.artist-name{
+		position: absolute;
+		transition: opacity @transition-time;
+		line-height: normal;
+		&.label{
+			font-size: 12px;
+			bottom: 5%;
+			right: 5%;
+			max-width: 65%;
+			padding: 8px;
+			background-color: @transparent-grey;
+			color: @white;
+			opacity: 1;
+			text-transform: uppercase;
+			text-align: right;
+		}
+		&.overlay{
+			opacity: 0;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: @transparent-white;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			h2{			
+				text-transform: uppercase;
+				color: @black;
+				font-weight: lighter;
+				text-align: center;
+			}
+		}
+	}
+}
+
+.home-tile:hover{
+	.artist-name{
+		&.label{
+			opacity: 0;
+		}
+		&.overlay{
+			opacity: 1;
+		}
+	}
+}

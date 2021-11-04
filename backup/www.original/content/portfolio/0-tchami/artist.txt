@@ -1,0 +1,28 @@
+Title: Tchami
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=150></th>
+    <td><p>Territory: DE | CH</p></td>
+  </tr>
+</table>           
+****     
+French DJ and producer Tchami is a pioneer in the ever-growing future house movement. The widely recognized sub-genre can largely be accredited to the Parisian producer and his constant pushing of the musical envelope. He is best known for his enigmatic future house tracks like "Afterlife" and "Adieu", as well as his massively successful first single "Promises." Tchami has toured extensively supporting the likes of Skrillex, Diplo and DJ Snake. In addition to his own tours, Tchami has played top festivals across the globe including Ultra Music Festival, Electric Daisy Carnival, HARD Summer, Electric Zoo, Tomorrowland, Creamfields, Coachella, Firefly, Lollapalooza, Spring Awakening, Electric Forest, TomorrowWorld, VELD, and more. As the founder of the CONFESSION Label, Tchami has created a platform to promote artists including Malaa, Mercer, AC Slater, 4B, Madskies, Dombresky, Brohug, Loge21, Angelz, Wax Motif, Dillon Nathaniel and Dustycloud, independently on a global scale.
+
+<iframe src="https://open.spotify.com/embed/artist/1KpCi9BOfviCVhmpI4G2sY" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/iamtchami

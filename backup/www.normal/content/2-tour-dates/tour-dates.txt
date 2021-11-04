@@ -1,0 +1,13 @@
+Title: Tour Dates
+
+----
+
+Url: http://client.systemonesoftware.com/emerged/xml
+
+----
+
+Location: http://client.systemonesoftware.com/emerged/xml
+
+----
+
+Cachetime: 15

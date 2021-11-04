@@ -1,0 +1,26 @@
+Title:
+
+Ekali
+
+----
+
+Toplinks:
+
+
+----
+
+Text:
+
+Ekali is a Canadian instrumentalist and producer from Vancouver, BC. He started making electronic music in 2014, and since has been making big waves in the electronic community; from his visceral, captivating original work and collaborations to his thundering club remixes.
+Ekali was accepted as Canada’s sole participant in the Red Bull Music Academy in 2014. Since then, he’s gone on to receive over twenty million streams, tour every corner of the world & receive a writing credit on Drake’s “If You’re Reading This It’s Too Late”. His unique sound has earned him a loyal following worldwide, and cemented him as one of electronic music’s most promising artists.
+
+----
+
+Bottomlinks:
+
+-
+  url: >
+    https://soundcloud.com/ekalimusic
+
+----
+

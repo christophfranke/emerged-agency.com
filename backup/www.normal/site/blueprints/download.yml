@@ -1,0 +1,11 @@
+title: Download
+icon: download
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  info:
+    label: To make files downloadable just upload them to the files area in the left.
+    type: info

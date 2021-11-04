@@ -1,0 +1,34 @@
+Title: KRANE
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=140></th>
+    <td><p>Territory: DE | AT | CH</p></td>
+  </tr>
+</table>    
+****     
+KRANE is known for his distinct and inventive blend of electronic, hip-hop & dance music. 
+His early days of online demos lead way to acclaimed singles, remixes, EPs, albums, and a celebrated collaborative imprint and series called, SESSIONS. 
+
+In 2015 he released "Put it Down" with TOKiMONSTA, featuring Anderson Paak. 
+In early 2016 the "Debris" album was introduced; a collection of B-Sides from recording sessions with Kehlani, J. Cole, Bryson Tiller and others, stabling his first packaged release through Fools Gold Records. 
+The defining year for KRANE came in 2017, debuting singles "Right Here" and "Akira" with producers Keys N Krates and Ekali, along with his highly anticipated full-length album, FALLOUT, eliciting praise from Huffington Post, Billboard, NYLON, and Pop Crush on his versatile and enticing sound. 
+FALLOUT continued through 2018 with a full remix album and sold out headline shows across the US, culminating in festival performances at Ultra and Coachella.
+
+<iframe src="https://open.spotify.com/embed/artist/2aOoD3zsuYforFcDvUpZoH" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/krane

@@ -1,0 +1,16 @@
+Title: Mercer
+
+----
+
+Toplinks: 
+
+----
+
+Text: Through releasing massive club records, playing festivals around the world, the acclaimed French producer Mercer is no stranger to the house music scene. Born in the 80s, Mercer's approach to producing and creating music is influenced by the disco and house music he grew up with. Mercer is known as one of the four members of Pardon My French DJ collective, comprised of himself, DJ Snake, Tchami, and Malaa. His tracks and remixes have amassed millions of streams and his live show has traveled the world, playing major global clubs and festivals.
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/mercer

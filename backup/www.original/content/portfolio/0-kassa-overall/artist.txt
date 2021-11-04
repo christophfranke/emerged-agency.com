@@ -1,0 +1,31 @@
+Title: Kassa Overall
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=140></th>
+    <td><p>Territory: DE | AT | CH</p></td>
+  </tr>
+</table>           
+****     
+Kassa Overall is a jazz musician, emcee, singer, producer and drummer, a product of New York City’s jazz scene who melds avant-garde experimentation with hip-hop production techniques to tilt the nexus of jazz and hip-hop in unmapped directions, reflecting a panoramic musical background from West Coast G-Funk to the sounds of the New York underground.
+In the past two years, Overall has released three critically acclaimed projects: Go Get Ice Cream and Listen to Jazz (2019), I THINK I’M GOOD (February 2020), followed shortly thereafter by a SHADES OF FLU (May 2020), a quarantine mixtape loosely inspired by Madlib’s Shades of Blue. Whatever the experiment, Overall remains faithful to the pocket of jazz drums in the tradition of his mentors, the late Elvin Jones and Billy Hart, with whom he studied at the Oberlin Conservatory of Music.
+Overall has been working at the forefront of jazz for two decades, touring and recording as a sideman drummer with artists as varied as Geri Allen, Steve Coleman, Francis and the Lights, Yoko Ono, Peter Evans, and Gary Bartz. His work as a producer can be heard on albums by Theo Croker (Escape Velocity), Arto Lindsay (Cuidado Madame), and Das Racist (Sit Down, Man). He’s also featured as an emcee and DJ on drummer Terri Lyne Carrington’s 2020 grammy nominated project, The Waiting Game, as well as drummer on Carmen Lundy’s 2020 grammy nominated project, Modern Ancestors.
+Raised in Seattle, Washington, Overall attended Garfield High School, the alma mater of Quincy Jones and Jimi Hendrix. He is currently based in Brooklyn.
+
+<iframe src="https://open.spotify.com/embed/artist/7qzzcFzliEAHMlDA9qaRVf" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/kassaoverall

@@ -1,0 +1,25 @@
+Title: Site Options
+pages: true
+files: false
+fields:
+  title:
+    label: Site Title
+    type:  text
+  facebook:
+    label: Facebook Page
+    type: url
+  soundcloud:
+    label: Soundcloud Page
+    type: url
+  instagram:
+    label: Instagram Page
+    type: url
+  imprint:
+    label: Imprint
+    type: page
+options:
+  preview: true
+  status: true
+  template: true
+  url: true
+  delete: true

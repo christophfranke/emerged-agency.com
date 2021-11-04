@@ -1,0 +1,132 @@
+
+
+nav{
+
+	a{
+		padding: 4px 10px;
+		transition: color 0.5s, background-color 0.5s;
+		color: @black;
+		text-decoration: none;
+		font-weight: lighter;
+		font-size: 1.15rem;
+		&:hover{
+			color: @white;
+			background-color: @black;
+			text-decoration: none;
+		}
+		&.soundcloud:hover{
+			background-color: #ff5300;
+		}
+		&.facebook:hover{
+			background-color: #39579a;
+		}
+		&.instagram:hover {
+		  background: #d6249f;
+		  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+		}
+	}
+
+	&.desktop-menu{
+		@media @small{
+			display: none;
+		}
+		ul{
+			float: right;
+			padding-left: 0;
+			@media @medium{
+				float: none;
+				position: absolute;
+				left: 0;
+				top: 2vw;
+				right: 0;
+				display: flex;
+				justify-content: space-between;
+			}
+			li{
+				display: inline-block;
+				font-size: 1.15rem;
+				@media @medium{
+					padding-left: 0;
+				}
+
+			}
+
+			.instagram:hover {
+				border-radius: 25%;
+			}
+		}
+		.only-mobile{
+			display: none;
+		}
+	}
+
+	&.mobile-menu{
+		z-index: 100;
+		width: 100vw;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-color: @white;
+		display: none;
+		transition: transform 0.7s;
+		transform: translate3D(0, 0, 0) scale3D(0, 0, 1);
+		text-align: center;
+		@media @small{
+			display: block;
+		}
+		ul{
+			padding-top: 60px;
+			margin-bottom: 160px;
+			margin-top: 0;
+   		}
+   		li{
+   			margin-bottom: 12px;
+   			display: block;
+   		}
+   		a{
+   			font-size: 22px;
+   			text-transform: uppercase;
+   		}
+   		overflow: hidden;
+   		&.visible{
+   			transform: translate3D(0, 0, 0) scale3D(1, 1, 1);
+   		}
+   		.top-rule{
+   			margin-top: 58px;
+   		}
+   		.bottom-rule{
+   			position: fixed;
+   			width: 100%;
+		    bottom: 0;
+		    margin-bottom: 58px;
+   		}
+   		.only-desktop{
+   			display: none;
+   		}
+	}
+}
+
+.mobile-menu-button{
+	cursor: pointer;
+	z-index: 101;
+	display: none;
+	padding: 5px;
+	margin-top: -5px;
+	margin-right: -5px;
+	@media @small{
+		display: block;
+	}
+	position: absolute;
+	top: 3vw;
+	right: 0;
+	.fa{
+		font-size: 34px;
+	}
+	transition: color 0.7s, background-color 0.7s;
+	&:hover{
+		color: @white;
+		background-color: @black;
+	}
+}

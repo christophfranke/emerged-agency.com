@@ -1,0 +1,20 @@
+title: Tour Dates
+icon: bus
+files: false
+pages: false
+fields:
+  title:
+    label: Title
+    type:  text
+  location:
+    label: Tour Dates URL
+    type: url
+  cachetime:
+    label: Caching-Time (in minutes)
+    type: number
+    default: 1440
+  explanation:
+    label: Explanation
+    type: info
+    text: >
+      Whenever you update the tour dates in SystemOne, they need *Caching-Time* minutes to update on this website. Why is this? It's Because we are using a local copy of the SystemOne data to assemble the page. That way, whenever a user visits the tour dates, the page can be delivered instantely without waiting for the SystemOne server to tell us about the new tour dates. However, when our local copy is older than *Caching-Time* minutes, we decide to let the user wait a bit and fetch the new data now. If you set *Caching-Time* to 0, that means we always fetch current data from SystemOne (i.e. turning off the cache).

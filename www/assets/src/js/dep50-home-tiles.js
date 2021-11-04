@@ -54,6 +54,7 @@ function Tiles(options){
 
 
 	function updateCSS(){
+		console.log('updating css')
 		//set element css
 		var visibleTiles = 0;
 		for(var i=0; i < tiles.length; i++){

@@ -1,0 +1,28 @@
+Title: Quantic
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=140></th>
+    <td><p>Territory: DE | AT | CH</p></td>
+  </tr>
+</table>         
+****     
+The dance orientated sound of British musician, producer and DJ Will “Quantic” Holland has enchanted fans and tastemakers across the world for nearly two decades, showcasing his artistry and rare ability to intertwine the electronic with the orchestral. Now based in Brooklyn, New York after recent years along the Colombian Pacific Coast, Holland has developed a sound that embraces his own love of travel, bridging gaps across cultures and genres.
+
+<iframe src="https://open.spotify.com/embed/artist/5ZMwoAjeDtLJ0XRwRTgaK8" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/quantic

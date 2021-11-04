@@ -1,0 +1,34 @@
+Title: Dengue Dengue Dengue
+
+----
+
+Toplinks: 
+
+----
+
+Text: 
+
+<table>
+  <tr>
+    <td><a href="mailto:info@emerged-agency.com">[✉ booking request]</a></div></td>
+     <th width=140></th>
+    <td><p>Territory: DE | AT | CH</p></td>
+  </tr>
+</table>           
+****       
+Dengue Dengue Dengue is a Tropical Bass duo. Behind the masks are Felipe
+Salmon and Rafael Pereira, two producers, dj’s and graphic designers from Lima,
+Perú. Their work explores the rhythms from Peru and other parts of the world,
+recreating them electronically by mixing new and old, analog and digital, to create a
+unique sound and visuals. Their musical explorations go from psychedelic cumbia to
+dub, from salsa to footwork, from tribal to techno. Their visual and sound palette
+continues to grow and add new flavours to this melting pot.
+
+<iframe src="https://open.spotify.com/embed/artist/4dNjJV9AjGqHzkZualfhnG" width="1000" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+----
+
+Bottomlinks: 
+
+- 
+  url: https://soundcloud.com/dengue
