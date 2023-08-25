@@ -1,12 +1,14 @@
 
 
 *.sublime-*
-
+.DS_Store
 
 www/main_js.php
 www/style_css.php
 www/assets/public
+www/content/
 www/site/cache/*
+backup/
 
 Dokumentation/
 hack/
