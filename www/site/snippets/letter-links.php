@@ -10,7 +10,7 @@
 	}
 
 	$active_letter = 'all';
-	if(isset($letter))
+	if(!empty($letter))
 		$active_letter = $letter;
 ?>
 <div class="letter-links">
